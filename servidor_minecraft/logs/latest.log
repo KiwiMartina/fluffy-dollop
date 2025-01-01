@@ -1033,3 +1033,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 20:43:37.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [01Jan2025 20:43:37.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Creeper
 [01Jan2025 20:43:43.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[01Jan2025 20:53:03.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Made MotoMoto_7 no longer a server operator]
+[01Jan2025 20:54:04.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[01Jan2025 20:55:52.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[01Jan2025 20:56:13.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 34 [Torch] to ErickJaeger]
+[01Jan2025 20:56:29.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by Skeleton

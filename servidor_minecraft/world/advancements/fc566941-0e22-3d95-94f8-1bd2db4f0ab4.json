@@ -74,6 +74,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
@@ -83,6 +89,12 @@
   "pfm:recipes/furniture/lime_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:48:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 20:17:03 +0000"
@@ -107,6 +125,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-01 20:48:54 +0000"
     },
     "done": true
   },
@@ -167,6 +191,12 @@
   "pfm:recipes/furniture/oak_table_basic": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -273,6 +303,12 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-01-01 20:38:24 +0000"
@@ -321,6 +357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 20:41:39 +0000"
@@ -336,6 +378,12 @@
   "pfm:recipes/furniture/oak_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -363,11 +411,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-01-01 20:43:21 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/furniture/arm_chair_leather": {
     "criteria": {
@@ -378,6 +438,12 @@
   "pfm:recipes/furniture/oak_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 20:47:24 +0000"
     },
     "done": true
   },
@@ -417,6 +483,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:46:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-01 20:21:48 +0000"
@@ -426,6 +504,12 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -450,6 +534,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -531,6 +621,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2025-01-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
@@ -546,6 +648,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -570,6 +678,12 @@
   "pfm:recipes/furniture/purple_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -633,9 +747,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-01 20:46:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair_classic": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -795,6 +921,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
@@ -825,9 +957,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -909,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 20:17:03 +0000"
@@ -933,6 +1083,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-01 20:38:24 +0000"
@@ -945,9 +1101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -1071,6 +1239,18 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_tape_glass": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 20:47:24 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_mutton": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-01 20:46:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-01-01 20:38:24 +0000"
@@ -1113,6 +1293,18 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_tape": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 20:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-01 20:23:03 +0000"
@@ -1125,9 +1317,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
@@ -1215,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 20:47:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 20:41:39 +0000"
@@ -1293,6 +1503,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-01 20:45:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/potions": {
     "criteria": {
       "has_item": "2025-01-01 20:42:27 +0000"
@@ -1341,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 20:42:43 +0000"
@@ -1356,6 +1578,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-01 20:48:54 +0000"
     },
     "done": true
   },
@@ -1380,6 +1608,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-01-01 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:46:25 +0000"
     },
     "done": true
   },
@@ -1428,6 +1662,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-01-01 20:47:39 +0000"
     },
     "done": true
   },
@@ -1494,6 +1734,18 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:49:08 +0000"
     },
     "done": true
   },
