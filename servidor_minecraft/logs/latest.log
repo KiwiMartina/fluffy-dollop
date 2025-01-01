@@ -1061,3 +1061,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 22:04:40.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
 [01Jan2025 22:05:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [This Must be a Sign!]
 [01Jan2025 22:08:54.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck with lightning by Lightning Dragon
+[01Jan2025 22:20:15.633] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[01Jan2025 22:20:27.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[01Jan2025 22:21:39.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Sweet Dreams]
