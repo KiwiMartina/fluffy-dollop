@@ -5421,123 +5421,15 @@
     },
     "done": true
   },
-  "pfm:recipes/furniture/spruce_kitchen_sink": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-01-01 21:02:32 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 20:21:02 +0000"
     },
     "done": true
   },
-  "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-01-01 20:21:31 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-01-01 20:21:02 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_raw_table_log": {
-    "criteria": {
-      "has_log": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-01-01 20:21:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_log_stool": {
-    "criteria": {
-      "has_log": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-01-01 21:02:32 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2025-01-01 21:04:12 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/cooked_mutton": {
-    "criteria": {
-      "has_cooked_mutton": "2025-01-01 20:21:31 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-01 20:35:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-01 20:35:47 +0000"
     },
     "done": true
   },
@@ -5553,15 +5445,129 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:21:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-01 20:21:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_mutton": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-01 20:21:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-01 20:21:31 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 20:35:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-01 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-01 21:02:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-01 21:02:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-01-01 21:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-01 22:08:03 +0000"
     },
     "done": true
   },

@@ -1044,3 +1044,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 21:13:12.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [01Jan2025 21:13:12.693] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [01Jan2025 21:13:12.699] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[01Jan2025 21:49:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Not Today, Thank You]
+[01Jan2025 21:56:34.581] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1339, y=105, z=731}
+[01Jan2025 21:56:34.586] [pool-9-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Jan2025 21:56:38.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3664ms or 73 ticks behind
+[01Jan2025 21:56:38.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved too quickly! -8.087836913559613,-2.176759275064242,5.9692522947964335
+[01Jan2025 21:58:00.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was energized by Lightning Dragon
+[01Jan2025 21:58:46.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck with lightning by Lightning Dragon
+[01Jan2025 21:58:46.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved wrongly!
+[01Jan2025 21:59:27.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck with lightning by Lightning Dragon
+[01Jan2025 21:59:41.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[01Jan2025 21:59:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[01Jan2025 22:00:04.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:53105] logged in with entity id 53662 at (1135.1841473824047, -43.0, 418.69999998807907)
+[01Jan2025 22:00:04.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[01Jan2025 22:00:18.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck with lightning by Lightning Dragon
+[01Jan2025 22:04:40.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[01Jan2025 22:05:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [This Must be a Sign!]
