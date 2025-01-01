@@ -1041,3 +1041,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 21:03:44.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Acquire Hardware]
 [01Jan2025 21:05:15.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Isn't It Iron Pick]
 [01Jan2025 21:05:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Diamonds!]
+[01Jan2025 21:13:12.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[01Jan2025 21:13:12.693] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[01Jan2025 21:13:12.699] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
