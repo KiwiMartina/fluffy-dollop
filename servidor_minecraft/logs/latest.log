@@ -1025,3 +1025,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 20:23:21.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2damagetracker/contents/attack/LogHelper$Type
 [01Jan2025 20:24:00.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Made MotoMoto_7 a server operator]
 [01Jan2025 20:24:20.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[01Jan2025 20:39:20.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[01Jan2025 20:41:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Monster Hunter]
+[01Jan2025 20:41:48.738] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[01Jan2025 20:41:49.137] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[01Jan2025 20:42:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Crops of the Wild]
+[01Jan2025 20:43:37.886] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[01Jan2025 20:43:37.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Creeper
+[01Jan2025 20:43:43.156] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult

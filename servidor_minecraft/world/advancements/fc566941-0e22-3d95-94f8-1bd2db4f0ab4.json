@@ -86,6 +86,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-01 20:16:58 +0000"
@@ -122,6 +128,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
@@ -131,6 +143,12 @@
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
     },
     "done": true
   },
@@ -164,9 +182,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-01-01 20:42:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -179,6 +209,18 @@
   "pfm:recipes/furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-01 20:42:27 +0000"
     },
     "done": true
   },
@@ -224,6 +266,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-01 20:41:56 +0000",
+      "minecraft:zombie": "2025-01-01 20:41:15 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
@@ -266,6 +321,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
@@ -281,6 +342,18 @@
   "pfm:recipes/furniture/blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
     },
     "done": true
   },
@@ -317,6 +390,12 @@
   "pfm:recipes/furniture/stone_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
     },
     "done": true
   },
@@ -392,6 +471,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:48 +0000"
@@ -407,6 +498,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -488,6 +585,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-01-01 20:16:55 +0000"
@@ -503,6 +606,12 @@
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
     },
     "done": true
   },
@@ -530,6 +639,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
@@ -548,9 +663,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-01 20:25:59 +0000"
     },
     "done": true
   },
@@ -590,9 +723,27 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-01 20:42:27 +0000"
     },
     "done": true
   },
@@ -605,6 +756,18 @@
   "pfm:recipes/furniture/oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-01 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -623,6 +786,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-01 20:13:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:42:43 +0000"
     },
     "done": true
   },
@@ -650,6 +819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
@@ -659,6 +834,12 @@
   "pfm:recipes/furniture/light_gray_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -734,9 +915,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_gray_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -770,6 +987,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/yellow_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
@@ -782,9 +1005,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-01-01 20:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-01 20:41:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-01 20:42:43 +0000"
     },
     "done": true
   },
@@ -818,9 +1065,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-01-01 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-01 20:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-01 20:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -830,9 +1101,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-01 20:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-01 20:23:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:42:27 +0000"
     },
     "done": true
   },
@@ -872,9 +1161,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 20:25:59 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -902,9 +1203,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -920,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
@@ -929,6 +1254,12 @@
   "pfm:recipes/furniture/oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-01 20:41:39 +0000"
     },
     "done": true
   },
@@ -944,6 +1275,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-01 20:41:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
@@ -956,9 +1293,27 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-01-01 20:42:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:38:24 +0000"
     },
     "done": true
   },
@@ -980,9 +1335,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:42:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-01 20:41:39 +0000"
     },
     "done": true
   },
@@ -1010,6 +1383,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-01 20:41:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-01-01 20:16:55 +0000"
@@ -1033,6 +1418,12 @@
       "has_stick": "2025-01-01 20:17:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-01 20:35:04 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
@@ -1064,6 +1455,30 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-01 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 20:42:43 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-01 20:16:58 +0000"
@@ -1076,6 +1491,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-01 20:12:20 +0000"
@@ -1085,6 +1506,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-01 20:42:27 +0000"
     },
     "done": true
   },
