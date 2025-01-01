@@ -5566,9 +5566,87 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
     },
     "done": true
   },
@@ -5578,9 +5656,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-01 22:58:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
     },
     "done": true
   },
@@ -5590,9 +5698,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-01-01 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
     },
     "done": true
   },
@@ -5608,9 +5734,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_birch_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
     },
     "done": true
   },
@@ -5632,9 +5776,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
     },
     "done": true
   },
@@ -5644,15 +5800,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_birch_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/rope": {
     "criteria": {
       "forge:crops/flax": "2025-01-01 23:26:52 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-01 22:56:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
     },
     "done": true
   },
@@ -5668,15 +5854,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/doormat_2": {
     "criteria": {
       "forge:crops/flax": "2025-01-01 23:26:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:46:19 +0000"
     },
     "done": true
   },
@@ -5692,9 +5902,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
     },
     "done": true
   },
@@ -5722,9 +5944,69 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-01-01 23:21:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-01 23:36:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
     },
     "done": true
   },
@@ -5734,15 +6016,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-01 22:55:51 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-01 23:36:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/strings": {
     "criteria": {
       "has_flax": "2025-01-01 23:26:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
     },
     "done": true
   },
@@ -5761,6 +6067,24 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-01 23:36:40 +0000"
     },
     "done": true
   },
