@@ -69,12 +69,14 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-01-01 21:54:03 +0000",
       "minecraft:beach": "2025-01-01 20:06:26 +0000",
+      "minecraft:mangrove_swamp": "2025-01-01 22:42:03 +0000",
       "minecraft:sparse_jungle": "2025-01-01 20:19:01 +0000",
       "minecraft:lukewarm_ocean": "2025-01-01 22:35:40 +0000",
       "minecraft:river": "2025-01-01 22:12:03 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:57:26 +0000",
       "minecraft:forest": "2025-01-01 22:07:44 +0000",
       "minecraft:ocean": "2025-01-01 20:12:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-01 22:46:43 +0000",
       "minecraft:deep_dark": "2025-01-01 21:08:28 +0000",
       "minecraft:savanna": "2025-01-01 21:08:13 +0000",
       "minecraft:plains": "2025-01-01 20:10:45 +0000"
@@ -549,6 +551,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-01 22:44:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:48 +0000"
@@ -991,6 +999,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-01-01 22:44:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-01 20:25:59 +0000"
@@ -1234,6 +1248,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 20:57:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-01 22:43:46 +0000"
     },
     "done": true
   },
@@ -2065,6 +2085,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-01 22:44:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-01 22:28:26 +0000"
@@ -2521,6 +2547,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-01 22:44:19 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
     "criteria": {
       "has_diamond": "2025-01-01 21:05:25 +0000"
@@ -2716,6 +2748,12 @@
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-01 22:44:19 +0000"
     },
     "done": true
   },
@@ -3178,6 +3216,12 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-01-01 22:44:44 +0000"
     },
     "done": true
   },
@@ -3689,6 +3733,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-01 22:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-01 21:02:49 +0000"
@@ -3698,6 +3748,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-01 22:22:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-01-01 22:44:44 +0000"
     },
     "done": true
   },
