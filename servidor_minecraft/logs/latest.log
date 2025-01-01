@@ -1215,3 +1215,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 22:59:08.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.583203742939531,0.0,-0.7236255935858935
 [01Jan2025 22:59:08.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.183634416197492,0.0,-0.7050710911862552
 [01Jan2025 22:59:08.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 14.784065089455453,0.0,-0.6865165887866169
+[01Jan2025 23:02:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 23:04:04.686] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[01Jan2025 23:04:04.686] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Jan2025 23:04:04.687] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[01Jan2025 23:04:04.687] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Jan2025 23:04:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Ghost
+[01Jan2025 23:04:34.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Who You Gonna Call?]
+[01Jan2025 23:05:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np has made the advancement [Crops of the Wild]

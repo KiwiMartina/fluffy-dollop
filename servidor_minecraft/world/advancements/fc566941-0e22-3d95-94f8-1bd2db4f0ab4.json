@@ -76,6 +76,7 @@
       "minecraft:dripstone_caves": "2025-01-01 20:57:26 +0000",
       "minecraft:forest": "2025-01-01 22:07:44 +0000",
       "minecraft:ocean": "2025-01-01 20:12:23 +0000",
+      "minecraft:windswept_savanna": "2025-01-01 23:03:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-01 22:46:43 +0000",
       "minecraft:deep_dark": "2025-01-01 21:08:28 +0000",
       "minecraft:savanna": "2025-01-01 21:08:13 +0000",
@@ -554,6 +555,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 23:05:26 +0000"
     },
     "done": true
   },
@@ -1222,6 +1229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-01-01 23:05:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-01-01 21:10:00 +0000"
@@ -1363,6 +1376,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-01-01 23:05:47 +0000"
     },
     "done": true
   },
@@ -1582,6 +1601,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-01-01 23:05:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-01-01 20:16:55 +0000"
@@ -1723,6 +1748,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-01-01 23:05:47 +0000"
     },
     "done": true
   },
@@ -2254,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-01-01 23:05:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-01-01 22:33:10 +0000"
@@ -2317,6 +2354,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-01 20:21:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-01 23:05:47 +0000"
     },
     "done": true
   },
@@ -2512,6 +2555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 23:05:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-01 21:35:53 +0000"
@@ -2683,6 +2732,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 22:33:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-01 23:05:47 +0000"
     },
     "done": true
   },
@@ -2887,6 +2942,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-01-01 21:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-01 23:05:47 +0000"
     },
     "done": true
   },
@@ -3289,6 +3350,12 @@
   "pfm:recipes/furniture/oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 23:05:26 +0000"
     },
     "done": true
   },
@@ -3769,6 +3836,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-01-01 20:38:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-01 23:04:34 +0000"
     },
     "done": true
   },

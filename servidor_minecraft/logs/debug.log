@@ -12605,3 +12605,76 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 22:59:08.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.183634416197492,0.0,-0.7050710911862552
 [01Jan2025 22:59:08.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 14.784065089455453,0.0,-0.6865165887866169
 [01Jan2025 22:59:12.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[01Jan2025 23:02:15.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 23:02:17.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[01Jan2025 23:02:17.190] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[01Jan2025 23:02:52.991] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[01Jan2025 23:02:54.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[01Jan2025 23:02:55.103] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[01Jan2025 23:02:58.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[01Jan2025 23:02:58.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[01Jan2025 23:02:58.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[01Jan2025 23:03:02.617] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[01Jan2025 23:03:11.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:03:11.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:03:21.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[01Jan2025 23:03:46.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[01Jan2025 23:03:46.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[01Jan2025 23:03:46.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/farm_melon
+[01Jan2025 23:03:46.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[01Jan2025 23:03:46.073] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[01Jan2025 23:03:46.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[01Jan2025 23:03:46.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[01Jan2025 23:03:46.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[01Jan2025 23:03:46.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[01Jan2025 23:03:46.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[01Jan2025 23:03:46.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[01Jan2025 23:03:46.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[01Jan2025 23:03:57.042] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[01Jan2025 23:03:57.060] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabtwo
+[01Jan2025 23:03:59.785] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
+[01Jan2025 23:03:59.840] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[01Jan2025 23:03:59.859] [Worker-Main-24/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_2
+[01Jan2025 23:04:04.686] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[01Jan2025 23:04:04.686] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Jan2025 23:04:04.687] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[01Jan2025 23:04:04.687] [Worker-Main-24/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[01Jan2025 23:04:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Ghost
+[01Jan2025 23:04:28.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[01Jan2025 23:04:28.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[01Jan2025 23:04:28.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[01Jan2025 23:04:29.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[01Jan2025 23:04:29.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[01Jan2025 23:04:29.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[01Jan2025 23:04:29.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[01Jan2025 23:04:29.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[01Jan2025 23:04:34.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Who You Gonna Call?]
+[01Jan2025 23:05:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np has made the advancement [Crops of the Wild]
+[01Jan2025 23:05:48.282] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[01Jan2025 23:05:48.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_4
+[01Jan2025 23:05:48.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down
+[01Jan2025 23:05:48.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[01Jan2025 23:05:48.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_2
+[01Jan2025 23:05:48.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[01Jan2025 23:05:48.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[01Jan2025 23:05:48.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[01Jan2025 23:05:48.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[01Jan2025 23:05:48.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance
+[01Jan2025 23:05:48.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[01Jan2025 23:05:48.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[01Jan2025 23:05:48.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_alt
+[01Jan2025 23:05:48.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_alt
+[01Jan2025 23:05:48.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1_alt
+[01Jan2025 23:05:48.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_2
+[01Jan2025 23:05:48.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_food
+[01Jan2025 23:05:48.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_copper
+[01Jan2025 23:05:48.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_1
+[01Jan2025 23:05:48.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[01Jan2025 23:05:48.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_archer
+[01Jan2025 23:05:48.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tools
+[01Jan2025 23:05:48.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/portal
+[01Jan2025 23:05:48.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
+[01Jan2025 23:05:48.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
+[01Jan2025 23:05:48.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_2
+[01Jan2025 23:08:11.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:08:11.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
