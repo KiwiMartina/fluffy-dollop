@@ -1223,3 +1223,8 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 23:04:21.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Ghost
 [01Jan2025 23:04:34.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Who You Gonna Call?]
 [01Jan2025 23:05:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np has made the advancement [Crops of the Wild]
+[01Jan2025 23:13:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was energized by Lightning Dragon
+[01Jan2025 23:14:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was energized by Lightning Dragon
+[01Jan2025 23:15:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np was slain by ErickJaeger
+[01Jan2025 23:15:28.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Jan2025 23:15:28.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <np> xd

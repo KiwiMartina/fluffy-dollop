@@ -17,6 +17,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 23:07:42 +0000"
@@ -32,6 +50,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-01 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-01 23:16:49 +0000"
     },
     "done": true
   },
@@ -62,6 +86,12 @@
   "pfm:recipes/furniture/oak_table_basic": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
     },
     "done": true
   },
@@ -107,6 +137,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-01-01 23:07:06 +0000"
@@ -122,6 +158,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-01-01 22:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-01 23:14:25 +0000"
     },
     "done": true
   },
@@ -152,6 +194,12 @@
   "pfm:recipes/furniture/oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-01 23:15:51 +0000"
     },
     "done": true
   },
@@ -188,6 +236,12 @@
   "pfm:recipes/furniture/green_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-01 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-01 23:16:49 +0000"
     },
     "done": true
   },
@@ -264,6 +318,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-01 22:52:23 +0000"
@@ -273,6 +333,18 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-01-01 22:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-01 23:15:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 23:16:49 +0000"
     },
     "done": true
   },
@@ -384,6 +456,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
@@ -456,6 +534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-01 23:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-01 23:07:42 +0000"
@@ -471,6 +555,18 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-01 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-01 23:15:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
     },
     "done": true
   },
@@ -540,6 +636,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/yellow_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 23:06:15 +0000"
@@ -579,6 +681,12 @@
   "pfm:recipes/furniture/oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
     },
     "done": true
   },
@@ -666,6 +774,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_modern_stool": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
@@ -699,6 +819,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-01 23:15:56 +0000"
     },
     "done": true
   },
@@ -810,6 +936,24 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-01 23:16:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-01-01 23:06:43 +0000"
@@ -822,9 +966,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:14:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 23:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 23:14:25 +0000"
     },
     "done": true
   },
@@ -845,6 +1001,12 @@
       "log_spam_fixer": "2025-01-01 22:42:59 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
@@ -885,6 +1047,12 @@
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-01-01 23:07:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-01 23:16:32 +0000"
     },
     "done": true
   },
@@ -948,6 +1116,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_log_stool": {
     "criteria": {
       "has_log": "2025-01-01 23:06:15 +0000"
@@ -988,6 +1162,12 @@
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-01 23:15:53 +0000"
     },
     "done": true
   },
@@ -1036,6 +1216,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-01 23:16:32 +0000"
     },
     "done": true
   },

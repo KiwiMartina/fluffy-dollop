@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-01-01 23:16:45 +0000",
       "minecraft:savanna_plateau": "2025-01-01 21:54:03 +0000",
       "minecraft:beach": "2025-01-01 20:06:26 +0000",
       "minecraft:mangrove_swamp": "2025-01-01 22:42:03 +0000",
@@ -78,6 +79,7 @@
       "minecraft:ocean": "2025-01-01 20:12:23 +0000",
       "minecraft:windswept_savanna": "2025-01-01 23:03:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-01 22:46:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-01 23:16:13 +0000",
       "minecraft:deep_dark": "2025-01-01 21:08:28 +0000",
       "minecraft:savanna": "2025-01-01 21:08:13 +0000",
       "minecraft:plains": "2025-01-01 20:10:45 +0000"
