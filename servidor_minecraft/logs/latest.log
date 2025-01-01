@@ -1038,3 +1038,6 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 20:55:52.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [01Jan2025 20:56:13.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 34 [Torch] to ErickJaeger]
 [01Jan2025 20:56:29.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by Skeleton
+[01Jan2025 21:03:44.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Acquire Hardware]
+[01Jan2025 21:05:15.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Isn't It Iron Pick]
+[01Jan2025 21:05:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Diamonds!]
