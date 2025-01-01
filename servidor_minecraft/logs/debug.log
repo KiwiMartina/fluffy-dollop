@@ -12488,3 +12488,120 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 22:48:34.901] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/warm_3 is being run through DFU (hash 56633e3fea68ebd300967c06a332a4cea783aac959bda5d1b9c8922d1f34105e), this will cause launch time delays
 [01Jan2025 22:48:47.462] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
 [01Jan2025 22:48:47.540] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
+[01Jan2025 22:49:20.854] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_2
+[01Jan2025 22:49:24.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-52, z=-18}
+[01Jan2025 22:49:24.931] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-41, z=-30}
+[01Jan2025 22:49:33.214] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=62, y=-52, z=-33}
+[01Jan2025 22:49:33.215] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-52, z=-35}
+[01Jan2025 22:49:34.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 22:49:45.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 22:50:35.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 22:51:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np drowned
+[01Jan2025 22:51:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Free Willy]
+[01Jan2025 22:51:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Best Friends Forever]
+[01Jan2025 22:51:52.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[01Jan2025 22:51:52.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[01Jan2025 22:51:52.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[01Jan2025 22:51:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:52:57.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.7993767852535711
+[01Jan2025 22:52:57.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.5661607455626836
+[01Jan2025 22:52:59.216] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[01Jan2025 22:53:09.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:53:09.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:53:19.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_1
+[01Jan2025 22:53:19.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[01Jan2025 22:53:19.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_3
+[01Jan2025 22:53:19.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[01Jan2025 22:53:19.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[01Jan2025 22:53:19.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[01Jan2025 22:53:19.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_armor
+[01Jan2025 22:53:19.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[01Jan2025 22:53:19.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_archer
+[01Jan2025 22:53:19.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path
+[01Jan2025 22:53:19.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_gold
+[01Jan2025 22:53:19.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils
+[01Jan2025 22:53:19.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[01Jan2025 22:53:19.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_2
+[01Jan2025 22:53:19.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_2
+[01Jan2025 22:53:19.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_alt
+[01Jan2025 22:53:19.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_4
+[01Jan2025 22:53:19.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_2
+[01Jan2025 22:53:19.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down
+[01Jan2025 22:53:19.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_alt
+[01Jan2025 22:53:19.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_5
+[01Jan2025 22:53:19.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_1
+[01Jan2025 22:53:29.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_3
+[01Jan2025 22:53:40.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[01Jan2025 22:53:59.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[01Jan2025 22:54:04.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[01Jan2025 22:54:04.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[01Jan2025 22:54:04.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[01Jan2025 22:54:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Siren
+[01Jan2025 22:55:09.760] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[01Jan2025 22:55:09.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[01Jan2025 22:55:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Siren
+[01Jan2025 22:55:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Tie me to the Mast]
+[01Jan2025 22:55:51.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[01Jan2025 22:56:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Tie me to the Mast]
+[01Jan2025 22:56:27.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger hit the ground too hard
+[01Jan2025 22:56:57.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[01Jan2025 22:57:26.611] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1
+[01Jan2025 22:57:26.613] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_4
+[01Jan2025 22:57:26.615] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_4
+[01Jan2025 22:57:26.618] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1
+[01Jan2025 22:57:26.619] [Worker-Main-14/DEBUG] [ModernFix/]: Structure hopo:mineshaft/dark_oak/down_4 is being run through DFU (hash 3fef12926b03c2ee184748b92b2779f00a1acc34730ffddc3e9db882b27c5697), this will cause launch time delays
+[01Jan2025 22:57:26.658] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_2
+[01Jan2025 22:57:26.660] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[01Jan2025 22:57:26.662] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path
+[01Jan2025 22:57:26.664] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_1
+[01Jan2025 22:57:26.667] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[01Jan2025 22:57:26.667] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[01Jan2025 22:57:30.330] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[01Jan2025 22:57:30.332] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/trap/trap_5
+[01Jan2025 22:57:30.336] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_1
+[01Jan2025 22:57:30.339] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[01Jan2025 22:57:30.343] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[01Jan2025 22:57:30.347] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1_alt
+[01Jan2025 22:57:30.348] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/pathlong_1
+[01Jan2025 22:57:30.349] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn_2
+[01Jan2025 22:57:30.351] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn_1
+[01Jan2025 22:57:30.354] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_1
+[01Jan2025 22:57:30.359] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[01Jan2025 22:57:31.054] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[01Jan2025 22:57:31.373] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[01Jan2025 22:57:31.375] [Worker-Main-15/DEBUG] [ModernFix/]: Structure minecraft:underwater_ruin/warm_1 is being run through DFU (hash 5ca841302ae4bb736b26bb832912ba8b391efcba8078289d0092e883fdeaefa1), this will cause launch time delays
+[01Jan2025 22:57:31.421] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[01Jan2025 22:57:55.277] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[01Jan2025 22:57:55.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[01Jan2025 22:57:55.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[01Jan2025 22:58:00.638] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[01Jan2025 22:58:11.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 22:58:11.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 22:58:28.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np was shot by Skeleton
+[01Jan2025 22:58:31.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[01Jan2025 22:58:31.525] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[01Jan2025 22:59:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.388802495293021,0.0,0.4824170623905957
+[01Jan2025 22:59:08.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.78837182203506,0.0,0.500971564790234
+[01Jan2025 22:59:08.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.1879411487771,0.0,0.5195260671898723
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.388802495293021,0.0,0.4824170623905957
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.78837182203506,0.0,0.500971564790234
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.1879411487771,0.0,0.5195260671898723
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.587510475519139,0.0,0.5380805695895106
+[01Jan2025 22:59:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.987079802261178,0.0,0.5566350719891489
+[01Jan2025 22:59:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -12.386649129003217,0.0,0.5751895743887872
+[01Jan2025 22:59:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -12.786218455745257,0.0,0.5937440767884254
+[01Jan2025 22:59:08.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 16.38234239642361,0.0,-0.7607345983851701
+[01Jan2025 22:59:08.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 16.38234239642361,0.0,-0.7607345983851701
+[01Jan2025 22:59:08.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 16.38234239642361,0.0,-0.7607345983851701
+[01Jan2025 22:59:08.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.98277306968157,0.0,-0.7421800959855318
+[01Jan2025 22:59:08.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.583203742939531,0.0,-0.7236255935858935
+[01Jan2025 22:59:08.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.183634416197492,0.0,-0.7050710911862552
+[01Jan2025 22:59:08.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 14.784065089455453,0.0,-0.6865165887866169
+[01Jan2025 22:59:12.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue

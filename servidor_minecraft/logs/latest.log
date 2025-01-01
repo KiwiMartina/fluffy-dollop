@@ -1170,3 +1170,48 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 22:45:44.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 7.611596089780733,0.0,7.534190747828234
 [01Jan2025 22:45:44.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 7.914598526200734,0.0,7.794115546294734
 [01Jan2025 22:45:44.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 8.218194352347155,0.0,8.053453222828466
+[01Jan2025 22:49:24.911] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-52, z=-18}
+[01Jan2025 22:49:24.931] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=60, y=-41, z=-30}
+[01Jan2025 22:49:33.214] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=62, y=-52, z=-33}
+[01Jan2025 22:49:33.215] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-52, z=-35}
+[01Jan2025 22:49:34.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 22:49:45.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 22:50:35.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported np to ErickJaeger]
+[01Jan2025 22:51:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np drowned
+[01Jan2025 22:51:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Free Willy]
+[01Jan2025 22:51:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Best Friends Forever]
+[01Jan2025 22:51:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:51:54.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.31218627482917327
+[01Jan2025 22:52:57.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.7993767852535711
+[01Jan2025 22:52:57.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved wrongly! 0.5661607455626836
+[01Jan2025 22:54:59.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Siren
+[01Jan2025 22:55:11.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Siren
+[01Jan2025 22:55:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Tie me to the Mast]
+[01Jan2025 22:56:02.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Tie me to the Mast]
+[01Jan2025 22:56:27.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger hit the ground too hard
+[01Jan2025 22:57:55.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[01Jan2025 22:57:55.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[01Jan2025 22:58:28.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np was shot by Skeleton
+[01Jan2025 22:59:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.388802495293021,0.0,0.4824170623905957
+[01Jan2025 22:59:08.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.78837182203506,0.0,0.500971564790234
+[01Jan2025 22:59:08.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.1879411487771,0.0,0.5195260671898723
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.388802495293021,0.0,0.4824170623905957
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -10.78837182203506,0.0,0.500971564790234
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.1879411487771,0.0,0.5195260671898723
+[01Jan2025 22:59:08.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.587510475519139,0.0,0.5380805695895106
+[01Jan2025 22:59:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -11.987079802261178,0.0,0.5566350719891489
+[01Jan2025 22:59:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -12.386649129003217,0.0,0.5751895743887872
+[01Jan2025 22:59:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! -12.786218455745257,0.0,0.5937440767884254
+[01Jan2025 22:59:08.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 16.38234239642361,0.0,-0.7607345983851701
+[01Jan2025 22:59:08.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 16.38234239642361,0.0,-0.7607345983851701
+[01Jan2025 22:59:08.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 16.38234239642361,0.0,-0.7607345983851701
+[01Jan2025 22:59:08.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.98277306968157,0.0,-0.7421800959855318
+[01Jan2025 22:59:08.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.583203742939531,0.0,-0.7236255935858935
+[01Jan2025 22:59:08.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 15.183634416197492,0.0,-0.7050710911862552
+[01Jan2025 22:59:08.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of MotoMoto_7) moved too quickly! 14.784065089455453,0.0,-0.6865165887866169
