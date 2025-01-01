@@ -5590,6 +5590,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 23:21:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
@@ -5614,6 +5620,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2025-01-01 23:26:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-01-01 22:09:37 +0000"
@@ -5629,6 +5641,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-01-01 22:58:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2025-01-01 23:26:52 +0000"
     },
     "done": true
   },
@@ -5656,6 +5674,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2025-01-01 23:26:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-01-01 22:55:50 +0000"
@@ -5674,15 +5698,33 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_tape_glass": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 23:21:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_tape": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 23:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-01-01 22:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-01 23:21:40 +0000"
     },
     "done": true
   },
@@ -5695,6 +5737,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-01 22:55:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2025-01-01 23:26:52 +0000"
     },
     "done": true
   },

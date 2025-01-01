@@ -1228,3 +1228,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 23:15:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np was slain by ErickJaeger
 [01Jan2025 23:15:28.162] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [01Jan2025 23:15:28.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <np> xd
+[01Jan2025 23:21:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger hit the ground too hard
+[01Jan2025 23:24:54.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/SpatialType
+[01Jan2025 23:24:59.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingStateType
+[01Jan2025 23:24:59.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np has made the advancement [DJ! DJ!]
+[01Jan2025 23:24:59.976] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType
+[01Jan2025 23:25:10.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[01Jan2025 23:29:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np has made the advancement [Stone Age]
+[01Jan2025 23:29:46.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was struck with lightning by Lightning Dragon

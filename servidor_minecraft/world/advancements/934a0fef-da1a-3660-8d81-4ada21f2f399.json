@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_table_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-01-01 23:07:06 +0000"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 23:04:57 +0000"
@@ -278,6 +290,12 @@
   "pfm:recipes/furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -315,6 +333,12 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-01-01 22:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -366,6 +390,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-01-01 23:07:42 +0000"
@@ -402,6 +432,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 23:07:42 +0000"
@@ -417,6 +453,12 @@
   "pfm:recipes/furniture/oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -438,6 +480,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 23:07:42 +0000"
@@ -456,6 +504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_log_stool": {
     "criteria": {
       "has_log": "2025-01-01 23:14:25 +0000"
@@ -471,6 +525,12 @@
   "pfm:recipes/furniture/white_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-01 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -513,6 +573,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-01-01 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -612,9 +678,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-01 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -669,6 +747,12 @@
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-01-01 23:07:42 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-01-01 23:24:59 +0000"
     },
     "done": true
   },
@@ -774,6 +858,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 23:16:32 +0000"
@@ -792,9 +888,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-01-01 23:24:59 +0000"
     },
     "done": true
   },
@@ -822,9 +936,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-01-01 23:15:56 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -843,6 +969,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -867,6 +999,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-01 22:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -903,6 +1041,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-01 23:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
@@ -1002,6 +1146,12 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/jungle_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-01 23:16:32 +0000"
@@ -1062,6 +1212,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-01-01 23:07:42 +0000"
@@ -1085,6 +1241,12 @@
       "log_spam_fixer": "2025-01-01 22:42:59 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/jungle_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
@@ -1119,6 +1281,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-01 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:19:53 +0000"
     },
     "done": true
   },
