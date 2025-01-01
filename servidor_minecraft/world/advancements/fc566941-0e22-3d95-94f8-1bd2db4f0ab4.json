@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 21:35:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:03:44 +0000"
@@ -906,6 +912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 21:35:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-01 21:01:23 +0000"
@@ -999,6 +1011,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-01-01 21:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-01 21:35:53 +0000"
     },
     "done": true
   },
@@ -2055,6 +2073,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-01 20:41:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-01-01 21:35:53 +0000"
     },
     "done": true
   },
@@ -3135,6 +3159,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-01 20:56:26 +0000",
+      "baked_potato": "2025-01-01 21:28:48 +0000",
       "apple": "2025-01-01 20:35:04 +0000",
       "rotten_flesh": "2025-01-01 21:10:07 +0000"
     },
