@@ -11483,3 +11483,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [01Jan2025 21:13:12.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [01Jan2025 21:13:12.693] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [01Jan2025 21:13:12.699] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[01Jan2025 21:18:03.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:18:03.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:23:03.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:23:03.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
