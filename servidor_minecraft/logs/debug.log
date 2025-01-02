@@ -14039,3 +14039,18 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [02Jan2025 01:10:56.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
 [02Jan2025 01:10:56.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
 [02Jan2025 01:10:56.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_2
+[02Jan2025 01:11:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[02Jan2025 01:13:23.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 01:13:23.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 01:13:44.205] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[02Jan2025 01:16:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:39.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:42.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:18:23.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 01:18:23.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 01:20:30.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Timed out
+[02Jan2025 01:20:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game

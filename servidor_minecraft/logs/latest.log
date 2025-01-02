@@ -287,3 +287,14 @@
 [02Jan2025 01:03:26.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved wrongly!
 [02Jan2025 01:06:48.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Disconnected
 [02Jan2025 01:06:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
+[02Jan2025 01:11:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[02Jan2025 01:13:44.205] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[02Jan2025 01:16:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:39.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:16:42.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Summoned new Chicken]
+[02Jan2025 01:20:30.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Timed out
+[02Jan2025 01:20:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
