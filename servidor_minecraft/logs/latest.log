@@ -281,3 +281,9 @@
 [02Jan2025 00:42:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1120.350000, 80.000000, 460.920000]
 [02Jan2025 00:43:08.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Spectator Mode]
 [02Jan2025 00:43:33.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[02Jan2025 00:59:45.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Drowned
+[02Jan2025 01:01:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[02Jan2025 01:03:26.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[02Jan2025 01:03:26.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved wrongly!
+[02Jan2025 01:06:48.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Disconnected
+[02Jan2025 01:06:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
