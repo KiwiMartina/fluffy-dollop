@@ -5632,6 +5632,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-01 23:55:05 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-01-01 23:46:23 +0000"
@@ -5926,6 +5932,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-01 23:51:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-02 00:07:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-01-01 22:09:37 +0000"
@@ -5944,9 +5962,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 00:07:06 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair": {
     "criteria": {
       "has_planks": "2025-01-01 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 00:07:06 +0000"
     },
     "done": true
   },

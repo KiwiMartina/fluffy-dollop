@@ -76,6 +76,7 @@
       "minecraft:river": "2025-01-01 22:12:03 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:57:26 +0000",
       "minecraft:forest": "2025-01-01 22:07:44 +0000",
+      "minecraft:jungle": "2025-01-01 23:48:42 +0000",
       "minecraft:ocean": "2025-01-01 20:12:23 +0000",
       "minecraft:windswept_savanna": "2025-01-01 23:03:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-01 22:46:43 +0000",
@@ -197,6 +198,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-01-01 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-01-02 00:04:07 +0000"
     },
     "done": true
   },
@@ -413,6 +420,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:03:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-01 23:52:05 +0000"
     },
     "done": true
   },
@@ -885,6 +898,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-01 21:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-01-02 00:07:43 +0000"
     },
     "done": true
   },
@@ -3037,6 +3056,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-02 00:07:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 22:33:10 +0000"
@@ -3139,6 +3164,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 00:07:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_acacia": {
     "criteria": {
       "has_the_recipe": "2025-01-01 20:49:08 +0000"
@@ -3226,6 +3257,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 21:03:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-02 00:07:19 +0000"
     },
     "done": true
   },
@@ -3352,6 +3389,12 @@
   "pfm:recipes/furniture/oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-01-02 00:04:28 +0000"
     },
     "done": true
   },
@@ -3847,6 +3890,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-01 23:52:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pulley": {
     "criteria": {
       "minecraft:planks": "2025-01-01 20:16:55 +0000"
@@ -3950,6 +3999,12 @@
   "pfm:recipes/furniture/oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-01-01 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-01 23:52:05 +0000"
     },
     "done": true
   },
