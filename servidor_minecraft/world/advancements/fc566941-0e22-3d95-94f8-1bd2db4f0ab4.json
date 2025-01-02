@@ -669,7 +669,8 @@
       "minecraft:spider": "2025-01-01 22:20:24 +0000",
       "minecraft:creeper": "2025-01-01 22:01:20 +0000",
       "minecraft:enderman": "2025-01-01 22:23:20 +0000",
-      "minecraft:zombie": "2025-01-01 20:41:15 +0000"
+      "minecraft:zombie": "2025-01-01 20:41:15 +0000",
+      "minecraft:drowned": "2025-01-02 00:43:52 +0000"
     },
     "done": false
   },
@@ -4191,6 +4192,12 @@
   "supplementaries:recipes/flags/flag_lime": {
     "criteria": {
       "has_stick": "2025-01-01 20:17:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/trident": {
+    "criteria": {
+      "has_trident": "2025-01-02 00:43:52 +0000"
     },
     "done": true
   },
