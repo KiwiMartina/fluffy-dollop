@@ -15,3 +15,24 @@
 [02Jan2025 00:06:43.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was struck with lightning by Lightning Dragon
 [02Jan2025 00:07:25.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was struck with lightning by Lightning Dragon
 [02Jan2025 00:07:43.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Dragonslayer]
+[02Jan2025 00:11:24.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: np lost connection: Timed out
+[02Jan2025 00:11:24.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: np left the game
+[02Jan2025 00:12:38.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Ghost
+[02Jan2025 00:13:31.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Ghost
+[02Jan2025 00:13:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[02Jan2025 00:14:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[02Jan2025 00:14:47.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[02Jan2025 00:15:07.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Spectator Mode]
+[02Jan2025 00:15:22.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[02Jan2025 00:15:24.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was struck with lightning by Lightning Dragon
+[02Jan2025 00:15:24.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1120.350000, 80.000000, 460.920000]
+[02Jan2025 00:16:31.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[02Jan2025 00:16:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Spectator Mode]
+[02Jan2025 00:17:04.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[02Jan2025 00:17:10.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1120.350000, 80.000000, 460.920000]
+[02Jan2025 00:17:15.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[02Jan2025 00:17:15.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[02Jan2025 00:17:53.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:61728] logged in with entity id 179925 at (1119.8046827904761, 80.0, 462.4455886774379)
+[02Jan2025 00:17:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[02Jan2025 00:18:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[02Jan2025 00:20:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Enderman
