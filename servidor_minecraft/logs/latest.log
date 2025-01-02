@@ -36,3 +36,6 @@
 [02Jan2025 00:17:53.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
 [02Jan2025 00:18:03.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [02Jan2025 00:20:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Enderman
+[02Jan2025 00:27:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[02Jan2025 00:27:52.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[02Jan2025 00:29:22.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
