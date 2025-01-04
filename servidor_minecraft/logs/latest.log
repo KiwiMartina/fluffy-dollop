@@ -1037,3 +1037,94 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 02:38:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Kinda Sus]
 [04Jan2025 02:40:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Isn't It Iron Pick]
 [04Jan2025 02:42:16.412] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 02:50:49.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:52396] logged in with entity id 18324 at (-1621.7164659852267, 63.19408343571631, -574.1928614101561)
+[04Jan2025 02:50:49.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[04Jan2025 02:51:32.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Made EdrianferXD10 a server operator]
+[04Jan2025 02:51:47.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Timed out
+[04Jan2025 02:51:47.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[04Jan2025 02:51:47.950] [Netty Epoll Server IO #2/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007a1938aec000.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md51c97a$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md51c97a$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[04Jan2025 02:51:47.981] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 02:54:22.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2025 02:54:22.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: desop EdrianferXD10<--[HERE]
+[04Jan2025 02:55:19.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cepatito[/172.22.106.123:62716] logged in with entity id 19062 at (371.5, 63.0, -200.5)
+[04Jan2025 02:55:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito joined the game
+[04Jan2025 02:55:19.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Ice and Fire]
+[04Jan2025 02:55:22.272] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[04Jan2025 02:56:08.688] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[04Jan2025 02:57:27.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[04Jan2025 02:57:27.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=371, y=64, z=-200}
+[04Jan2025 02:57:34.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Minecraft Comes Alive]
+[04Jan2025 02:57:50.069] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[04Jan2025 02:57:53.734] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[04Jan2025 02:57:53.735] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[04Jan2025 02:58:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Monster Hunter]
+[04Jan2025 03:01:34.739] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@561bdea1[id=<null>,name=ReyGamarra,properties={},legacy=false] (/172.22.196.128:61450) lost connection: Disconnected
+[04Jan2025 03:01:51.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c36c154[id=<null>,name=ReyGamarra,properties={},legacy=false] (/172.22.196.128:61519) lost connection: Disconnected
+[04Jan2025 03:02:06.788] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@710a0cda[id=<null>,name=ReyGamarra,properties={},legacy=false] (/172.22.196.128:61587) lost connection: Disconnected
+[04Jan2025 03:02:26.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Who You Gonna Call?]
+[04Jan2025 03:03:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made EdrianferXD10 no longer a server operator
+[04Jan2025 03:06:09.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Diamonds!]
+[04Jan2025 03:06:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Acquire Hardware]
+[04Jan2025 03:06:37.585] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=3995, y=68, z=-3909}
+[04Jan2025 03:06:40.280] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.280] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.280] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.280] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.346] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.346] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.417] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.417] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.417] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.613] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.613] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.613] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.613] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.613] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.613] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.614] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.614] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.614] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.614] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.689] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.689] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.741] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.741] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.741] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.801] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.801] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.994] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:40.994] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:41.686] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:41.687] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/empty
+[04Jan2025 03:06:41.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
+[04Jan2025 03:06:41.727] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[04Jan2025 03:06:41.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! 6.549789718826105,-0.4959870982234804,7.7354983224827265
+[04Jan2025 03:07:58.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Friendship Found]
+[04Jan2025 03:10:20.373] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jordan'/19934, l='ServerLevel[world]', x=4222.70, y=64.00, z=-3905.30] died, message: 'Jordan was slain by Ghost'

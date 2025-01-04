@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-04 02:39:14 +0000"
@@ -125,9 +131,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-04 02:00:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -230,6 +248,12 @@
   "pfm:recipes/furniture/oak_table_basic": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-04 03:01:51 +0000"
     },
     "done": true
   },
@@ -493,6 +517,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-01-04 02:32:45 +0000"
@@ -523,6 +553,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-04 02:03:18 +0000"
@@ -541,9 +577,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -655,6 +703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-01-04 02:02:25 +0000"
@@ -670,6 +724,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_machete_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -727,6 +787,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:07:50 +0000"
@@ -748,6 +820,12 @@
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-01-04 02:09:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -787,6 +865,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-04 02:02:15 +0000"
@@ -796,6 +892,12 @@
   "chimes:recipes/decorations/iron_chimes": {
     "criteria": {
       "has_wood_slabs": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-04 03:01:04 +0000"
     },
     "done": true
   },
@@ -877,9 +979,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_orange": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -946,6 +1060,12 @@
   "pfm:recipes/furniture/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -1021,6 +1141,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-04 03:01:51 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/durable_armor_1": {
     "criteria": {
       "has_diamond": "2025-01-04 02:07:49 +0000"
@@ -1042,6 +1174,12 @@
   "pfm:recipes/furniture/oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -1159,6 +1297,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_log": {
+    "criteria": {
+      "has_log": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-01-04 02:13:03 +0000"
@@ -1216,6 +1360,18 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-01-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -1381,6 +1537,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 02:51:17 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/iron_round_shield_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
@@ -1405,6 +1567,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-01-04 02:02:28 +0000"
@@ -1414,6 +1588,12 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-01-04 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-04 03:01:51 +0000"
     },
     "done": true
   },
@@ -1483,6 +1663,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-01-04 02:02:25 +0000"
@@ -1507,6 +1693,12 @@
     },
     "done": false
   },
+  "pfm:recipes/furniture/stripped_spruce_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-04 02:02:15 +0000"
@@ -1522,6 +1714,12 @@
   "pfm:recipes/furniture/spruce_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-01-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
     },
     "done": true
   },
@@ -1735,6 +1933,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/pewen_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:31 +0000"
@@ -1816,6 +2020,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -1975,6 +2185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-04 02:13:47 +0000"
@@ -2017,9 +2233,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-04 02:09:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -2065,6 +2293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-04 03:01:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-01-04 02:32:45 +0000"
@@ -2095,9 +2329,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/diamond_throwing_axe_enchanted": {
     "criteria": {
       "has_diamond": "2025-01-04 02:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-04 02:51:17 +0000"
     },
     "done": true
   },
@@ -2128,6 +2374,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -2167,6 +2425,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 02:51:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-01-04 02:02:28 +0000"
@@ -2176,6 +2440,12 @@
   "pfm:recipes/furniture/stone_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-04 02:04:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -2311,6 +2581,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/pewen_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/misc/misc/reinforced_handle": {
     "criteria": {
       "has_stick": "2025-01-04 02:03:37 +0000"
@@ -2335,9 +2611,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-04 01:59:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -2383,6 +2671,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 02:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-04 02:32:45 +0000"
@@ -2404,6 +2704,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-04 01:59:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-04 03:04:53 +0000"
     },
     "done": true
   },
@@ -2452,6 +2758,12 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-01-04 02:02:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -2551,9 +2863,27 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-04 02:51:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-01-04 02:02:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -2569,9 +2899,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/diffusion/diffusion/emerald_ore": {
     "criteria": {
       "has_emerald_block": "2025-01-04 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -2584,6 +2926,18 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 02:18:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -2602,6 +2956,12 @@
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-01-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -2707,6 +3067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-04 03:04:53 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-04 02:04:07 +0000"
@@ -2716,6 +3082,24 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-04 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -2827,6 +3211,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-04 02:01:50 +0000"
@@ -2929,9 +3319,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 03:01:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-04 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -2974,6 +3394,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-04 02:02:15 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
     },
     "done": true
   },
@@ -3033,15 +3459,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-04 03:04:22 +0000",
       "minecraft:birch_forest": "2025-01-04 02:19:13 +0000",
       "minecraft:beach": "2025-01-04 01:58:05 +0000",
       "minecraft:river": "2025-01-04 02:07:17 +0000",
+      "minecraft:swamp": "2025-01-04 03:05:13 +0000",
       "minecraft:forest": "2025-01-04 02:00:37 +0000",
       "minecraft:ocean": "2025-01-04 02:12:24 +0000",
       "minecraft:flower_forest": "2025-01-04 02:43:33 +0000",
       "minecraft:plains": "2025-01-04 02:07:20 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 02:51:17 +0000"
+    },
+    "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/diamond_nunchaku_enchanted": {
     "criteria": {
@@ -3052,6 +3486,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-01-04 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 03:02:26 +0000"
     },
     "done": true
   },
@@ -3097,9 +3537,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 03:01:09 +0000"
     },
     "done": true
   },
@@ -3127,6 +3579,12 @@
       "suspicious_stew": "2025-01-04 02:25:25 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-04 02:52:48 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/gold_door": {
     "criteria": {
@@ -3191,6 +3649,12 @@
   "pfm:recipes/furniture/oak_chair_classic_white": {
     "criteria": {
       "oak_chair_classic_white": "2025-01-04 02:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-04 02:48:13 +0000"
     },
     "done": true
   },
