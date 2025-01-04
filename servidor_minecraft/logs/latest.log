@@ -1271,3 +1271,16 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 03:59:44.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 11.515918898301152,0.0,1.390512103795345
 [04Jan2025 03:59:44.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 11.913037568711047,0.0,1.4383854363180717
 [04Jan2025 03:59:44.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.310156545789368,0.0,1.4862574653021738
+[04Jan2025 04:01:19.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Minecraft Comes Alive]
+[04Jan2025 04:02:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Ol' Betsy]
+[04Jan2025 04:02:54.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Take Aim]
+[04Jan2025 04:05:47.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> ZZZZZZZZZZZZZZZ
+[04Jan2025 04:05:51.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Who You Gonna Call?]
+[04Jan2025 04:06:06.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Sweet Dreams]
+[04Jan2025 04:06:19.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> ZZZZZZZZZZZZZZzz
+[04Jan2025 04:06:36.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <epeps> zzzz
+[04Jan2025 04:07:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> zzzzzzzzzz
+[04Jan2025 04:07:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> no tengo cama :/
+[04Jan2025 04:07:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> :c
+[04Jan2025 04:09:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Ghost
+[04Jan2025 04:09:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps was slain by Ghost

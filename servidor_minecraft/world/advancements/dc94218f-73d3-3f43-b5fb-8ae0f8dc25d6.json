@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 04:02:10 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_machete_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 03:56:36 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-04 04:02:54 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-01-04 03:47:31 +0000"
@@ -176,6 +188,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-04 03:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-04 04:06:06 +0000"
     },
     "done": true
   },
@@ -276,6 +294,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-04 04:09:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 03:56:36 +0000"
@@ -303,6 +327,12 @@
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-01-04 03:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-04 04:02:54 +0000"
     },
     "done": true
   },
@@ -522,6 +552,12 @@
     },
     "done": true
   },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-01-04 04:01:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_table_dinner": {
     "criteria": {
       "has_planks": "2025-01-04 03:42:42 +0000"
@@ -537,6 +573,12 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-01-04 03:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 04:02:10 +0000"
     },
     "done": true
   },
@@ -1116,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-04 04:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_the_recipe": "2025-01-04 03:46:29 +0000"
@@ -1270,6 +1318,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-04 03:41:36 +0000",
       "minecraft:beach": "2025-01-04 03:29:03 +0000",
+      "minecraft:river": "2025-01-04 04:03:15 +0000",
       "minecraft:ocean": "2025-01-04 03:38:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:50:10 +0000",
       "minecraft:plains": "2025-01-04 03:35:11 +0000"
