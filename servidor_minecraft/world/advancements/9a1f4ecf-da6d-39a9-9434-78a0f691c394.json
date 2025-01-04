@@ -5257,6 +5257,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
@@ -5287,6 +5299,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
@@ -5305,9 +5323,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/thornwood_alexscaves_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
     },
     "done": true
   },
@@ -5317,9 +5347,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-01-04 05:36:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
     },
     "done": true
   },
@@ -5353,9 +5395,51 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2025-01-04 05:42:06 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-01-04 05:36:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-04 05:43:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
     },
     "done": true
   },
@@ -5395,9 +5479,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-01-04 05:36:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-01-04 05:39:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
     },
     "done": true
   },
@@ -5413,15 +5521,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
     },
     "done": true
   },
@@ -5449,9 +5593,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-01-04 05:27:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-04 05:46:22 +0000"
     },
     "done": true
   },
@@ -5461,9 +5623,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-04 05:43:16 +0000"
     },
     "done": true
   },
@@ -5473,9 +5659,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-01-04 05:21:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-04 05:43:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
     },
     "done": true
   },
@@ -5491,9 +5695,39 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2025-01-04 05:39:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-04 05:46:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_purple_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_purple_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-04 05:43:16 +0000"
     },
     "done": true
   },

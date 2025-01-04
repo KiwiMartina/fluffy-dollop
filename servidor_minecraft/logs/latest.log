@@ -1002,3 +1002,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04Jan2025 05:41:30.970] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType
 [04Jan2025 05:42:06.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Flying Forwards]
 [04Jan2025 05:43:02.548] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[04Jan2025 05:43:16.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Ghost
+[04Jan2025 05:43:51.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zlate'/158, l='ServerLevel[world]', x=4203.74, y=68.00, z=-3948.32] died, message: 'Zlate was slain by Ghost'
+[04Jan2025 05:43:51.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zlate'/158, l='ServerLevel[world]', x=4203.74, y=68.00, z=-3948.32] died: Zlate was slain by Ghost
+[04Jan2025 05:44:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Who You Gonna Call?]
+[04Jan2025 05:45:00.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[04Jan2025 05:45:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[04Jan2025 05:45:01.016] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 05:45:15.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:61306] logged in with entity id 25555 at (1161.597186093174, 111.0, 279.68124532679997)
+[04Jan2025 05:45:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[04Jan2025 05:45:19.198] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[04Jan2025 05:46:35.514] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[04Jan2025 05:48:55.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:49:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> zz
+[04Jan2025 05:49:06.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Iron Pickaxe] to ErickJaeger]
+[04Jan2025 05:49:48.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [DJ! DJ!]
+[04Jan2025 05:49:48.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [DJ! DJ!]
+[04Jan2025 05:49:48.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [DJ! DJ!]
+[04Jan2025 05:49:49.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [DJ! DJ!]
+[04Jan2025 05:49:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [DJ! DJ!]
