@@ -11822,3 +11822,173 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04Jan2025 06:00:01.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 34 [Bread] to ErickJaeger]
 [04Jan2025 06:03:24.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 06:03:24.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 06:04:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 06:05:26.666] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[04Jan2025 06:05:26.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[04Jan2025 06:05:26.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[04Jan2025 06:05:26.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[04Jan2025 06:05:26.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[04Jan2025 06:05:26.675] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_1
+[04Jan2025 06:05:26.677] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_brown_mushroom
+[04Jan2025 06:05:26.679] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom
+[04Jan2025 06:05:26.682] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/iron_golem
+[04Jan2025 06:05:26.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils
+[04Jan2025 06:05:26.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_iron
+[04Jan2025 06:05:26.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_prison
+[04Jan2025 06:05:26.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_2
+[04Jan2025 06:05:26.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_alt
+[04Jan2025 06:05:26.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
+[04Jan2025 06:05:26.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[04Jan2025 06:05:26.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1_alt
+[04Jan2025 06:05:26.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance
+[04Jan2025 06:05:26.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[04Jan2025 06:05:26.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_potions
+[04Jan2025 06:05:26.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_rip
+[04Jan2025 06:05:26.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_amethyst
+[04Jan2025 06:05:26.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/camp
+[04Jan2025 06:05:26.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_carrot
+[04Jan2025 06:05:26.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tools
+[04Jan2025 06:05:26.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tnt
+[04Jan2025 06:05:26.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[04Jan2025 06:05:26.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_food
+[04Jan2025 06:05:26.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_2
+[04Jan2025 06:05:26.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[04Jan2025 06:05:26.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_2
+[04Jan2025 06:05:26.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
+[04Jan2025 06:06:17.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 06:06:17.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[04Jan2025 06:08:17.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[04Jan2025 06:08:17.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[04Jan2025 06:08:17.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[04Jan2025 06:08:19.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[04Jan2025 06:08:19.128] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_8
+[04Jan2025 06:08:19.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[04Jan2025 06:08:19.131] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[04Jan2025 06:08:24.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 06:08:24.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 06:08:33.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[04Jan2025 06:08:33.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[04Jan2025 06:08:33.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[04Jan2025 06:08:49.148] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[04Jan2025 06:08:49.150] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_1
+[04Jan2025 06:08:49.155] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_2
+[04Jan2025 06:08:49.157] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path
+[04Jan2025 06:08:49.160] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[04Jan2025 06:08:49.163] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[04Jan2025 06:08:49.168] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_1
+[04Jan2025 06:08:49.170] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_1
+[04Jan2025 06:08:49.172] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance_1_alt
+[04Jan2025 06:08:49.173] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[04Jan2025 06:08:49.174] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[04Jan2025 06:08:49.196] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[04Jan2025 06:08:52.578] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_4
+[04Jan2025 06:08:52.580] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_4
+[04Jan2025 06:08:52.582] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_4
+[04Jan2025 06:08:58.875] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[04Jan2025 06:08:58.893] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[04Jan2025 06:08:59.239] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[04Jan2025 06:09:04.959] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[04Jan2025 06:09:04.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[04Jan2025 06:09:04.973] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[04Jan2025 06:09:05.028] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
+[04Jan2025 06:09:12.376] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[04Jan2025 06:09:13.955] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[04Jan2025 06:09:40.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[04Jan2025 06:09:43.208] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=4373, y=69, z=-3643}
+[04Jan2025 06:10:07.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[04Jan2025 06:10:18.798] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 06:10:42.455] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_3
+[04Jan2025 06:11:02.071] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[04Jan2025 06:11:02.072] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 06:11:02.072] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[04Jan2025 06:11:02.072] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 06:11:04.750] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[04Jan2025 06:11:08.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 10.192344487768423,0.0,-1.816377474372075
+[04Jan2025 06:11:08.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 10.58176114026719,0.0,-1.9058389980868924
+[04Jan2025 06:11:08.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 10.971071599041352,0.0,-1.9959358726182472
+[04Jan2025 06:11:08.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 11.360282806604118,0.0,-2.0866194556488153
+[04Jan2025 06:11:08.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 11.749401927638246,0.0,-2.17784224473462
+[04Jan2025 06:11:08.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 12.138435406634017,0.0,-2.2695614867466247
+[04Jan2025 06:11:08.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 12.527389039906666,0.0,-2.361738702938055
+[04Jan2025 06:11:08.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 12.916268964286246,0.0,-2.4543355399409847
+[04Jan2025 06:11:08.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 13.30508070291944,0.0,-2.547317479726189
+[04Jan2025 06:11:08.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 13.693829222913337,0.0,-2.640653456066957
+[04Jan2025 06:11:08.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.082518994664497,0.0,-2.734315507498195
+[04Jan2025 06:11:08.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.47115404152919,0.0,-2.82827846963346
+[04Jan2025 06:11:08.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.859738908399777,0.0,-2.9225159720285774
+[04Jan2025 06:11:08.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.248277685679568,0.0,-3.0170042822160212
+[04Jan2025 06:11:08.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.636774054732086,0.0,-3.111722040044242
+[04Jan2025 06:11:08.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 16.025231328783775,0.0,-3.2066500223086223
+[04Jan2025 06:11:08.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 16.413652486012325,0.0,-3.3017709271944113
+[04Jan2025 06:11:08.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 16.802040210503947,0.0,-3.397069183068652
+[04Jan2025 06:11:08.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 17.190396917935686,0.0,-3.492530775461546
+[04Jan2025 06:11:08.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 17.578725710014623,0.0,-3.5881393707177267
+[04Jan2025 06:11:08.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 17.96702844695392,0.0,-3.6838839891806856
+[04Jan2025 06:11:08.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 18.35530680294596,0.0,-3.7797547491604746
+[04Jan2025 06:11:08.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 18.74356321608593,0.0,-3.875739036502182
+[04Jan2025 06:11:08.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 19.13179895306166,0.0,-3.9718292191009823
+[04Jan2025 06:11:08.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 19.52001608149112,0.0,-4.068014707428119
+[04Jan2025 06:11:08.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 19.908216462228665,0.0,-4.164285970909077
+[04Jan2025 06:11:08.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 20.296400838721638,0.0,-4.260638152659794
+[04Jan2025 06:11:08.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 20.684570811394224,0.0,-4.3570631608513395
+[04Jan2025 06:11:08.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 21.072727820629552,0.0,-4.4535537128376745
+[04Jan2025 06:11:08.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 21.46087316277135,0.0,-4.5501032542383655
+[04Jan2025 06:11:08.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 21.84900707320685,0.0,-4.646709605812248
+[04Jan2025 06:11:08.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 22.237130695106316,0.0,-4.743367086541184
+[04Jan2025 06:11:08.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 22.62524505732381,0.0,-4.84007058350835
+[04Jan2025 06:11:08.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 23.013351085828617,0.0,-4.936815495088467
+[04Jan2025 06:11:08.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 23.401449613991645,0.0,-5.03359767981965
+[04Jan2025 06:11:08.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 23.789541391846797,0.0,-5.1304134103856995
+[04Jan2025 06:11:08.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3569ms or 71 ticks behind
+[04Jan2025 06:11:08.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.374813170924426,0.0,-3.4996539847425083
+[04Jan2025 06:11:08.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.762892474432192,0.0,-3.5965307993178612
+[04Jan2025 06:11:08.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.150966018775762,0.0,-3.6934354173749853
+[04Jan2025 06:11:08.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.538858955951582,0.0,-3.791040604570753
+[04Jan2025 06:11:08.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.926223463568931,0.0,-3.8905516924983203
+[04Jan2025 06:11:08.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 16.312518439212,0.0,-3.9935728185582775
+[04Jan2025 06:11:08.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 16.69724387082988,0.0,-4.101343705750878
+[04Jan2025 06:11:08.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 17.079952377644986,0.0,-4.214799194405259
+[04Jan2025 06:11:08.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 17.460255882851015,0.0,-4.334619020006812
+[04Jan2025 06:11:08.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 17.83782935034651,0.0,-4.46126874732181
+[04Jan2025 06:11:08.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 18.212405382180805,0.0,-4.595046122703479
+[04Jan2025 06:11:08.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 18.58377563709837,0.0,-4.736105177996706
+[04Jan2025 06:11:08.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 18.95178452253549,0.0,-4.884487380699284
+[04Jan2025 06:11:08.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 19.316325678089015,0.0,-5.040142442043361
+[04Jan2025 06:11:08.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 19.677335416893584,0.0,-5.202949726477982
+[04Jan2025 06:11:08.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 20.034787795168086,0.0,-5.372733802362745
+[04Jan2025 06:11:08.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 20.388689351513676,0.0,-5.549278020358543
+[04Jan2025 06:11:09.039] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[04Jan2025 06:11:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 06:11:32.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kostatinka'/97, l='ServerLevel[world]', x=4546.33, y=62.37, z=-3850.95] died, message: 'Kostatinka (Following) was shot by Stymphalian Bird'
+[04Jan2025 06:11:32.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kostatinka'/97, l='ServerLevel[world]', x=4546.33, y=62.37, z=-3850.95] died: Kostatinka (Following) was shot by Stymphalian Bird
+[04Jan2025 06:11:35.788] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_7
+[04Jan2025 06:11:35.850] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_2
+[04Jan2025 06:12:00.680] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[04Jan2025 06:12:00.698] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[04Jan2025 06:12:00.716] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_3
+[04Jan2025 06:12:03.324] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[04Jan2025 06:12:03.325] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[04Jan2025 06:12:03.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[04Jan2025 06:12:03.328] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[04Jan2025 06:12:03.329] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[04Jan2025 06:12:03.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[04Jan2025 06:12:03.332] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_2
+[04Jan2025 06:12:03.333] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_2
+[04Jan2025 06:12:03.335] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_2
+[04Jan2025 06:12:06.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[04Jan2025 06:12:18.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 06:12:20.759] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[04Jan2025 06:12:21.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[04Jan2025 06:12:23.765] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[04Jan2025 06:12:24.678] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[04Jan2025 06:12:24.687] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[04Jan2025 06:12:27.194] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[04Jan2025 06:12:27.211] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[04Jan2025 06:12:29.729] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[04Jan2025 06:12:31.839] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 06:12:34.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[04Jan2025 06:12:34.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[04Jan2025 06:13:02.099] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evita'/37991, l='ServerLevel[world]', x=1165.32, y=111.06, z=271.12] died, message: 'Evita was slain by ErickJaeger'
+[04Jan2025 06:13:04.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ina'/38000, l='ServerLevel[world]', x=1165.13, y=111.06, z=271.13] died, message: 'Ina was slain by ErickJaeger'
+[04Jan2025 06:13:28.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 06:13:28.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -74,6 +74,7 @@
       "minecraft:dark_forest": "2025-01-04 04:59:27 +0000",
       "minecraft:river": "2025-01-04 02:07:17 +0000",
       "minecraft:swamp": "2025-01-04 03:05:13 +0000",
+      "minecraft:cold_ocean": "2025-01-04 06:08:57 +0000",
       "minecraft:forest": "2025-01-04 02:00:37 +0000",
       "minecraft:ocean": "2025-01-04 02:12:24 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:50:49 +0000",
@@ -2389,6 +2390,7 @@
       "bread": "2025-01-04 02:08:32 +0000",
       "suspicious_stew": "2025-01-04 02:25:25 +0000",
       "rotten_flesh": "2025-01-04 05:34:34 +0000",
+      "salmon": "2025-01-04 06:03:57 +0000",
       "cooked_rabbit": "2025-01-04 04:44:04 +0000",
       "cooked_chicken": "2025-01-04 04:48:37 +0000"
     },
@@ -5263,6 +5265,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-04 06:09:43 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_purple_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-04 05:39:30 +0000"
@@ -5383,6 +5391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 06:10:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-01-04 05:36:34 +0000"
@@ -5440,6 +5454,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-01-04 06:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-01-04 06:09:13 +0000"
     },
     "done": true
   },
@@ -5521,6 +5541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-04 06:10:36 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2025-01-04 05:49:48 +0000"
@@ -5536,6 +5562,12 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 05:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-04 06:10:36 +0000"
     },
     "done": true
   },
@@ -5668,6 +5700,12 @@
   "pfm:recipes/furniture/spruce_purple_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-04 05:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-04 06:09:13 +0000"
     },
     "done": true
   },
