@@ -12441,3 +12441,53 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 03:30:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Ice and Fire]
 [04Jan2025 03:30:30.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 03:30:30.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 03:31:38.640] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=4357, y=74, z=-4219}
+[04Jan2025 03:31:38.649] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[04Jan2025 03:31:38.650] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[04Jan2025 03:31:38.889] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4357, y=74, z=-4220} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[04Jan2025 03:31:38.889] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=4357, y=74, z=-4220}
+[04Jan2025 03:31:38.889] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4357, y=73, z=-4220} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[04Jan2025 03:31:38.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=4357, y=73, z=-4220}
+[04Jan2025 03:31:38.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4357, y=74, z=-4218} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[04Jan2025 03:31:38.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=4357, y=74, z=-4218}
+[04Jan2025 03:31:38.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4357, y=73, z=-4218} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[04Jan2025 03:31:38.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=4357, y=73, z=-4218}
+[04Jan2025 03:31:40.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=4357, y=74, z=-4219} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[04Jan2025 03:31:40.006] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=4357, y=74, z=-4219}
+[04Jan2025 03:31:45.399] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[04Jan2025 03:31:45.401] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[04Jan2025 03:31:45.403] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[04Jan2025 03:32:10.769] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[04Jan2025 03:32:10.836] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[04Jan2025 03:33:25.248] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 03:34:20.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Stone Age]
+[04Jan2025 03:35:02.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=369, y=69, z=-184}
+[04Jan2025 03:35:02.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=368, y=70, z=-184}
+[04Jan2025 03:35:24.849] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[04Jan2025 03:35:24.850] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1
+[04Jan2025 03:35:24.850] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[04Jan2025 03:35:24.851] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[04Jan2025 03:35:24.852] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1
+[04Jan2025 03:35:24.854] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_3
+[04Jan2025 03:35:24.855] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_1
+[04Jan2025 03:35:24.856] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path
+[04Jan2025 03:35:30.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:35:30.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 03:35:37.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Getting an Upgrade]
+[04Jan2025 03:37:01.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[04Jan2025 03:37:15.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=368, y=70, z=-184}
+[04Jan2025 03:37:44.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=368, y=69, z=-190}
+[04Jan2025 03:37:46.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=369, y=68, z=-195}
+[04Jan2025 03:37:46.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=368, y=68, z=-195}
+[04Jan2025 03:37:50.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=371, y=67, z=-196}
+[04Jan2025 03:37:50.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=372, y=67, z=-196}
+[04Jan2025 03:37:52.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=377, y=67, z=-196}
+[04Jan2025 03:37:53.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=380, y=67, z=-196}
+[04Jan2025 03:38:00.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by epeps
+[04Jan2025 03:40:03.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=366, y=68, z=-194}
+[04Jan2025 03:40:08.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=365, y=69, z=-192}
+[04Jan2025 03:40:12.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=365, y=69, z=-195}
+[04Jan2025 03:40:12.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=366, y=68, z=-195}
+[04Jan2025 03:40:12.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=366, y=68, z=-197}
+[04Jan2025 03:40:30.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 03:40:30.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
