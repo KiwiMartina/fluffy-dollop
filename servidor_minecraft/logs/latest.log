@@ -1172,3 +1172,15 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 03:17:14.187] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
 [04Jan2025 03:17:44.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Postmortal]
 [04Jan2025 03:17:52.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Vex
+[04Jan2025 03:21:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Stone Age]
+[04Jan2025 03:22:52.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:61422] logged in with entity id 29400 at (375.5, 68.0, -195.5)
+[04Jan2025 03:22:52.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[04Jan2025 03:22:52.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Ice and Fire]
+[04Jan2025 03:23:32.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Not Today, Thank You]
+[04Jan2025 03:27:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Minecraft Comes Alive]
+[04Jan2025 03:29:02.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: epeps[/172.22.52.5:55590] logged in with entity id 31669 at (372.5, 64.0, -199.5)
+[04Jan2025 03:29:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps joined the game
+[04Jan2025 03:29:02.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Ice and Fire]
+[04Jan2025 03:30:23.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ReyGamarra[/172.22.196.128:52829] logged in with entity id 32272 at (366.5, 70.0, -182.5)
+[04Jan2025 03:30:23.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra joined the game
+[04Jan2025 03:30:23.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Ice and Fire]

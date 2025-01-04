@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:27:13 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/music_manager": {
     "criteria": {
       "has_diamond": "2025-01-04 02:07:49 +0000"
@@ -98,6 +104,12 @@
   "pfm:recipes/furniture/spruce_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-04 03:23:32 +0000"
     },
     "done": true
   },
@@ -630,6 +642,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-04 02:18:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-01-04 03:22:47 +0000"
     },
     "done": true
   },
@@ -1395,6 +1413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-04 02:40:52 +0000"
@@ -2115,6 +2139,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 03:27:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pewen_alexscaves_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-04 03:01:09 +0000"
@@ -2544,6 +2574,12 @@
   "supplementaries:recipes/gold_trapdoor": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:27:13 +0000"
     },
     "done": true
   },
@@ -3273,6 +3309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:27:13 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-04 03:01:09 +0000"
@@ -3306,6 +3348,12 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2025-01-04 02:00:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-04 03:27:13 +0000"
     },
     "done": true
   },
@@ -3720,6 +3768,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 02:13:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-01-04 03:22:47 +0000"
     },
     "done": true
   },
