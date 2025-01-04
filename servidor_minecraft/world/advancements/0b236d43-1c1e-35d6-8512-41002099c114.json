@@ -3228,6 +3228,12 @@
     },
     "done": true
   },
+  "pfm:recipes/building_blocks/dark_oak_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-04 05:50:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-01-04 05:33:17 +0000"
@@ -3243,6 +3249,12 @@
   "pfm:recipes/furniture/dark_oak_raw_table_log": {
     "criteria": {
       "has_log": "2025-01-04 05:34:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 05:50:58 +0000"
     },
     "done": true
   },
@@ -3264,6 +3276,30 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-01-04 05:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-04 05:50:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 05:50:58 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-01-04 05:49:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_log_stool": {
     "criteria": {
       "has_log": "2025-01-04 05:34:04 +0000"
@@ -3282,6 +3318,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 05:50:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 05:34:04 +0000"
@@ -3291,6 +3333,12 @@
   "l2complements:recipes/burnt/burnt/cooked_mutton": {
     "criteria": {
       "has_cooked_mutton": "2025-01-04 05:15:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 05:50:58 +0000"
     },
     "done": true
   },
@@ -3339,6 +3387,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-04 05:15:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-04 05:50:58 +0000"
     },
     "done": true
   },

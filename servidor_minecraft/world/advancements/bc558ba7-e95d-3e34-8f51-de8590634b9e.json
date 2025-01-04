@@ -3581,9 +3581,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-04 05:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
     },
     "done": true
   },
@@ -3647,6 +3659,36 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-01-04 05:49:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/safeguard": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/boombox": {
     "criteria": {
       "has_jukebox": "2025-01-04 05:48:04 +0000"
@@ -3665,9 +3707,21 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-01-04 05:49:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
     },
     "done": true
   },
@@ -3692,6 +3746,12 @@
   "pfm:recipes/furniture/spruce_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/life_mending": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
     },
     "done": true
   },

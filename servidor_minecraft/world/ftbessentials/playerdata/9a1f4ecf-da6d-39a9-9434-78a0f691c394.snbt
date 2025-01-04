@@ -13,6 +13,8 @@
 		{ dim: "minecraft:overworld", x: 4118, y: 66, z: -3879, time: 1735962139237L, xRot: 23.398989f, yRot: -148.29053f }
 		{ dim: "minecraft:overworld", x: 3857, y: 62, z: -3718, time: 1735965377900L, xRot: 7.050366f, yRot: 54.50769f }
 		{ dim: "minecraft:overworld", x: 3244, y: 77, z: -3542, time: 1735966243053L }
+		{ dim: "minecraft:overworld", x: 4123, y: 66, z: -3877, time: 1735969825408L, xRot: 11.849995f, yRot: 169.20207f }
+		{ dim: "minecraft:overworld", x: 4223, y: 68, z: -3946, time: 1735969830586L, xRot: 8.399987f, yRot: 125.10758f }
 	]
 	homes: { }
 	kit_use_times: { }
