@@ -1284,3 +1284,86 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 04:07:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> :c
 [04Jan2025 04:09:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon was slain by Ghost
 [04Jan2025 04:09:54.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps was slain by Ghost
+[04Jan2025 04:13:04.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Goblin's Tyranny]
+[04Jan2025 04:14:03.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Acquire Hardware]
+[04Jan2025 04:14:27.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Suit Up]
+[04Jan2025 04:14:28.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Acquire Hardware]
+[04Jan2025 04:14:44.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4249, y=64, z=-3968} BlockPos{x=4250, y=62, z=-3968}
+[04Jan2025 04:15:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Diamonds!]
+[04Jan2025 04:16:13.105] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.117] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.118] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.118] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.119] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.119] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.120] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.122] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.128] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.129] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.129] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.133] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.133] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.133] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.135] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.136] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.136] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.138] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.139] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.143] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.145] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.145] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.146] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.151] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.151] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:16:13.151] [Worker-Main-27/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[04Jan2025 04:18:31.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito fell from a high place
+[04Jan2025 04:18:42.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Crops of the Wild]
+[04Jan2025 04:19:10.571] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=3451, y=68, z=-4171}
+[04Jan2025 04:19:11.016] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3451, y=68, z=-4172} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[04Jan2025 04:19:11.016] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=3451, y=68, z=-4172}
+[04Jan2025 04:19:11.016] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3451, y=67, z=-4172} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[04Jan2025 04:19:11.017] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=3451, y=67, z=-4172}
+[04Jan2025 04:19:11.402] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3451, y=68, z=-4171} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[04Jan2025 04:19:11.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=3451, y=68, z=-4171}
+[04Jan2025 04:20:13.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Monster Hunter]
+[04Jan2025 04:22:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Who You Gonna Call?]
+[04Jan2025 04:22:53.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Sweet Dreams]
+[04Jan2025 04:22:55.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:22:56.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:22:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:22:57.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:22:58.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:22:59.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzzz
+[04Jan2025 04:22:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:00.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:01.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:02.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:02.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:03.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzz
+[04Jan2025 04:23:04.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:04.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzzz
+[04Jan2025 04:23:05.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzzzz
+[04Jan2025 04:23:06.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzzz
+[04Jan2025 04:23:07.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzzz
+[04Jan2025 04:23:08.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> zzzz
+[04Jan2025 04:23:10.914] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 04:23:11.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Voluntary Exile]
+[04Jan2025 04:26:41.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[04Jan2025 04:26:41.833] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[04Jan2025 04:26:41.838] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[04Jan2025 04:26:59.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Verka'/48652, l='ServerLevel[world]', x=4220.58, y=64.00, z=-3899.34] died, message: 'Verka was slain by Ghost'
+[04Jan2025 04:26:59.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Verka'/48652, l='ServerLevel[world]', x=4220.58, y=64.00, z=-3899.34] died: Verka was slain by Ghost
+[04Jan2025 04:27:21.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was turned into KFC by Fire Dragon
+[04Jan2025 04:27:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[04Jan2025 04:28:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> ZZZZ
+[04Jan2025 04:28:56.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was incinerated by Fire Dragon
+[04Jan2025 04:31:11.434] [pool-9-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=3979, y=69, z=-3589}
+[04Jan2025 04:31:14.865] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[04Jan2025 04:31:14.866] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[04Jan2025 04:31:51.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Take Aim]
+[04Jan2025 04:33:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Crops of the Wild]
+[04Jan2025 04:37:43.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [It Belongs in a Museum]
+[04Jan2025 04:37:45.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:59216] logged in with entity id 82074 at (-1621.7164659852267, 63.19408343571631, -574.1928614101561)
+[04Jan2025 04:37:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[04Jan2025 04:37:51.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[04Jan2025 04:40:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito drowned
