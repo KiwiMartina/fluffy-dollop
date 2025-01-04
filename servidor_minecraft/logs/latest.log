@@ -1367,3 +1367,14 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 04:37:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
 [04Jan2025 04:37:51.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
 [04Jan2025 04:40:08.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito drowned
+[04Jan2025 04:45:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was turned into KFC by Fire Dragon
+[04Jan2025 04:46:09.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Made list a server operator]
+[04Jan2025 04:46:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Made list no longer a server operator]
+[04Jan2025 04:47:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 04:50:14.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 04:50:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 burned to death
+[04Jan2025 04:51:03.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 04:51:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Fire Dragon
+[04Jan2025 04:51:19.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 04:51:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Ice Bucket Challenge]
+[04Jan2025 04:52:22.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Ice Bucket Challenge]

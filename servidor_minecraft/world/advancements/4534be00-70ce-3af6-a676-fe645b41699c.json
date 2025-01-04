@@ -2002,6 +2002,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-01-04 04:44:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-01-04 03:31:56 +0000"
@@ -2295,6 +2301,12 @@
       "log_spam_fixer": "2025-01-04 02:55:20 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 04:47:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
@@ -2678,6 +2690,7 @@
       "pumpkin_pie": "2025-01-04 03:05:52 +0000",
       "bread": "2025-01-04 03:12:58 +0000",
       "rotten_flesh": "2025-01-04 04:37:23 +0000",
+      "cod": "2025-01-04 04:49:39 +0000",
       "carrot": "2025-01-04 03:27:01 +0000"
     },
     "done": false

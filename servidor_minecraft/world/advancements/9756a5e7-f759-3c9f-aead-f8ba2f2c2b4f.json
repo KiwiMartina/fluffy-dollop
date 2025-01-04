@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-04 04:40:46 +0000",
       "minecraft:birch_forest": "2024-12-30 03:16:35 +0000",
       "minecraft:savanna_plateau": "2024-12-30 05:34:30 +0000",
       "minecraft:beach": "2024-12-30 02:51:35 +0000",
@@ -76,6 +77,7 @@
       "minecraft:river": "2024-12-30 03:11:45 +0000",
       "minecraft:stony_shore": "2024-12-30 05:17:07 +0000",
       "minecraft:dripstone_caves": "2024-12-30 04:08:45 +0000",
+      "minecraft:swamp": "2025-01-04 04:41:52 +0000",
       "minecraft:forest": "2024-12-30 03:02:49 +0000",
       "minecraft:jungle": "2025-01-01 22:51:37 +0000",
       "minecraft:ocean": "2025-01-04 02:01:37 +0000",
@@ -6447,6 +6449,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-04 02:11:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-01-04 04:49:35 +0000"
     },
     "done": true
   },

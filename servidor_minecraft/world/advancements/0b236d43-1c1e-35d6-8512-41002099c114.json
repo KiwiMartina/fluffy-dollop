@@ -944,6 +944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-04 04:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-01-04 03:28:13 +0000"
@@ -2900,7 +2906,9 @@
       "minecraft:beach": "2025-01-04 03:22:53 +0000",
       "minecraft:river": "2025-01-04 03:45:02 +0000",
       "minecraft:swamp": "2025-01-04 03:51:27 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-04 03:53:32 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-01-04 03:53:32 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-01-04 04:43:58 +0000",
+      "minecraft:plains": "2025-01-04 04:41:51 +0000"
     },
     "done": false
   },
@@ -2958,6 +2966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-04 04:47:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 03:41:50 +0000"
@@ -2981,6 +2995,7 @@
       "sweet_berries": "2025-01-04 03:39:09 +0000",
       "cooked_cod": "2025-01-04 04:25:02 +0000",
       "pumpkin_pie": "2025-01-04 03:53:34 +0000",
+      "rotten_flesh": "2025-01-04 04:47:20 +0000",
       "salmon": "2025-01-04 03:55:06 +0000",
       "cod": "2025-01-04 04:00:48 +0000",
       "carrot": "2025-01-04 03:41:39 +0000"
@@ -3068,6 +3083,12 @@
   "pfm:recipes/furniture/spruce_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-04 03:28:10 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_rabbit": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-04 04:47:43 +0000"
     },
     "done": true
   },
