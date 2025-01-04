@@ -3044,9 +3044,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2025-01-04 05:21:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-04 05:21:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-04 05:28:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_bricks": {
     "criteria": {
       "has_packed_mud": "2025-01-04 05:16:59 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-04 05:24:33 +0000"
     },
     "done": true
   },

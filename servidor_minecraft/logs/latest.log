@@ -954,3 +954,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04Jan2025 05:20:30.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1070.500000, 85.000000, 498.500000]
 [04Jan2025 05:21:04.101] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [04Jan2025 05:21:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Not Today, Thank You]
+[04Jan2025 05:22:30.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Keti'/50, l='ServerLevel[world]', x=4145.52, y=64.00, z=-3933.55] died, message: 'Keti was poked to death by a sweet berry bush'
+[04Jan2025 05:22:30.639] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Keti'/50, l='ServerLevel[world]', x=4145.52, y=64.00, z=-3933.55] died: Keti was poked to death by a sweet berry bush
+[04Jan2025 05:26:28.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:26:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was struck with lightning by Lightning Dragon
+[04Jan2025 05:26:42.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[04Jan2025 05:26:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 05:27:16.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:27:22.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Herc was on a Roll!]
+[04Jan2025 05:28:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by Skeleton
+[04Jan2025 05:28:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 05:30:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Who You Gonna Call?]
+[04Jan2025 05:30:30.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4246, y=66, z=-4050} BlockPos{x=4247, y=66, z=-4051}
+[04Jan2025 05:30:34.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4241, y=64, z=-4052} BlockPos{x=4239, y=63, z=-4051}
+[04Jan2025 05:30:34.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4241, y=64, z=-4052} BlockPos{x=4239, y=63, z=-4051}
+[04Jan2025 05:31:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:31:40.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Lightning Dragon
+[04Jan2025 05:31:42.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[04Jan2025 05:31:57.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Lightning Dragon
+[04Jan2025 05:32:14.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 05:32:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [A Seedy Place]

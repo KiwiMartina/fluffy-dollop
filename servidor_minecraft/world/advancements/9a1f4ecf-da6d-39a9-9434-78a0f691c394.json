@@ -5248,5 +5248,35 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 05:27:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-04 05:27:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-04 05:27:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-04 05:27:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-04 05:21:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

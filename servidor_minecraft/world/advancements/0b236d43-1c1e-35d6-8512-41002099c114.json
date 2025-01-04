@@ -3215,6 +3215,12 @@
     },
     "done": true
   },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2025-01-04 05:18:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-04 05:15:49 +0000"
@@ -3230,6 +3236,12 @@
   "l2complements:recipes/burnt/burnt/cooked_mutton": {
     "criteria": {
       "has_cooked_mutton": "2025-01-04 05:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-04 05:22:15 +0000"
     },
     "done": true
   },

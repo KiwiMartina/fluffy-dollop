@@ -11523,3 +11523,40 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04Jan2025 05:21:23.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tnt
 [04Jan2025 05:21:23.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_food
 [04Jan2025 05:21:44.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: epeps has made the advancement [Not Today, Thank You]
+[04Jan2025 05:22:30.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Keti'/50, l='ServerLevel[world]', x=4145.52, y=64.00, z=-3933.55] died, message: 'Keti was poked to death by a sweet berry bush'
+[04Jan2025 05:22:30.639] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Keti'/50, l='ServerLevel[world]', x=4145.52, y=64.00, z=-3933.55] died: Keti was poked to death by a sweet berry bush
+[04Jan2025 05:22:41.081] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[04Jan2025 05:22:41.090] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[04Jan2025 05:23:24.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 05:23:24.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 05:23:54.590] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[04Jan2025 05:24:02.187] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[04Jan2025 05:24:07.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[04Jan2025 05:24:09.129] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[04Jan2025 05:24:09.132] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[04Jan2025 05:26:28.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:26:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was struck with lightning by Lightning Dragon
+[04Jan2025 05:26:42.792] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[04Jan2025 05:26:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 05:27:16.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:27:22.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Herc was on a Roll!]
+[04Jan2025 05:28:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by Skeleton
+[04Jan2025 05:28:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 05:28:08.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[04Jan2025 05:28:08.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[04Jan2025 05:28:08.381] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[04Jan2025 05:28:09.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[04Jan2025 05:28:10.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[04Jan2025 05:28:24.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 05:28:24.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 05:29:01.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[04Jan2025 05:30:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Who You Gonna Call?]
+[04Jan2025 05:30:30.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4246, y=66, z=-4050} BlockPos{x=4247, y=66, z=-4051}
+[04Jan2025 05:30:34.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4241, y=64, z=-4052} BlockPos{x=4239, y=63, z=-4051}
+[04Jan2025 05:30:34.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4241, y=64, z=-4052} BlockPos{x=4239, y=63, z=-4051}
+[04Jan2025 05:31:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 05:31:40.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Lightning Dragon
+[04Jan2025 05:31:42.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[04Jan2025 05:31:57.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Lightning Dragon
+[04Jan2025 05:32:14.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[04Jan2025 05:32:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [A Seedy Place]
