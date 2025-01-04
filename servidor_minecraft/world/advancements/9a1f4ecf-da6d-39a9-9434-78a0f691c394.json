@@ -73,6 +73,7 @@
       "minecraft:savanna_plateau": "2025-01-04 05:01:01 +0000",
       "minecraft:beach": "2025-01-04 01:58:05 +0000",
       "minecraft:dark_forest": "2025-01-04 04:59:27 +0000",
+      "minecraft:sparse_jungle": "2025-01-04 22:42:39 +0000",
       "minecraft:river": "2025-01-04 02:07:17 +0000",
       "minecraft:swamp": "2025-01-04 03:05:13 +0000",
       "minecraft:cold_ocean": "2025-01-04 06:08:57 +0000",
@@ -2395,6 +2396,7 @@
       "suspicious_stew": "2025-01-04 02:25:25 +0000",
       "rotten_flesh": "2025-01-04 05:34:34 +0000",
       "salmon": "2025-01-04 06:03:57 +0000",
+      "melon_slice": "2025-01-04 22:40:53 +0000",
       "cooked_rabbit": "2025-01-04 04:44:04 +0000",
       "cooked_chicken": "2025-01-04 04:48:37 +0000",
       "carrot": "2025-01-04 06:13:39 +0000"
@@ -5901,15 +5903,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_bamboo_mineshaft": "2025-01-04 22:42:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
     },
     "done": true
   },
@@ -5937,6 +5957,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-01-04 22:19:31 +0000"
@@ -5946,6 +5978,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_bamboo_mineshaft": "2025-01-04 22:42:03 +0000"
     },
     "done": true
   },
@@ -5964,6 +6002,36 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-01-04 22:42:53 +0000"
     },
     "done": true
   },
@@ -5991,9 +6059,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
     },
     "done": true
   },
@@ -6015,9 +6095,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
     },
     "done": true
   },
@@ -6036,6 +6134,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
     },
     "done": true
   },

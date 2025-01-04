@@ -1270,6 +1270,7 @@
       "minecraft:skeleton": "2024-12-30 04:12:33 +0000",
       "minecraft:spider": "2024-12-30 03:45:55 +0000",
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
+      "minecraft:wither_skeleton": "2025-01-04 22:47:27 +0000",
       "minecraft:enderman": "2024-12-30 04:34:55 +0000",
       "minecraft:zombie": "2024-12-30 03:10:20 +0000"
     },
@@ -6624,6 +6625,18 @@
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-01-04 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-01-04 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-01-04 22:47:08 +0000"
     },
     "done": true
   },
