@@ -2768,7 +2768,8 @@
       "minecraft:wither_skeleton": "2025-01-04 22:52:34 +0000",
       "minecraft:cave_spider": "2025-01-04 03:51:20 +0000",
       "minecraft:enderman": "2025-01-04 22:12:13 +0000",
-      "minecraft:zombie": "2025-01-04 02:24:49 +0000"
+      "minecraft:zombie": "2025-01-04 02:24:49 +0000",
+      "minecraft:drowned": "2025-01-04 23:02:32 +0000"
     },
     "done": false
   },
@@ -5905,63 +5906,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-01-04 22:40:40 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
     },
     "done": true
   },
-  "hopo:minecraft/adventure/all_mineshaft": {
-    "criteria": {
-      "locate_bamboo_mineshaft": "2025-01-04 22:42:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-01-04 22:40:40 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
     },
     "done": true
   },
@@ -5977,27 +5930,9 @@
     },
     "done": true
   },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-01-04 22:53:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-01-04 22:49:49 +0000"
     },
     "done": true
   },
@@ -6007,57 +5942,9 @@
     },
     "done": true
   },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_axe": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_boots": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/jar_pixie": {
-    "criteria": {
-      "jar": "2025-01-04 22:19:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/locate_mineshaft": {
-    "criteria": {
-      "locate_bamboo_mineshaft": "2025-01-04 22:42:03 +0000"
     },
     "done": true
   },
@@ -6076,60 +5963,6 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-01-04 22:40:40 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-01-04 22:40:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-01-04 22:42:53 +0000"
     },
     "done": true
   },
@@ -6157,33 +5990,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
-    "criteria": {
-      "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
     },
     "done": true
   },
@@ -6199,6 +6008,252 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-04 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-01-04 22:19:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-04 22:40:40 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_bamboo_mineshaft": "2025-01-04 22:42:03 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_bamboo_mineshaft": "2025-01-04 22:42:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-01-04 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-04 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-01-04 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_spear": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_throwing_axe": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_claw": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_machete": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_battle_axe": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/iron_round_shield": {
+    "criteria": {
+      "has_iron_block": "2025-01-04 22:55:26 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_scythe": {
     "criteria": {
       "has_iron_block": "2025-01-04 22:55:26 +0000"
@@ -6211,63 +6266,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_sword": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_javelin": {
     "criteria": {
       "has_iron_block": "2025-01-04 22:55:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-01-04 22:40:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/iron_nunchaku": {
     "criteria": {
       "has_iron_block": "2025-01-04 22:55:26 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
-    "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-04 22:17:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-01-04 22:58:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-04 22:17:13 +0000"
     },
     "done": true
   },
@@ -6289,15 +6296,141 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "has_glass_colorless": "2025-01-04 22:17:13 +0000"
+      "avoid_vibration": "2025-01-04 22:58:07 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+  "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
-      "has_item": "2025-01-04 22:42:53 +0000"
+      "has_minecart": "2025-01-04 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-04 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-04 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-04 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-04 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-04 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-01-04 23:03:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "forge:dyes/green": "2025-01-04 23:04:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-01-04 23:08:10 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-01-04 23:08:10 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:prototype_success": {
+    "criteria": {
+      "prototype_success_0": "2025-01-04 23:08:45 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-01-04 23:12:18 +0000"
+    },
+    "done": false
+  },
+  "goblins_tyranny:fire_success": {
+    "criteria": {
+      "fire_success_0": "2025-01-04 23:12:50 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bag_success": {
+    "criteria": {
+      "bag_success_0": "2025-01-04 23:12:53 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-04 23:12:53 +0000"
     },
     "done": true
   },
