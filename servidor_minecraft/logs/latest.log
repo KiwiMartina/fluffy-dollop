@@ -926,3 +926,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04Jan2025 01:48:18.617] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
 [04Jan2025 01:48:34.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [04Jan2025 01:48:41.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
+[04Jan2025 01:49:30.644] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[04Jan2025 01:49:37.573] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[04Jan2025 01:49:40.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[04Jan2025 01:49:41.320] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[04Jan2025 01:49:43.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[04Jan2025 01:49:49.704] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[04Jan2025 01:49:49.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[04Jan2025 01:49:49.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[04Jan2025 01:50:13.186] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcp/mobius/waila/access/DataWriter
+[04Jan2025 01:50:13.188] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mcp/mobius/waila/access/ServerAccessor
+[04Jan2025 01:50:59.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[04Jan2025 01:50:59.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[04Jan2025 01:50:59.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2damagetracker/contents/attack/LogHelper$Type
+[04Jan2025 01:51:56.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2screentracker/screen/base/ClientCloseResult
+[04Jan2025 01:58:04.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:60694] logged in with entity id 1683 at (358.5, 66.0, -196.5)
+[04Jan2025 01:58:04.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[04Jan2025 01:58:04.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Ice and Fire]
+[04Jan2025 01:58:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Made EdrianferXD10 no longer a server operator]
+[04Jan2025 01:59:40.352] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
