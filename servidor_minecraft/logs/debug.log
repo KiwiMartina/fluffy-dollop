@@ -10994,3 +10994,9 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 02:38:00.318] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_4
 [04Jan2025 02:38:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Goblin's Tyranny]
 [04Jan2025 02:38:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has completed the challenge [Kinda Sus]
+[04Jan2025 02:40:23.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:40:23.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:40:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Isn't It Iron Pick]
+[04Jan2025 02:42:16.412] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[04Jan2025 02:45:23.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:45:23.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

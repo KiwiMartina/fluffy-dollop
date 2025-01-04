@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 02:02:26 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-01-04 02:27:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-04 02:39:14 +0000"
     },
     "done": true
   },
@@ -101,6 +113,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:barrel_success": {
+    "criteria": {
+      "barrel_success_0": "2025-01-04 02:38:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
@@ -116,6 +134,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-04 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-01-04 02:38:04 +0000"
     },
     "done": true
   },
@@ -302,6 +326,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-01-04 02:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
     },
     "done": true
   },
@@ -505,6 +535,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-04 02:39:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
@@ -559,6 +595,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-04 02:38:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/green_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-04 02:03:18 +0000"
@@ -568,6 +610,12 @@
   "pfm:recipes/furniture/jungle_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-04 02:13:03 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_meat_success": {
+    "criteria": {
+      "goblins_meat_success_0": "2025-01-04 02:40:25 +0000"
     },
     "done": true
   },
@@ -622,6 +670,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_machete_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
     },
     "done": true
   },
@@ -784,6 +838,12 @@
   "l2weaponry:recipes/tools/generated/craft/gold_javelin_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
     },
     "done": true
   },
@@ -1009,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-04 02:39:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:31 +0000"
@@ -1048,6 +1114,12 @@
   "pfm:recipes/furniture/jungle_table_classic": {
     "criteria": {
       "has_planks": "2025-01-04 02:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
     },
     "done": true
   },
@@ -1237,6 +1309,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/snow_walker": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_plains": "2025-01-04 02:07:21 +0000"
@@ -1348,6 +1426,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
     },
     "done": true
   },
@@ -1615,6 +1699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-04 02:02:15 +0000"
@@ -1717,6 +1807,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-04 02:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
@@ -1762,6 +1858,12 @@
   "pfm:recipes/furniture/green_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-04 02:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-04 02:39:14 +0000"
     },
     "done": true
   },
@@ -1825,6 +1927,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-01-04 02:40:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-01-04 02:04:39 +0000"
@@ -1840,6 +1948,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-04 02:02:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-04 02:43:39 +0000"
     },
     "done": true
   },
@@ -2185,6 +2299,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-01-04 02:01:50 +0000"
@@ -2218,6 +2338,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-04 01:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-04 02:43:39 +0000"
     },
     "done": true
   },
@@ -2344,6 +2470,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-04 02:43:39 +0000"
     },
     "done": true
   },
@@ -2665,6 +2797,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-04 02:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 02:03:31 +0000"
@@ -2900,6 +3038,7 @@
       "minecraft:river": "2025-01-04 02:07:17 +0000",
       "minecraft:forest": "2025-01-04 02:00:37 +0000",
       "minecraft:ocean": "2025-01-04 02:12:24 +0000",
+      "minecraft:flower_forest": "2025-01-04 02:43:33 +0000",
       "minecraft:plains": "2025-01-04 02:07:20 +0000"
     },
     "done": false
