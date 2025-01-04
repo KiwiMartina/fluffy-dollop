@@ -365,6 +365,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-01-04 03:48:38 +0000",
+      "pumpkin_pie": "2025-01-04 05:34:20 +0000",
       "bread": "2025-01-04 03:45:31 +0000",
       "rotten_flesh": "2025-01-04 03:51:48 +0000"
     },
@@ -1080,6 +1081,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-04 05:35:42 +0000",
       "minecraft:cave_spider": "2025-01-04 03:51:15 +0000",
       "minecraft:silverfish": "2025-01-04 04:46:46 +0000",
       "minecraft:zombie": "2025-01-04 04:23:57 +0000",
@@ -3115,9 +3117,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 05:36:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-01-04 05:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 05:36:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-01-04 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-04 05:36:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-01-04 05:31:17 +0000"
     },
     "done": true
   },

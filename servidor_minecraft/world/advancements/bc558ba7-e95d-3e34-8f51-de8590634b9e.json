@@ -1587,6 +1587,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-01-04 05:37:40 +0000",
       "cooked_beef": "2025-01-04 04:02:51 +0000",
       "cooked_cod": "2025-01-04 04:06:53 +0000",
       "pumpkin_pie": "2025-01-04 05:27:06 +0000",
@@ -2937,7 +2938,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-04 04:20:13 +0000",
-      "minecraft:skeleton": "2025-01-04 05:22:12 +0000"
+      "minecraft:skeleton": "2025-01-04 05:22:12 +0000",
+      "minecraft:creeper": "2025-01-04 05:33:55 +0000",
+      "minecraft:silverfish": "2025-01-04 05:32:12 +0000"
     },
     "done": false
   },
@@ -3141,7 +3144,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "onion": "2025-01-04 04:36:19 +0000"
+      "onion": "2025-01-04 04:36:19 +0000",
+      "sweet_berries": "2025-01-04 05:37:39 +0000"
     },
     "done": false
   },
@@ -3547,6 +3551,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
@@ -3583,6 +3593,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
@@ -3601,6 +3629,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 05:37:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_log_stool": {
     "criteria": {
       "has_log": "2025-01-04 05:22:07 +0000"
@@ -3613,15 +3647,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-01-04 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
     },
     "done": true
   },
@@ -3634,6 +3686,18 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-01-04 05:20:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 05:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
     },
     "done": true
   },
