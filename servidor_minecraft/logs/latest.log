@@ -1155,3 +1155,19 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [04Jan2025 23:19:17.873] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-52, z=-18}
 [04Jan2025 23:23:29.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1006, y=70, z=1616} BlockPos{x=1004, y=68, z=1616}
 [04Jan2025 23:24:54.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[04Jan2025 23:26:14.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kirill'/92588, l='ServerLevel[world]', x=922.84, y=74.00, z=1651.35] died, message: 'Kirill was slain by Zombie'
+[04Jan2025 23:26:48.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[04Jan2025 23:28:10.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 lost connection: Disconnected
+[04Jan2025 23:28:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 left the game
+[04Jan2025 23:28:14.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[04Jan2025 23:28:28.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:60125] logged in with entity id 100918 at (6603.214203399965, -17.0, -4103.333334073305)
+[04Jan2025 23:28:28.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[04Jan2025 23:28:47.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:54371] logged in with entity id 101235 at (4186.509287182733, 75.0, -3963.3049113652264)
+[04Jan2025 23:28:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[04Jan2025 23:29:32.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DarkMoon> En este momento, todos va a ser hackeados
+[04Jan2025 23:31:19.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Friendship Found]
+[04Jan2025 23:32:21.193] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Oksana}[style={}] has been infected
+[04Jan2025 23:32:25.493] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oksana'/92541, l='ServerLevel[world]', x=907.63, y=45.00, z=1627.84] died, message: 'Oksana was slain by Zombie'
+[04Jan2025 23:33:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [It Belongs in a Museum]
+[04Jan2025 23:35:16.256] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[04Jan2025 23:35:21.000] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
