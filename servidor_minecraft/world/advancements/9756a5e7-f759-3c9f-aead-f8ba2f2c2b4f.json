@@ -1572,6 +1572,7 @@
       "cooked_mutton": "2025-01-01 20:21:34 +0000",
       "cooked_beef": "2024-12-30 03:19:52 +0000",
       "apple": "2024-12-30 03:35:11 +0000",
+      "bread": "2025-01-04 02:18:27 +0000",
       "rotten_flesh": "2024-12-30 05:01:38 +0000",
       "cooked_chicken": "2024-12-30 03:47:23 +0000"
     },
@@ -6317,6 +6318,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 02:11:36 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_javelin_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:04:29 +0000"
@@ -6383,6 +6390,12 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 02:11:36 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:04:29 +0000"
@@ -6410,6 +6423,12 @@
   "l2weaponry:recipes/tools/generated/craft/gold_plate_shield_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 02:11:36 +0000"
     },
     "done": true
   },

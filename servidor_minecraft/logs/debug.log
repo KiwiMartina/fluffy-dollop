@@ -10896,3 +10896,37 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [04Jan2025 02:09:31.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Charlotte'/3240, l='ServerLevel[world]', x=-1592.50, y=61.41, z=-661.29] died, message: 'Charlotte drowned'
 [04Jan2025 02:09:31.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
 [04Jan2025 02:09:31.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[04Jan2025 02:10:23.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:10:23.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:10:42.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nadine'/3438, l='ServerLevel[world]', x=-1592.50, y=61.32, z=-661.29] died, message: 'Nadine drowned'
+[04Jan2025 02:10:42.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nadine'/3438, l='ServerLevel[world]', x=-1592.50, y=61.32, z=-661.29] died: Nadine drowned
+[04Jan2025 02:15:23.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:15:23.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:16:05.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[04Jan2025 02:19:06.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[04Jan2025 02:19:10.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[04Jan2025 02:19:40.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Siren
+[04Jan2025 02:19:41.711] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[04Jan2025 02:20:05.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Julia'/3285, l='ServerLevel[world]', x=-1592.50, y=61.31, z=-661.29] died, message: 'Julia drowned'
+[04Jan2025 02:20:23.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:20:23.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:20:33.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was doomed to fall by Skeleton
+[04Jan2025 02:20:56.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by Skeleton
+[04Jan2025 02:21:50.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was shot by Skeleton
+[04Jan2025 02:22:20.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Monster Hunter]
+[04Jan2025 02:22:56.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Suit Up]
+[04Jan2025 02:25:23.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:25:23.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:25:25.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [When the Stew is Sus]
+[04Jan2025 02:27:48.278] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:27:48.279] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:27:48.280] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:27:48.280] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:27:48.280] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:28:54.529] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:28:54.530] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:28:54.530] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:28:54.530] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:28:54.530] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[04Jan2025 02:28:54.530] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[04Jan2025 02:28:54.530] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
