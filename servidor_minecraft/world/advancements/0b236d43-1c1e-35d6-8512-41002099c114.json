@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 03:52:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-04 03:33:03 +0000"
@@ -343,7 +349,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-04 03:58:06 +0000",
       "minecraft:skeleton": "2025-01-04 03:49:49 +0000",
+      "minecraft:cave_spider": "2025-01-04 03:54:25 +0000",
       "minecraft:zombie": "2025-01-04 03:42:47 +0000"
     },
     "done": false
@@ -375,6 +383,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
     },
     "done": true
   },
@@ -444,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 03:27:30 +0000"
@@ -491,6 +511,12 @@
       "has_diamond": "2025-01-04 03:40:59 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-04 03:52:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
@@ -774,6 +800,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-01-04 03:52:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-01-04 03:28:10 +0000"
@@ -1002,6 +1034,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-01-04 03:28:13 +0000"
@@ -1116,6 +1154,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-04 03:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-01-04 03:40:59 +0000"
@@ -1137,6 +1181,12 @@
   "l2weaponry:recipes/tools/generated/craft/iron_nunchaku_enchanted": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-04 03:52:19 +0000"
     },
     "done": true
   },
@@ -1179,6 +1229,12 @@
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-04 03:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-04 03:55:26 +0000"
     },
     "done": true
   },
@@ -1254,6 +1310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:41:43 +0000"
@@ -1269,6 +1331,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-04 03:52:34 +0000"
     },
     "done": true
   },
@@ -1335,6 +1403,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 03:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
     },
     "done": true
   },
@@ -1491,6 +1565,12 @@
   "pfm:recipes/furniture/spruce_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-04 03:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-04 03:53:07 +0000"
     },
     "done": true
   },
@@ -1716,6 +1796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-04 03:53:07 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-04 03:34:20 +0000"
@@ -1860,6 +1946,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-04 03:42:50 +0000"
@@ -1902,6 +1994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-04 03:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-01-04 03:42:47 +0000"
@@ -1918,7 +2016,9 @@
     "criteria": {
       "minecraft:taiga": "2025-01-04 03:27:04 +0000",
       "minecraft:beach": "2025-01-04 03:22:53 +0000",
-      "minecraft:river": "2025-01-04 03:45:02 +0000"
+      "minecraft:river": "2025-01-04 03:45:02 +0000",
+      "minecraft:swamp": "2025-01-04 03:51:27 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-04 03:53:32 +0000"
     },
     "done": false
   },
@@ -1961,6 +2061,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-01-04 03:39:09 +0000",
+      "pumpkin_pie": "2025-01-04 03:53:34 +0000",
+      "salmon": "2025-01-04 03:55:06 +0000",
       "carrot": "2025-01-04 03:41:39 +0000"
     },
     "done": false
@@ -2004,6 +2106,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-04 03:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-04 03:54:25 +0000"
     },
     "done": true
   },

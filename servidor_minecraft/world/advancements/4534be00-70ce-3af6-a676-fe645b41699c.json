@@ -343,8 +343,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-04 03:58:10 +0000",
       "minecraft:skeleton": "2025-01-04 03:30:30 +0000",
       "minecraft:spider": "2025-01-04 03:49:15 +0000",
+      "minecraft:cave_spider": "2025-01-04 03:52:31 +0000",
       "minecraft:zombie": "2025-01-04 02:58:59 +0000"
     },
     "done": false
@@ -352,6 +354,12 @@
   "l2weaponry:recipes/tools/generated/craft/diamond_javelin_enchanted": {
     "criteria": {
       "has_diamond": "2025-01-04 03:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-04 03:58:10 +0000"
     },
     "done": true
   },
@@ -1381,6 +1389,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-04 03:50:37 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/diamond_round_shield_enchanted": {
     "criteria": {
       "has_diamond": "2025-01-04 03:06:09 +0000"
@@ -1675,6 +1689,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-04 03:50:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-01-04 03:06:11 +0000"
@@ -1780,6 +1800,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-04 03:39:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-04 03:50:37 +0000"
     },
     "done": true
   },

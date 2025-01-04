@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-04 03:54:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-04 03:01:09 +0000"
@@ -638,9 +644,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-04 02:22:20 +0000",
+      "minecraft:spider": "2025-01-04 03:50:42 +0000",
       "minecraft:creeper": "2025-01-04 02:23:13 +0000",
       "minecraft:evoker": "2025-01-04 03:17:38 +0000",
       "minecraft:witch": "2025-01-04 03:13:49 +0000",
+      "minecraft:cave_spider": "2025-01-04 03:51:20 +0000",
       "minecraft:zombie": "2025-01-04 02:24:49 +0000"
     },
     "done": false
@@ -672,6 +680,12 @@
   "pfm:recipes/furniture/iron_freezer": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 02:00:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-01-04 03:54:35 +0000"
     },
     "done": true
   },
@@ -1815,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-04 03:58:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-04 03:35:34 +0000"
@@ -2424,6 +2444,12 @@
   "pfm:recipes/furniture/spruce_table_log": {
     "criteria": {
       "has_log": "2025-01-04 02:01:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-04 03:54:25 +0000"
     },
     "done": true
   },
@@ -3885,6 +3911,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 03:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-04 02:07:31 +0000"
@@ -3948,6 +3980,12 @@
   "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-04 02:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-04 03:54:35 +0000"
     },
     "done": true
   },
@@ -4470,6 +4508,7 @@
       "minecraft:swamp": "2025-01-04 03:05:13 +0000",
       "minecraft:forest": "2025-01-04 02:00:37 +0000",
       "minecraft:ocean": "2025-01-04 02:12:24 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-04 03:50:49 +0000",
       "minecraft:flower_forest": "2025-01-04 02:43:33 +0000",
       "minecraft:plains": "2025-01-04 02:07:20 +0000"
     },
@@ -4609,6 +4648,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-04 03:50:52 +0000",
       "bread": "2025-01-04 02:08:32 +0000",
       "suspicious_stew": "2025-01-04 02:25:25 +0000"
     },
