@@ -70,16 +70,19 @@
       "minecraft:taiga": "2025-01-04 03:04:22 +0000",
       "minecraft:deep_ocean": "2025-01-04 06:17:19 +0000",
       "minecraft:birch_forest": "2025-01-04 02:19:13 +0000",
+      "minecraft:bamboo_jungle": "2025-01-04 23:43:17 +0000",
       "minecraft:savanna_plateau": "2025-01-04 05:01:01 +0000",
       "minecraft:beach": "2025-01-04 01:58:05 +0000",
       "minecraft:dark_forest": "2025-01-04 04:59:27 +0000",
       "minecraft:sparse_jungle": "2025-01-04 22:42:39 +0000",
       "minecraft:river": "2025-01-04 02:07:17 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-04 23:52:29 +0000",
       "minecraft:swamp": "2025-01-04 03:05:13 +0000",
       "minecraft:cold_ocean": "2025-01-04 06:08:57 +0000",
       "minecraft:forest": "2025-01-04 02:00:37 +0000",
       "minecraft:lush_caves": "2025-01-04 23:21:58 +0000",
       "minecraft:deep_cold_ocean": "2025-01-04 06:16:16 +0000",
+      "minecraft:desert": "2025-01-04 23:53:26 +0000",
       "minecraft:ocean": "2025-01-04 02:12:24 +0000",
       "minecraft:jungle": "2025-01-04 22:37:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:50:49 +0000",
@@ -2768,6 +2771,7 @@
       "minecraft:evoker": "2025-01-04 03:17:38 +0000",
       "minecraft:witch": "2025-01-04 03:13:49 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:52:34 +0000",
+      "minecraft:husk": "2025-01-04 23:54:16 +0000",
       "minecraft:cave_spider": "2025-01-04 03:51:20 +0000",
       "minecraft:enderman": "2025-01-04 22:12:13 +0000",
       "minecraft:zombie": "2025-01-04 02:24:49 +0000",
@@ -6601,6 +6605,42 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-04 23:25:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-01-04 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
     },
     "done": true
   },
