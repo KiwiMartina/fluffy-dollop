@@ -78,6 +78,7 @@
       "minecraft:swamp": "2025-01-04 05:20:12 +0000",
       "minecraft:cold_ocean": "2025-01-04 06:08:50 +0000",
       "minecraft:forest": "2025-01-04 03:50:20 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-04 06:16:19 +0000",
       "minecraft:windswept_forest": "2025-01-04 05:24:00 +0000",
       "minecraft:ocean": "2025-01-04 03:53:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-04 03:58:34 +0000",
@@ -3546,9 +3547,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_filled_map": "2025-01-04 05:46:34 +0000"
+      "slept_in_bed": "2025-01-04 05:17:45 +0000"
     },
     "done": true
   },
@@ -3558,9 +3559,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+  "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
-      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+      "has_any_ingredient": "2025-01-04 05:20:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 05:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-04 05:20:21 +0000"
     },
     "done": true
   },
@@ -3576,30 +3589,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-04 05:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-01-04 05:53:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-01-04 05:17:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-01-04 05:53:15 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/spruce_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
@@ -3609,24 +3598,6 @@
   "pfm:recipes/furniture/spruce_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 05:22:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_hay_block": "2025-01-04 05:34:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/fodder": {
-    "criteria": {
-      "has_hay_block": "2025-01-04 05:34:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-01-04 05:34:56 +0000"
     },
     "done": true
   },
@@ -3648,27 +3619,135 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-01-04 05:37:37 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/spruce_log_stool": {
     "criteria": {
       "has_log": "2025-01-04 05:22:07 +0000"
     },
     "done": true
   },
-  "iammusicplayer:recipes/misc/manual": {
+  "pfm:recipes/furniture/spruce_kitchen_counter": {
     "criteria": {
-      "has_book": "2025-01-04 05:53:15 +0000"
+      "has_planks": "2025-01-04 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-04 05:22:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-04 05:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-04 05:34:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 05:34:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-04 05:37:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-01-04 05:46:34 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-01-04 05:48:04 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2025-01-04 05:48:04 +0000"
     },
     "done": true
   },
   "iammusicplayer:iammusicplayer/listen_to_music": {
     "criteria": {
       "listen_to_music": "2025-01-04 05:49:51 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-01-04 05:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-01-04 05:53:15 +0000"
     },
     "done": true
   },
@@ -3690,63 +3769,9 @@
     },
     "done": true
   },
-  "iammusicplayer:recipes/misc/boombox": {
-    "criteria": {
-      "has_jukebox": "2025-01-04 05:48:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-04 05:20:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-01-04 05:34:56 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/root": {
-    "criteria": {
-      "iammusicplayer": "2025-01-04 05:49:51 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_counter": {
-    "criteria": {
-      "has_planks": "2025-01-04 05:22:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-01-04 05:53:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-04 05:34:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-04 05:22:07 +0000"
-    },
-    "done": true
-  },
-  "dummmmmmy:recipes/dummy_crafting": {
-    "criteria": {
-      "has_hay_block": "2025-01-04 05:34:55 +0000"
-    },
-    "done": true
-  },
-  "pfm:recipes/furniture/spruce_kitchen_cabinet": {
-    "criteria": {
-      "has_planks": "2025-01-04 05:22:07 +0000"
     },
     "done": true
   },
@@ -3756,29 +3781,90 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "has_carrot": "2025-01-04 05:20:21 +0000"
+      "underground_cabin": "2025-01-04 06:14:10 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "killed_fire_dragon": "2025-01-04 05:30:15 +0000"
+      "bastion": "2025-01-04 06:20:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_hay_block": "2025-01-04 05:34:55 +0000"
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-04 06:29:58 +0000",
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
     },
     "done": true
   },
-  "iammusicplayer:recipes/misc/cassette_deck": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_jukebox": "2025-01-04 05:48:04 +0000"
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-04 06:29:31 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

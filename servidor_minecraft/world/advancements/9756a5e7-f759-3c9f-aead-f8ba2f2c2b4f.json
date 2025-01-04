@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-04 04:40:46 +0000",
+      "minecraft:deep_ocean": "2025-01-04 06:23:28 +0000",
       "minecraft:birch_forest": "2024-12-30 03:16:35 +0000",
       "minecraft:savanna_plateau": "2024-12-30 05:34:30 +0000",
       "minecraft:beach": "2024-12-30 02:51:35 +0000",
