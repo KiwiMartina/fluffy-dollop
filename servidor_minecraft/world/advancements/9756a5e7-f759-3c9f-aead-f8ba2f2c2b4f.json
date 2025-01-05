@@ -1272,6 +1272,7 @@
       "minecraft:skeleton": "2024-12-30 04:12:33 +0000",
       "minecraft:spider": "2024-12-30 03:45:55 +0000",
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
+      "minecraft:phantom": "2025-01-05 01:01:03 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:47:27 +0000",
       "minecraft:enderman": "2024-12-30 04:34:55 +0000",
       "minecraft:zombie": "2024-12-30 03:10:20 +0000"
@@ -6260,7 +6261,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:toxic_heap": "2025-01-02 00:34:12 +0000"
+      "incendium:toxic_heap": "2025-01-02 00:34:12 +0000",
+      "incendium:withered_forest": "2025-01-05 01:04:28 +0000"
     },
     "done": false
   },
@@ -6642,9 +6644,21 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-05 01:04:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-01-05 00:57:21 +0000"
     },
     "done": true
   },
@@ -6657,6 +6671,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-04 23:40:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-01-05 01:04:28 +0000"
     },
     "done": true
   },
@@ -6675,6 +6695,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-01-05 00:11:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-01-05 01:04:28 +0000"
     },
     "done": true
   },
@@ -6747,6 +6773,12 @@
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-01-04 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-01-05 00:57:21 +0000"
     },
     "done": true
   },
@@ -6849,6 +6881,12 @@
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-01-05 01:01:46 +0000"
     },
     "done": true
   },

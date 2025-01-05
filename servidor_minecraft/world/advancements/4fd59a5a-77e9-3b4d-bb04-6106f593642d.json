@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-05 01:00:52 +0000",
       "minecraft:taiga": "2025-01-05 00:12:04 +0000",
       "minecraft:deep_ocean": "2025-01-05 00:44:36 +0000",
       "minecraft:birch_forest": "2025-01-04 22:48:13 +0000",
@@ -3862,6 +3863,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-05 01:00:22 +0000",
       "minecraft:creeper": "2025-01-04 23:54:30 +0000",
       "minecraft:zombie": "2025-01-04 23:48:52 +0000"
     },
@@ -4302,6 +4304,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-05 00:51:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-05 01:03:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-05 01:03:57 +0000"
     },
     "done": true
   },
