@@ -1,35 +1,35 @@
 
 [Nehemoth]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Nehemoth Heath Multipler" = 1.0
+	"Sets Nehemoth Heath Multipler" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Nehemoth Ranged Damage" = 3.0
+	"Sets Nehemoth Ranged Damage" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Nehemoth Laser Damage" = 3.0
+	"Sets Nehemoth Laser Damage" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Nehemoth Melee Damage Multipler" = 1.0
+	"Sets Nehemoth Melee Damage Multipler" = 5.0
 
 [Froglin]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Froglin Heath Multipler" = 1.0
+	"Sets Froglin Heath Multipler" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Froglin Projetile Damage" = 7.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Froglin Melee Damage Multipler" = 1.0
+	"Sets Froglin Melee Damage Multipler" = 5.0
 
 [Bulldrogioth]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Bulldrogioth Heath Multipler" = 1.0
+	"Sets Bulldrogioth Heath Multipler" = 4.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Bulldrogioth Melee Damage Multipler" = 1.0
+	"Sets Bulldrogioth Melee Damage Multipler" = 4.0
 
 [Cleric]
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Cleric Heath Multipler" = 1.0
+	"Sets Cleric Heath Multipler" = 2.0
 	#Range: 1.0 ~ 1.7976931348623157E308
 	"Sets Cleric Projectile Damage" = 5.0
 	#Range: 1.0 ~ 1.7976931348623157E308
-	"Sets Cleric Melee Damage Multipler" = 1.0
+	"Sets Cleric Melee Damage Multipler" = 4.0
 
 [SpawnRate]
 	#Changed Cleric SpawnRate. [0 ~ 100]
@@ -57,16 +57,16 @@
 [spawnRoll]
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
-	"Cleric SpawnRoll" = 25
+	"Cleric SpawnRoll" = 15
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
-	"Nehemoth SpawnRoll" = 15
+	"Nehemoth SpawnRoll" = 8
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
 	"Bulldrogioth SpawnRoll" = 15
 	#Random roll chance to enable mob spawning. Higher number = lower chance of spawning
 	#Range: > 0
-	"Froglin SpawnRoll" = 8
+	"Froglin SpawnRoll" = 5
 
 [Equipment]
 	#Range: 1.0 ~ 1.7976931348623157E308
