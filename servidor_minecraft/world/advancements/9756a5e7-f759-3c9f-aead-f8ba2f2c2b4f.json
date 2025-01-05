@@ -71,6 +71,7 @@
       "minecraft:deep_ocean": "2025-01-04 06:23:28 +0000",
       "minecraft:sunflower_plains": "2025-01-05 03:01:03 +0000",
       "minecraft:birch_forest": "2024-12-30 03:16:35 +0000",
+      "minecraft:windswept_hills": "2025-01-05 03:33:52 +0000",
       "minecraft:savanna_plateau": "2024-12-30 05:34:30 +0000",
       "minecraft:beach": "2024-12-30 02:51:35 +0000",
       "minecraft:dark_forest": "2024-12-30 03:13:07 +0000",
@@ -6916,6 +6917,12 @@
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2025-01-05 03:45:55 +0000"
     },
     "done": true
   },

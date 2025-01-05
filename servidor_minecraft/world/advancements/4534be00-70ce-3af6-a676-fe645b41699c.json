@@ -5194,6 +5194,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-05 03:45:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/stymphalian_arrow": {
+    "criteria": {
+      "bestiary": "2025-01-05 03:35:26 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-05 02:23:23 +0000"
@@ -5533,6 +5545,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-05 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-05 03:45:13 +0000"
     },
     "done": true
   },

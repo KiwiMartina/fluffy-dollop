@@ -5617,6 +5617,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-05 03:33:42 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
@@ -6025,6 +6031,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-05 03:44:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-01-05 03:13:37 +0000"
@@ -6045,6 +6057,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-01-05 03:35:11 +0000",
       "incendium:toxic_heap": "2025-01-05 03:18:27 +0000",
       "incendium:withered_forest": "2025-01-05 03:19:52 +0000"
     },
@@ -6428,9 +6441,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-05 03:44:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blackstone_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-01-05 03:37:14 +0000"
     },
     "done": true
   },
@@ -6497,6 +6522,12 @@
   "pfm:recipes/furniture/blackstone_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-01-05 03:35:11 +0000"
     },
     "done": true
   },
