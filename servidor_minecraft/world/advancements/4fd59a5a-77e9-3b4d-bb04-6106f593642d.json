@@ -82,16 +82,19 @@
       "minecraft:lukewarm_ocean": "2025-01-05 01:57:47 +0000",
       "minecraft:stony_shore": "2025-01-04 23:04:26 +0000",
       "minecraft:snowy_plains": "2025-01-05 01:27:36 +0000",
+      "minecraft:snowy_taiga": "2025-01-05 02:53:55 +0000",
       "minecraft:grove": "2025-01-05 01:42:02 +0000",
       "minecraft:cold_ocean": "2025-01-05 00:13:05 +0000",
       "minecraft:forest": "2025-01-04 23:02:35 +0000",
       "minecraft:deep_cold_ocean": "2025-01-05 00:43:30 +0000",
+      "minecraft:ice_spikes": "2025-01-05 02:59:44 +0000",
       "minecraft:windswept_forest": "2025-01-05 02:20:19 +0000",
       "minecraft:ocean": "2025-01-04 22:46:50 +0000",
       "minecraft:jungle": "2025-01-05 01:51:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-05 01:09:18 +0000",
       "minecraft:windswept_savanna": "2025-01-05 02:00:42 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 22:55:41 +0000",
+      "minecraft:meadow": "2025-01-05 02:52:43 +0000",
       "minecraft:savanna": "2025-01-04 23:03:03 +0000",
       "minecraft:plains": "2025-01-04 22:40:11 +0000"
     },
@@ -3875,6 +3878,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-05 01:00:22 +0000",
+      "minecraft:spider": "2025-01-05 02:47:26 +0000",
       "minecraft:creeper": "2025-01-04 23:54:30 +0000",
       "minecraft:zombie": "2025-01-04 23:48:52 +0000"
     },
@@ -4318,9 +4322,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-01-05 02:44:17 +0000"
     },
     "done": true
   },
@@ -4330,9 +4352,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-01-05 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4345,6 +4397,30 @@
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-01-05 02:38:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4366,9 +4442,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-01-05 02:44:17 +0000"
     },
     "done": true
   },
@@ -4381,6 +4475,12 @@
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-01-05 01:57:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4402,9 +4502,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-01-05 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-05 02:54:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-01-05 02:44:17 +0000"
     },
     "done": true
   },
@@ -4414,9 +4550,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-05 02:45:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-01-05 01:32:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4432,6 +4598,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-01-05 01:14:03 +0000"
@@ -4444,9 +4616,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-05 02:50:03 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-01-05 02:44:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-01-05 02:38:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
     },
     "done": true
   },
@@ -4462,9 +4658,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-05 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4486,6 +4718,24 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
     "criteria": {
       "has_sea_serpent_scales_red": "2025-01-05 01:57:11 +0000"
@@ -4498,9 +4748,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-05 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
     },
     "done": true
   },
@@ -4516,9 +4778,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-01-05 01:03:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4534,9 +4808,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/wall_toilet_paper": {
     "criteria": {
       "has_paper": "2025-01-05 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
     },
     "done": true
   },
@@ -4546,9 +4832,27 @@
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/cassette_deck": {
+    "criteria": {
+      "has_jukebox": "2025-01-05 02:44:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-01-05 01:57:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:44:17 +0000"
     },
     "done": true
   },

@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-04 04:40:46 +0000",
       "minecraft:deep_ocean": "2025-01-04 06:23:28 +0000",
+      "minecraft:sunflower_plains": "2025-01-05 03:01:03 +0000",
       "minecraft:birch_forest": "2024-12-30 03:16:35 +0000",
       "minecraft:savanna_plateau": "2024-12-30 05:34:30 +0000",
       "minecraft:beach": "2024-12-30 02:51:35 +0000",
@@ -86,6 +87,7 @@
       "minecraft:jungle": "2025-01-01 22:51:37 +0000",
       "minecraft:ocean": "2025-01-04 02:01:37 +0000",
       "minecraft:windswept_savanna": "2025-01-05 02:06:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-05 02:59:31 +0000",
       "minecraft:flower_forest": "2025-01-05 00:11:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 03:12:16 +0000",
       "minecraft:deep_dark": "2024-12-30 04:17:58 +0000",
@@ -6686,6 +6688,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_chestplate": {
     "criteria": {
       "has_item": "2025-01-05 02:01:42 +0000"
@@ -6752,6 +6760,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/ender_mask": {
     "criteria": {
       "has_ender_eye": "2025-01-05 01:26:12 +0000"
@@ -6800,6 +6814,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-04 23:40:37 +0000"
@@ -6836,6 +6856,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-01-05 00:17:12 +0000"
@@ -6857,6 +6883,18 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-05 02:53:43 +0000"
     },
     "done": true
   },
@@ -6962,6 +7000,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-05 01:24:35 +0000"
@@ -6986,9 +7030,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-01-04 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
     },
     "done": true
   },
@@ -7007,6 +7075,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-01-04 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
     },
     "done": true
   },
@@ -7055,6 +7129,12 @@
   "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
       "has_item": "2025-01-05 01:25:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
     },
     "done": true
   },
@@ -7118,6 +7198,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
@@ -7178,6 +7276,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
     "criteria": {
       "has_dragonscales_silver": "2025-01-05 02:01:42 +0000"
@@ -7190,6 +7294,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-01-05 01:53:35 +0000"
@@ -7199,6 +7309,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-05 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
     },
     "done": true
   },
@@ -7217,6 +7333,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
     },
     "done": true
   },
