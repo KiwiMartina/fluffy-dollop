@@ -1269,6 +1269,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-05 01:10:55 +0000",
       "minecraft:skeleton": "2024-12-30 04:12:33 +0000",
       "minecraft:spider": "2024-12-30 03:45:55 +0000",
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
@@ -6646,7 +6647,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-01-05 01:04:10 +0000"
+      "minecraft:nether_wastes": "2025-01-05 01:04:10 +0000",
+      "minecraft:warped_forest": "2025-01-05 01:15:54 +0000"
     },
     "done": false
   },
@@ -6773,6 +6775,12 @@
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-01-04 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-05 01:09:11 +0000"
     },
     "done": true
   },
