@@ -923,3 +923,24 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [05Jan2025 23:02:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -209.500000, 6.000000, 5873.500000]
 [05Jan2025 23:02:07.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10276ms or 205 ticks behind
 [05Jan2025 23:02:27.905] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[05Jan2025 23:03:14.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Hunt and Gather]
+[05Jan2025 23:03:33.208] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[05Jan2025 23:07:10.563] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/CassetteDeckBlockEntity$MonitorType
+[05Jan2025 23:07:10.567] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/ImageInfo$ImageType
+[05Jan2025 23:07:10.849] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[05Jan2025 23:07:10.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[05Jan2025 23:07:10.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[05Jan2025 23:07:20.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[05Jan2025 23:11:08.003] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[05Jan2025 23:16:21.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EdrianferXD10[/172.22.218.247:61050] logged in with entity id 7134 at (785.4632316361618, 67.5625, 4899.264716313249)
+[05Jan2025 23:16:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 joined the game
+[05Jan2025 23:16:21.767] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[05Jan2025 23:17:00.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexander'/301, l='ServerLevel[world]', x=744.69, y=63.00, z=18467.30] died, message: 'Alexander was slain by Zombie'
+[05Jan2025 23:17:00.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alexander'/301, l='ServerLevel[world]', x=744.69, y=63.00, z=18467.30] died: Alexander was slain by Zombie
+[05Jan2025 23:17:00.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[05Jan2025 23:19:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> se edrianfer llamada?
+[05Jan2025 23:19:46.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> a
+[05Jan2025 23:19:49.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EdrianferXD10> ya
+[05Jan2025 23:20:23.856] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Sara}[style={}] has been infected
+[05Jan2025 23:20:24.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sara'/276, l='ServerLevel[world]', x=797.00, y=65.00, z=18477.30] died, message: 'Sara was slain by Andrejs'
+[05Jan2025 23:20:24.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sara'/276, l='ServerLevel[world]', x=797.00, y=65.00, z=18477.30] died: Sara was slain by Andrejs

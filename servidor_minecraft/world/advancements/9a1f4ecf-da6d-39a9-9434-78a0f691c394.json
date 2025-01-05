@@ -7612,77 +7612,161 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "supplementaries:recipes/globe_sepia": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_globe": "2025-01-05 04:23:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "iceandfire:recipes/combat/tide_teal_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_sea_serpent_scales_teal": "2025-01-05 04:23:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_sea_serpent_scales_blue": "2025-01-05 04:23:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_item": "2025-01-05 04:23:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:09:03 +0000"
+      "has_nautilus_core": "2025-01-05 04:26:16 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-01-05 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-01-05 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-01-05 04:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-05 04:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-05 04:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-05 04:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-05 04:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-01-05 04:51:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 04:53:39 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-05 04:53:42 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-05 04:59:56 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-05 04:59:56 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_reach": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-05 04:59:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-05 05:03:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
@@ -7696,33 +7780,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/use_tide_trident": {
-    "criteria": {
-      "shot_arrow": "2025-01-05 04:53:39 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:47 +0000"
     },
     "done": true
   },
@@ -7744,36 +7804,6 @@
     },
     "done": true
   },
-  "minecraft:nether/uneasy_alliance": {
-    "criteria": {
-      "killed_ghast": "2025-01-05 04:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2025-01-05 04:26:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
-    "criteria": {
-      "has_sea_serpent_scales_blue": "2025-01-05 04:23:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-05 04:44:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-01-05 04:36:15 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
@@ -7786,45 +7816,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_boots": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-05 04:44:45 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
-    "criteria": {
-      "has_lapis_block": "2025-01-05 05:05:09 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_bricks": {
-    "criteria": {
-      "has_packed_mud": "2025-01-05 05:08:59 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
-    "criteria": {
-      "has_lapis_block": "2025-01-05 05:05:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2025-01-05 04:36:15 +0000"
     },
     "done": true
   },
@@ -7840,63 +7834,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-01-05 05:03:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:57 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/ghast_tear": {
-    "criteria": {
-      "has_ghast_tear": "2025-01-05 04:53:42 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_blue_boots": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_globe": "2025-01-05 04:23:32 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/parabolic_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-05 04:59:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-01-05 04:39:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_blue_helmet": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:57 +0000"
     },
     "done": true
   },
@@ -7912,30 +7858,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
-    "criteria": {
-      "has_item": "2025-01-05 04:23:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2025-01-05 04:23:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-01-05 05:05:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-01-05 04:36:15 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
@@ -7948,27 +7870,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-05 04:44:45 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/radio_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-05 04:59:56 +0000"
-    },
-    "done": true
-  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/ender_reach": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-05 04:59:56 +0000"
     },
     "done": true
   },
@@ -7993,6 +7897,30 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
     "criteria": {
       "has_gold_block": "2025-01-05 05:05:05 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-01-05 05:05:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-01-05 05:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-05 05:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-01-05 05:08:59 +0000"
     },
     "done": true
   },
