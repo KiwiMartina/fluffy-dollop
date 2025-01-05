@@ -11159,3 +11159,143 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [05Jan2025 23:20:24.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sara'/276, l='ServerLevel[world]', x=797.00, y=65.00, z=18477.30] died: Sara was slain by Andrejs
 [05Jan2025 23:24:14.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jan2025 23:24:14.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 23:26:09.166] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[05Jan2025 23:26:09.167] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[05Jan2025 23:26:48.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 8.002547474901803,0.0,-6.411804521815391
+[05Jan2025 23:26:48.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 8.311530453226396,0.0,-6.664094397952688
+[05Jan2025 23:26:51.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/giant_portal_1
+[05Jan2025 23:26:53.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -25.553786093056033,0.0,17.376391395210568
+[05Jan2025 23:26:53.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -25.553786093056033,0.0,17.376391395210568
+[05Jan2025 23:26:53.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -25.401243286904673,0.0,17.276877233190227
+[05Jan2025 23:26:53.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -25.233380195526706,0.0,17.16152310360215
+[05Jan2025 23:26:53.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -25.051728847810182,0.0,17.03191300358076
+[05Jan2025 23:26:53.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -24.85766806971742,0.0,16.889472530509288
+[05Jan2025 23:26:53.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -24.65243880458206,0.0,16.73548472199863
+[05Jan2025 23:26:53.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -24.437157901374803,0.0,16.571104311868027
+[05Jan2025 23:26:53.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -24.21283052414219,0.0,16.397370560527243
+[05Jan2025 23:26:53.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -23.980361320502652,0.0,16.2152188023203
+[05Jan2025 23:26:53.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -23.740564473290988,0.0,16.025490838134516
+[05Jan2025 23:26:53.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -23.4941727470391,0.0,15.828944288748403
+[05Jan2025 23:26:53.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -23.24184562980804,0.0,15.626261012844559
+[05Jan2025 23:26:53.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -22.98417666083742,0.0,15.418054683221072
+[05Jan2025 23:26:53.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -22.721700025428618,0.0,15.20487760538159
+[05Jan2025 23:26:53.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -22.454896490339934,0.0,14.987226854266218
+[05Jan2025 23:26:53.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -22.18419874564256,0.0,14.765549797309212
+[05Jan2025 23:26:53.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -21.909996212390297,0.0,14.540249065190729
+[05Jan2025 23:26:53.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -21.632639369522167,0.0,14.311687025513308
+[05Jan2025 23:26:54.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -21.352443648074768,0.0,14.080189809110596
+[05Jan2025 23:26:54.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -21.06969293597399,0.0,13.846050933725106
+[05Jan2025 23:26:54.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -20.7846427323459,0.0,13.6095345653181
+[05Jan2025 23:26:54.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -20.497522986398053,0.0,13.370878453248409
+[05Jan2025 23:26:54.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -20.20854065241201,0.0,13.130296571933322
+[05Jan2025 23:26:54.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -19.917436632643103,0.0,12.888518893820581
+[05Jan2025 23:26:54.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -19.624029868977686,0.0,12.646155835417613
+[05Jan2025 23:26:54.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -19.328202440426594,0.0,12.403714141207008
+[05Jan2025 23:26:54.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -19.02989124893088,0.0,12.161605563294984
+[05Jan2025 23:26:54.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -18.729071707648018,0.0,11.92016728506508
+[05Jan2025 23:26:54.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -18.42575486585588,0.0,11.679665265331728
+[05Jan2025 23:26:54.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -18.119976040856727,0.0,11.440309854460718
+[05Jan2025 23:26:54.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -17.81179153435687,0.0,11.202260718190772
+[05Jan2025 23:26:55.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -17.50127146763134,0.0,10.965637695198563
+[05Jan2025 23:26:55.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -17.188499956738042,0.0,10.73052117931281
+[05Jan2025 23:26:55.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -16.873566828702906,0.0,10.49696528223085
+[05Jan2025 23:26:55.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -16.556568786407297,0.0,10.264997004663005
+[05Jan2025 23:26:55.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -16.23760628838886,0.0,10.034621929526821
+[05Jan2025 23:26:55.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -15.916780830067637,0.0,9.805829411014312
+[05Jan2025 23:26:55.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -15.59419258625735,0.0,9.57859730621966
+[05Jan2025 23:26:55.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -15.269940394214018,0.0,9.352893020541138
+[05Jan2025 23:26:55.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -14.944123761213405,0.0,9.128671203814985
+[05Jan2025 23:26:55.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -14.616836606116067,0.0,8.90588472280254
+[05Jan2025 23:26:55.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -14.288171767017047,0.0,8.684478260635128
+[05Jan2025 23:26:56.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -13.958217018953519,0.0,8.464395622770297
+[05Jan2025 23:26:56.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -13.627057521087181,0.0,8.245576518564082
+[05Jan2025 23:26:56.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -13.294774033106933,0.0,8.027960210021167
+[05Jan2025 23:26:56.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -12.96144332164954,0.0,7.811485537903582
+[05Jan2025 23:26:56.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -12.62713851862577,0.0,7.59609093964059
+[05Jan2025 23:26:56.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -12.291929458616778,0.0,7.381714472898167
+[05Jan2025 23:26:56.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -11.955881015576324,0.0,7.16829713553609
+[05Jan2025 23:26:56.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -11.619053591443617,0.0,6.955782558549977
+[05Jan2025 23:26:56.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -11.281503544717907,0.0,6.744116739032343
+[05Jan2025 23:26:56.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -10.943285550580185,0.0,6.533244495505073
+[05Jan2025 23:26:56.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -10.604448835318635,0.0,6.3231161814029875
+[05Jan2025 23:26:56.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -10.265041625321828,0.0,6.113680522917424
+[05Jan2025 23:26:56.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -9.925107339239958,0.0,5.904891381072385
+[05Jan2025 23:26:56.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -9.584685072483126,0.0,5.696707240103805
+[05Jan2025 23:26:56.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -9.24381390757344,0.0,5.489084130885313
+[05Jan2025 23:26:56.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! -8.902529029955758,0.0,5.28198248679216
+[05Jan2025 23:26:58.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[05Jan2025 23:27:01.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 8.99278698558328,0.0,-5.223852839634839
+[05Jan2025 23:27:01.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 9.338680775798366,0.0,-5.424743602040602
+[05Jan2025 23:27:01.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 9.684574946201337,0.0,-5.625633780965474
+[05Jan2025 23:27:01.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 10.030469458773268,0.0,-5.82652343475756
+[05Jan2025 23:27:01.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 10.376364279297377,0.0,-6.0274126159301495
+[05Jan2025 23:27:01.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 10.722259376978172,0.0,-6.2283013717452045
+[05Jan2025 23:27:01.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 11.068154724100168,0.0,-6.429189744738489
+[05Jan2025 23:27:01.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 11.414050295719335,0.0,-6.630077773192188
+[05Jan2025 23:27:01.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 11.759946069385705,0.0,-6.830965491560268
+[05Jan2025 23:27:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 12.105842024894855,0.0,-7.0318529308513
+[05Jan2025 23:27:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 12.451738144062347,0.0,-7.232740118972994
+[05Jan2025 23:27:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 12.797634410522278,0.0,-7.43362708104229
+[05Jan2025 23:27:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 13.143530809545382,0.0,-7.634513839664433
+[05Jan2025 23:27:01.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 13.489427327875546,0.0,-7.835400415184145
+[05Jan2025 23:27:01.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 13.835323953581792,0.0,-8.03628682591167
+[05Jan2025 23:27:01.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.181220675926625,0.0,-8.237173088326234
+[05Jan2025 23:27:01.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.527117485246208,0.0,-8.438059217259136
+[05Jan2025 23:27:01.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 14.873014372843045,0.0,-8.638945226058544
+[05Jan2025 23:27:01.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.218911330889568,0.0,-8.83983112673781
+[05Jan2025 23:27:01.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.564808352340606,0.0,-9.040716930108953
+[05Jan2025 23:27:01.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 15.910705430855842,0.0,-9.241602645902786
+[05Jan2025 23:27:01.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 16.256602560728652,0.0,-9.442488282877042
+[05Jan2025 23:27:01.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/trap/trap_5
+[05Jan2025 23:27:01.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1_alt
+[05Jan2025 23:27:01.340] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1_alt
+[05Jan2025 23:27:01.341] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_5
+[05Jan2025 23:27:01.343] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[05Jan2025 23:27:01.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_2
+[05Jan2025 23:27:01.346] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/down_3
+[05Jan2025 23:27:03.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 8.993297880683485,0.0,-5.223068759942627
+[05Jan2025 23:27:03.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 9.09975611132063,0.0,-5.423954106420261
+[05Jan2025 23:27:03.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ErickJaeger) moved too quickly! 9.09975611132063,0.0,-5.6248394110099476
+[05Jan2025 23:27:45.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[05Jan2025 23:27:46.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[05Jan2025 23:27:46.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[05Jan2025 23:27:46.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down
+[05Jan2025 23:27:46.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_alt
+[05Jan2025 23:27:46.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/portal
+[05Jan2025 23:27:46.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_1
+[05Jan2025 23:27:46.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_tnt
+[05Jan2025 23:27:46.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_iron
+[05Jan2025 23:27:46.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_crafting
+[05Jan2025 23:27:46.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_copper
+[05Jan2025 23:27:46.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_food
+[05Jan2025 23:27:46.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils_2
+[05Jan2025 23:27:46.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/copper
+[05Jan2025 23:27:46.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_rip
+[05Jan2025 23:27:46.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_4
+[05Jan2025 23:27:46.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_weapons
+[05Jan2025 23:27:46.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/big_rooms/r_anchor
+[05Jan2025 23:27:46.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_fossils_3
+[05Jan2025 23:27:46.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_bedroom_3
+[05Jan2025 23:27:46.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_amethyst
+[05Jan2025 23:27:46.038] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_3
+[05Jan2025 23:27:46.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[05Jan2025 23:27:46.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_2
+[05Jan2025 23:27:46.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path
+[05Jan2025 23:27:46.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn
+[05Jan2025 23:27:46.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[05Jan2025 23:27:46.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_books
+[05Jan2025 23:27:46.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_alt
+[05Jan2025 23:28:52.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[05Jan2025 23:29:14.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 23:29:14.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 23:30:52.004] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[05Jan2025 23:31:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[05Jan2025 23:32:05.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jakov'/294, l='ServerLevel[world]', x=859.61, y=41.00, z=18445.73] died, message: 'Jakov was slain by Zombie'
+[05Jan2025 23:32:05.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jakov'/294, l='ServerLevel[world]', x=859.61, y=41.00, z=18445.73] died: Jakov was slain by Zombie
+[05Jan2025 23:32:23.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[05Jan2025 23:33:50.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[05Jan2025 23:34:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Ol' Betsy]
+[05Jan2025 23:34:14.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 23:34:14.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 23:34:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was shot by %2$s
+[05Jan2025 23:34:49.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
