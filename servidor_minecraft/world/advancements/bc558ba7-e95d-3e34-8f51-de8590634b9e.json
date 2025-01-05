@@ -72,6 +72,7 @@
       "minecraft:savanna_plateau": "2025-01-04 04:38:48 +0000",
       "minecraft:beach": "2025-01-04 03:30:24 +0000",
       "minecraft:dark_forest": "2025-01-04 04:53:50 +0000",
+      "minecraft:sparse_jungle": "2025-01-04 23:57:08 +0000",
       "minecraft:lukewarm_ocean": "2025-01-04 03:58:41 +0000",
       "minecraft:river": "2025-01-04 03:51:56 +0000",
       "minecraft:stony_shore": "2025-01-04 03:59:59 +0000",
@@ -79,8 +80,10 @@
       "minecraft:cold_ocean": "2025-01-04 06:08:50 +0000",
       "minecraft:forest": "2025-01-04 03:50:20 +0000",
       "minecraft:deep_cold_ocean": "2025-01-04 06:16:19 +0000",
+      "minecraft:desert": "2025-01-05 00:04:43 +0000",
       "minecraft:windswept_forest": "2025-01-04 05:24:00 +0000",
       "minecraft:ocean": "2025-01-04 03:53:26 +0000",
+      "minecraft:jungle": "2025-01-04 23:55:43 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-04 03:58:34 +0000",
       "minecraft:savanna": "2025-01-04 04:00:33 +0000",
       "minecraft:plains": "2025-01-04 03:36:45 +0000"
@@ -2942,7 +2945,8 @@
       "minecraft:pillager": "2025-01-04 04:20:13 +0000",
       "minecraft:skeleton": "2025-01-04 05:22:12 +0000",
       "minecraft:creeper": "2025-01-04 05:33:55 +0000",
-      "minecraft:silverfish": "2025-01-04 05:32:12 +0000"
+      "minecraft:silverfish": "2025-01-04 05:32:12 +0000",
+      "minecraft:zombie": "2025-01-04 23:56:59 +0000"
     },
     "done": false
   },
