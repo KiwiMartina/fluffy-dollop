@@ -4150,6 +4150,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:poison_success": {
+    "criteria": {
+      "poison_success_0": "2025-01-05 01:46:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-01-05 00:39:54 +0000"

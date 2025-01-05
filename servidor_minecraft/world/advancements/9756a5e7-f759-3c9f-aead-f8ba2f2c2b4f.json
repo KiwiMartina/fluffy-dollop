@@ -6660,6 +6660,12 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 00:07:30 +0000"
@@ -6675,6 +6681,12 @@
   "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
     "criteria": {
       "has_anvil": "2025-01-05 00:57:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6702,9 +6714,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/soul_fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6726,9 +6750,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-01-05 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6738,9 +6774,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-01-05 00:11:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6792,6 +6840,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-01-05 01:26:08 +0000"
@@ -6819,6 +6873,12 @@
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-01-05 00:17:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6861,6 +6921,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-05 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6909,6 +6975,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-01-04 22:51:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },
@@ -6972,6 +7044,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 00:07:30 +0000"
@@ -6999,6 +7083,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
+  "cardinal_sins:firstofthesins": {
+    "criteria": {
+      "firstofthesins": "2025-01-05 01:42:43 +0000"
     },
     "done": true
   },
@@ -7038,6 +7128,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
@@ -7062,15 +7158,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
     },
     "done": true
   },

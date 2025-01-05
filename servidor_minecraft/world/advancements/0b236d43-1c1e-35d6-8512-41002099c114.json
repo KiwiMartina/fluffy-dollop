@@ -3589,9 +3589,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3661,9 +3673,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3685,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 01:50:25 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
@@ -3697,9 +3727,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 01:50:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3709,9 +3757,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3724,6 +3796,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3745,6 +3823,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
@@ -3754,6 +3838,18 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3784,6 +3880,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3823,9 +3925,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "mca:hunted": {
     "criteria": {
       "iron": "2025-01-05 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3847,9 +3961,33 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 01:50:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-01-04 23:33:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3883,15 +4021,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3907,15 +4069,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },
@@ -3928,6 +4120,18 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-05 01:50:25 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 01:44:33 +0000"
     },
     "done": true
   },

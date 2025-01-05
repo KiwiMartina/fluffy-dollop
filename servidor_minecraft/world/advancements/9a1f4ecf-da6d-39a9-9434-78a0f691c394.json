@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-04 03:04:22 +0000",
       "minecraft:deep_ocean": "2025-01-04 06:17:19 +0000",
+      "minecraft:frozen_river": "2025-01-05 01:44:14 +0000",
       "minecraft:birch_forest": "2025-01-04 02:19:13 +0000",
       "minecraft:bamboo_jungle": "2025-01-04 23:43:17 +0000",
       "minecraft:savanna_plateau": "2025-01-04 05:01:01 +0000",
@@ -77,6 +78,7 @@
       "minecraft:sparse_jungle": "2025-01-04 22:42:39 +0000",
       "minecraft:river": "2025-01-04 02:07:17 +0000",
       "minecraft:lukewarm_ocean": "2025-01-04 23:52:29 +0000",
+      "minecraft:snowy_plains": "2025-01-05 01:43:21 +0000",
       "minecraft:dripstone_caves": "2025-01-05 01:08:29 +0000",
       "minecraft:swamp": "2025-01-04 03:05:13 +0000",
       "minecraft:cold_ocean": "2025-01-04 06:08:57 +0000",
@@ -6757,9 +6759,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-05 01:27:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
     },
     "done": true
   },
@@ -6769,9 +6801,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-05 01:36:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
     },
     "done": true
   },
@@ -6781,15 +6837,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-05 01:36:03 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-01-05 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-01-05 01:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-01-05 01:36:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-01-05 01:48:44 +0000"
     },
     "done": true
   },
