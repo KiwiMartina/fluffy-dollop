@@ -83,6 +83,7 @@
       "minecraft:dripstone_caves": "2024-12-30 04:08:45 +0000",
       "minecraft:snowy_taiga": "2025-01-05 01:33:25 +0000",
       "minecraft:swamp": "2025-01-04 04:41:52 +0000",
+      "minecraft:cold_ocean": "2025-01-05 04:56:15 +0000",
       "minecraft:forest": "2024-12-30 03:02:49 +0000",
       "minecraft:windswept_forest": "2025-01-05 02:27:14 +0000",
       "minecraft:jungle": "2025-01-01 22:51:37 +0000",
@@ -6691,6 +6692,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-05 01:04:10 +0000",
@@ -6842,6 +6849,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-05 04:07:46 +0000"
@@ -6857,6 +6870,12 @@
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-01-05 04:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -6896,6 +6915,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-01-05 02:01:42 +0000"
@@ -6905,6 +6930,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-01-05 03:54:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7016,9 +7047,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:withered_forest": "2025-01-05 01:04:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7076,6 +7119,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_log": {
+    "criteria": {
+      "has_log": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-05 04:07:46 +0000"
@@ -7091,6 +7140,12 @@
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2025-01-05 03:45:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7214,6 +7269,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-05 04:07:46 +0000"
@@ -7223,6 +7284,12 @@
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-01-05 00:17:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7340,6 +7407,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
@@ -7412,6 +7485,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-01-05 04:07:56 +0000"
@@ -7421,6 +7500,12 @@
   "iceandfire:recipes/combat/armor_silver_helmet": {
     "criteria": {
       "has_item": "2025-01-05 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7469,6 +7554,12 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-01-04 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7556,6 +7647,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-01-05 03:15:50 +0000"
@@ -7589,6 +7686,12 @@
   "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7652,9 +7755,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/frost_stew": {
     "criteria": {
       "has_item": "2025-01-05 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7679,6 +7794,12 @@
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-05 03:54:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7721,6 +7842,12 @@
   "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-01-05 04:48:37 +0000"
     },
     "done": true
   },
@@ -7778,6 +7905,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-05 01:24:35 +0000"
@@ -7805,6 +7938,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-01-05 03:09:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },
@@ -7838,9 +7977,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-05 04:07:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-05 04:47:25 +0000"
     },
     "done": true
   },

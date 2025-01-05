@@ -2774,6 +2774,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-04 02:22:20 +0000",
       "minecraft:zoglin": "2025-01-04 22:55:07 +0000",
+      "minecraft:ghast": "2025-01-05 04:51:47 +0000",
       "minecraft:spider": "2025-01-04 03:50:42 +0000",
       "minecraft:creeper": "2025-01-04 02:23:13 +0000",
       "minecraft:evoker": "2025-01-04 03:17:38 +0000",
@@ -7616,6 +7617,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 04:53:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2025-01-05 04:23:57 +0000"
@@ -7625,6 +7632,12 @@
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2025-01-05 04:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-01-05 04:51:47 +0000"
     },
     "done": true
   },
@@ -7673,6 +7686,12 @@
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2025-01-05 04:23:57 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-05 04:53:42 +0000"
     },
     "done": true
   },

@@ -6012,9 +6012,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-05 04:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-05 03:51:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-01-05 04:54:25 +0000"
     },
     "done": true
   },
@@ -6057,6 +6069,12 @@
   "pfm:recipes/furniture/pewen_alexscaves_brown_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-01-05 04:55:54 +0000"
     },
     "done": true
   },
