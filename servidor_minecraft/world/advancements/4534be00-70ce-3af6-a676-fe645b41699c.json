@@ -147,6 +147,7 @@
       "minecraft:pillager": "2025-01-04 03:58:10 +0000",
       "minecraft:skeleton": "2025-01-04 03:30:30 +0000",
       "minecraft:spider": "2025-01-04 03:49:15 +0000",
+      "minecraft:creeper": "2025-01-05 00:15:25 +0000",
       "minecraft:cave_spider": "2025-01-04 03:52:31 +0000",
       "minecraft:zombie": "2025-01-04 02:58:59 +0000",
       "minecraft:drowned": "2025-01-04 04:21:20 +0000"
@@ -3606,6 +3607,54 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 06:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-05 00:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/safeguard": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/life_mending": {
+    "criteria": {
+      "has_book": "2025-01-05 00:07:36 +0000"
     },
     "done": true
   },
