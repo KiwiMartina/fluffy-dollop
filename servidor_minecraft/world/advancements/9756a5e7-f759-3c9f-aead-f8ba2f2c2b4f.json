@@ -7448,6 +7448,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-01-05 04:41:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
