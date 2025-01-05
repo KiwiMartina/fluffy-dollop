@@ -4324,6 +4324,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-01-05 01:14:03 +0000"
@@ -4333,6 +4339,24 @@
   "l2complements:recipes/burnt/burnt/chicken": {
     "criteria": {
       "has_chicken": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-01-05 02:35:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-05 02:38:10 +0000"
     },
     "done": true
   },
@@ -4348,6 +4372,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-01-05 02:38:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_boots": {
     "criteria": {
       "has_item": "2025-01-05 01:57:11 +0000"
@@ -4357,6 +4387,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-01-05 01:57:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:42 +0000"
     },
     "done": true
   },
@@ -4408,6 +4444,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-01-05 01:14:03 +0000"
@@ -4423,6 +4465,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-01-05 01:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-05 02:33:20 +0000"
     },
     "done": true
   },
@@ -4447,6 +4495,12 @@
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-01-05 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-05 02:33:20 +0000"
     },
     "done": true
   },

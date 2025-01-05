@@ -6762,9 +6762,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6780,9 +6804,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-01-05 01:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
     },
     "done": true
   },
@@ -6792,9 +6846,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-01-05 01:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6810,9 +6894,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-01-05 02:38:13 +0000"
     },
     "done": true
   },
@@ -6822,9 +6918,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:13 +0000"
     },
     "done": true
   },
@@ -6834,9 +6948,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-01-05 02:38:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6846,9 +6996,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-01-05 01:36:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6858,9 +7020,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-01-05 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6882,9 +7062,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-01-05 02:21:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6906,9 +7104,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },
@@ -6918,9 +7128,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-01-05 01:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
     },
     "done": true
   },
@@ -6930,9 +7152,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/frost_stew": {
     "criteria": {
       "has_item": "2025-01-05 01:44:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
     },
     "done": true
   },
@@ -6942,15 +7182,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-01-05 01:48:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-05 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-05 02:39:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-01-05 02:38:00 +0000"
     },
     "done": true
   },
@@ -6966,6 +7248,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-01-05 02:38:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-01-05 00:53:45 +0000"
@@ -6975,6 +7263,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-05 01:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-05 02:35:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:39:13 +0000"
     },
     "done": true
   },

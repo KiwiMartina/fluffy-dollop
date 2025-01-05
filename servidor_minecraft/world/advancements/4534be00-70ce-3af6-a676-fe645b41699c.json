@@ -156,6 +156,7 @@
       "minecraft:creeper": "2025-01-05 00:15:25 +0000",
       "minecraft:cave_spider": "2025-01-04 03:52:31 +0000",
       "minecraft:stray": "2025-01-05 02:17:35 +0000",
+      "minecraft:silverfish": "2025-01-05 02:28:35 +0000",
       "minecraft:zombie": "2025-01-04 02:58:59 +0000",
       "minecraft:drowned": "2025-01-04 04:21:20 +0000"
     },
@@ -272,6 +273,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-05 02:30:34 +0000",
       "cooked_mutton": "2025-01-04 03:50:05 +0000",
       "cooked_beef": "2025-01-04 05:59:29 +0000",
       "baked_potato": "2025-01-04 03:41:20 +0000",
@@ -5000,6 +5002,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-01-05 02:24:28 +0000"
@@ -5084,6 +5092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-05 02:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-05 02:23:23 +0000"
@@ -5108,9 +5122,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-05 02:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-05 02:28:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
     },
     "done": true
   },
@@ -5126,6 +5164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-05 02:36:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_table_log": {
     "criteria": {
       "has_log": "2025-01-05 02:24:28 +0000"
@@ -5135,6 +5179,18 @@
   "pfm:recipes/furniture/birch_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-05 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-05 02:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-05 02:35:35 +0000"
     },
     "done": true
   },
@@ -5168,6 +5224,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-05 02:23:23 +0000"
@@ -5186,9 +5254,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair": {
     "criteria": {
       "has_planks": "2025-01-05 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-05 02:28:48 +0000"
     },
     "done": true
   },
@@ -5198,9 +5284,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair_dinner": {
     "criteria": {
       "has_planks": "2025-01-05 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:28:48 +0000"
     },
     "done": true
   },
@@ -5213,6 +5311,12 @@
   "pfm:recipes/furniture/birch_raw_table_log": {
     "criteria": {
       "has_log": "2025-01-05 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 02:28:48 +0000"
     },
     "done": true
   },
@@ -5240,6 +5344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-05 02:35:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-01-05 02:24:28 +0000"
@@ -5255,6 +5365,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-05 02:24:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-05 02:30:14 +0000"
     },
     "done": true
   },
