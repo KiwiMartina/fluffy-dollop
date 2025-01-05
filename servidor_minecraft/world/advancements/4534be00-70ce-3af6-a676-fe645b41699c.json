@@ -154,8 +154,11 @@
     "criteria": {
       "minecraft:pillager": "2025-01-04 03:58:10 +0000",
       "minecraft:skeleton": "2025-01-04 03:30:30 +0000",
+      "minecraft:zoglin": "2025-01-05 04:59:08 +0000",
+      "minecraft:ghast": "2025-01-05 04:57:04 +0000",
       "minecraft:spider": "2025-01-04 03:49:15 +0000",
       "minecraft:creeper": "2025-01-05 00:15:25 +0000",
+      "minecraft:wither_skeleton": "2025-01-05 04:57:13 +0000",
       "minecraft:cave_spider": "2025-01-04 03:52:31 +0000",
       "minecraft:stray": "2025-01-05 02:17:35 +0000",
       "minecraft:silverfish": "2025-01-05 02:28:35 +0000",
@@ -5838,6 +5841,84 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/building_blocks/birch_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-05 05:03:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-01-05 04:22:42 +0000"
@@ -5850,6 +5931,12 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-01-05 04:57:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-01-05 04:22:42 +0000"
@@ -5859,6 +5946,18 @@
   "chimes:recipes/decorations/glass_bells": {
     "criteria": {
       "has_bottle": "2025-01-05 04:22:01 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-05 04:57:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-05 05:06:20 +0000"
     },
     "done": true
   },
@@ -5877,6 +5976,12 @@
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-01-05 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-01-05 04:57:04 +0000"
     },
     "done": true
   },
