@@ -271,10 +271,12 @@
       "beef": "2025-01-04 23:51:01 +0000",
       "apple": "2025-01-04 05:33:59 +0000",
       "potato": "2025-01-04 23:57:36 +0000",
+      "cooked_cod": "2025-01-05 00:43:39 +0000",
       "pumpkin_pie": "2025-01-04 03:05:52 +0000",
       "bread": "2025-01-04 03:12:58 +0000",
       "rotten_flesh": "2025-01-04 04:37:23 +0000",
       "cod": "2025-01-04 04:49:39 +0000",
+      "cooked_salmon": "2025-01-05 00:38:16 +0000",
       "carrot": "2025-01-04 03:27:01 +0000"
     },
     "done": false
@@ -3610,6 +3612,60 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-01-05 00:33:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-01-05 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-05 00:15:03 +0000"
@@ -3622,15 +3678,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-05 00:33:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-05 00:07:36 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-05 00:33:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_salmon": {
+    "criteria": {
+      "has_cooked_salmon": "2025-01-05 00:27:51 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:recipes/misc/manual": {
     "criteria": {
       "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
     },
     "done": true
   },
@@ -3646,15 +3798,81 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-01-05 00:07:36 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_cod": {
+    "criteria": {
+      "has_cooked_cod": "2025-01-05 00:42:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/life_mending": {
     "criteria": {
       "has_book": "2025-01-05 00:07:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_blue_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_blue_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 00:33:03 +0000"
     },
     "done": true
   },
