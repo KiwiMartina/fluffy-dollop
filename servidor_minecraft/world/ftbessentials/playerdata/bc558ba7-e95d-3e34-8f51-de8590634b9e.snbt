@@ -5,7 +5,7 @@
 	nick: ""
 	last_seen: { dim: "minecraft:overworld", x: 4208, y: 64, z: -3878, time: 1736034651295L, xRot: 6.3000097f, yRot: 106.949844f }
 	recording: "none"
-	teleport_history: [{ dim: "minecraft:overworld", x: 850, y: 70, z: -3125, time: 1736048149820L, xRot: 14.700041f, yRot: -132.93895f }]
+	teleport_history: [{ dim: "minecraft:overworld", x: 939, y: 64, z: -3470, time: 1736050459060L, xRot: 21.899982f, yRot: 8.210874f }]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 848, y: 64, z: 4935, time: 1736041257355L, xRot: 36.74985f, yRot: -9.985413f }
 	}

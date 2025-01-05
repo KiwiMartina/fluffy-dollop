@@ -4327,6 +4327,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 03:14:21 +0000"
@@ -4336,6 +4342,12 @@
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4375,6 +4387,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
@@ -4393,6 +4411,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_classic_nightstand": {
     "criteria": {
       "andesite_classic_nightstand": "2025-01-05 02:44:17 +0000"
@@ -4405,9 +4429,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4459,6 +4495,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
@@ -4468,6 +4510,12 @@
   "pfm:recipes/furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 03:14:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4549,6 +4597,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-01-05 02:35:11 +0000"
@@ -4573,6 +4627,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-05 03:18:36 +0000"
@@ -4594,6 +4654,12 @@
   "pfm:recipes/furniture/oak_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-05 03:14:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4675,6 +4741,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/brown_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 03:14:21 +0000"
@@ -4684,6 +4756,12 @@
   "pfm:recipes/furniture/oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-01-05 03:14:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4807,6 +4885,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-05 02:44:17 +0000"
@@ -4816,6 +4900,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-01-05 03:14:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4861,6 +4951,18 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-01-05 04:06:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2025-01-05 01:32:50 +0000"
@@ -4888,6 +4990,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-05 03:14:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -4945,6 +5053,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-05 01:32:44 +0000"
@@ -4960,6 +5074,12 @@
   "iammusicplayer:recipes/misc/boombox": {
     "criteria": {
       "has_jukebox": "2025-01-05 02:44:22 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-01-05 04:04:26 +0000"
     },
     "done": true
   },
@@ -4984,6 +5104,12 @@
   "pfm:recipes/furniture/andesite_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -5029,6 +5155,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-05 02:50:05 +0000"
@@ -5062,6 +5200,18 @@
   "pfm:recipes/furniture/andesite_table_basic": {
     "criteria": {
       "andesite_table_basic": "2025-01-05 02:44:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -5155,6 +5305,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-05 04:11:12 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-01-05 02:44:17 +0000"
@@ -5221,6 +5383,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 03:14:21 +0000"
@@ -5263,6 +5431,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-05 01:43:07 +0000"
@@ -5284,6 +5458,12 @@
   "pfm:recipes/furniture/wall_toilet_paper": {
     "criteria": {
       "has_paper": "2025-01-05 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_cyan_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },
@@ -5329,15 +5509,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/pewen_alexscaves_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-05 04:11:12 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 03:14:21 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/thornwood_alexscaves_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-01-05 01:57:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_cyan_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 04:08:47 +0000"
     },
     "done": true
   },

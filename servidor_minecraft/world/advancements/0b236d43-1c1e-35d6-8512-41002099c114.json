@@ -4170,6 +4170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-05 02:25:26 +0000"
@@ -4368,6 +4374,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:13:53 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
@@ -4485,6 +4497,12 @@
   "pfm:recipes/furniture/cherry_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-05 01:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:13:53 +0000"
     },
     "done": true
   },
@@ -4860,6 +4878,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 04:13:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-01-05 02:25:25 +0000"
@@ -4971,6 +4995,18 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-05 02:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-05 04:13:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 04:13:53 +0000"
     },
     "done": true
   },
@@ -5583,6 +5619,12 @@
   "pfm:recipes/furniture/granite_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-05 02:25:21 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_porkchop": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-01-05 04:21:09 +0000"
     },
     "done": true
   },
