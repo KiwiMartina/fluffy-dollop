@@ -84,6 +84,7 @@
       "minecraft:forest": "2024-12-30 03:02:49 +0000",
       "minecraft:jungle": "2025-01-01 22:51:37 +0000",
       "minecraft:ocean": "2025-01-04 02:01:37 +0000",
+      "minecraft:windswept_savanna": "2025-01-05 02:06:08 +0000",
       "minecraft:flower_forest": "2025-01-05 00:11:45 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-30 03:12:16 +0000",
       "minecraft:deep_dark": "2024-12-30 04:17:58 +0000",
@@ -6647,9 +6648,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 02:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-01-05 01:51:01 +0000"
     },
     "done": true
   },
@@ -6669,6 +6682,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 02:01:42 +0000"
     },
     "done": true
   },
@@ -6747,6 +6766,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-01-04 23:40:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 02:01:42 +0000"
     },
     "done": true
   },
@@ -6978,6 +7003,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 02:01:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
@@ -7140,9 +7171,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-01-05 02:01:42 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/black_fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-05 01:53:35 +0000"
     },
     "done": true
   },
