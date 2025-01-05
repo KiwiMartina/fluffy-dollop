@@ -3814,6 +3814,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_table_dinner": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:39 +0000"
@@ -3829,6 +3835,24 @@
   "pfm:recipes/furniture/smooth_stone_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-05 02:16:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -3868,6 +3892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-01-05 00:39:54 +0000"
@@ -3904,6 +3934,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
@@ -3919,6 +3955,12 @@
   "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
     "criteria": {
       "has_anvil": "2025-01-05 00:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
     },
     "done": true
   },
@@ -3952,6 +3994,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 02:08:19 +0000"
@@ -3973,6 +4021,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_classic": {
+    "criteria": {
+      "deepslate_table_classic": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4012,6 +4066,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_chair_dinner": {
+    "criteria": {
+      "deepslate_chair_dinner": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stone_table_dinner": {
     "criteria": {
       "stone_table_dinner": "2025-01-05 01:12:21 +0000"
@@ -4039,6 +4099,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-01-05 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_modern_dinner": {
+    "criteria": {
+      "deepslate_table_modern_dinner": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4162,6 +4228,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-05 01:09:43 +0000"
@@ -4210,6 +4282,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_dagger_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
@@ -4228,9 +4306,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-05 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair": {
+    "criteria": {
+      "deepslate_chair": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4276,6 +4378,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
@@ -4288,9 +4396,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_basic": {
+    "criteria": {
+      "deepslate_table_basic": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_scythe_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4300,9 +4420,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-01-05 01:21:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
     },
     "done": true
   },
@@ -4315,6 +4447,12 @@
   "pfm:recipes/furniture/spruce_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4333,6 +4471,12 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-05 00:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4366,6 +4510,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_table_log": {
     "criteria": {
       "has_log": "2025-01-05 00:18:39 +0000"
@@ -4375,6 +4525,18 @@
   "pfm:recipes/furniture/stone_chair_classic": {
     "criteria": {
       "stone_chair_classic": "2025-01-05 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_classic_nightstand": {
+    "criteria": {
+      "deepslate_classic_nightstand": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
     },
     "done": true
   },
@@ -4408,6 +4570,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-01-05 01:51:33 +0000"
@@ -4426,6 +4600,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:39 +0000"
@@ -4435,6 +4627,12 @@
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-01-05 01:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4462,6 +4660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-05 00:39:54 +0000"
@@ -4477,6 +4681,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4534,6 +4744,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_modern": {
+    "criteria": {
+      "deepslate_chair_modern": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 02:08:19 +0000"
@@ -4564,9 +4792,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_table_natural": {
+    "criteria": {
+      "deepslate_table_natural": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4576,9 +4822,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_table_dinner": {
+    "criteria": {
+      "deepslate_table_dinner": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4588,9 +4846,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-05 02:08:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4630,6 +4900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_spear_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
@@ -4639,6 +4915,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-05 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4720,6 +5002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-05 02:08:19 +0000"
@@ -4735,6 +5023,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-01-05 01:51:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_chair_classic": {
+    "criteria": {
+      "deepslate_chair_classic": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },
@@ -4774,6 +5068,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 02:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
@@ -4795,6 +5095,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-05 02:23:58 +0000"
     },
     "done": true
   },

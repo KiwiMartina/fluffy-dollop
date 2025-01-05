@@ -82,6 +82,7 @@
       "minecraft:snowy_taiga": "2025-01-05 01:33:25 +0000",
       "minecraft:swamp": "2025-01-04 04:41:52 +0000",
       "minecraft:forest": "2024-12-30 03:02:49 +0000",
+      "minecraft:windswept_forest": "2025-01-05 02:27:14 +0000",
       "minecraft:jungle": "2025-01-01 22:51:37 +0000",
       "minecraft:ocean": "2025-01-04 02:01:37 +0000",
       "minecraft:windswept_savanna": "2025-01-05 02:06:08 +0000",
@@ -6772,6 +6773,12 @@
   "iceandfire:recipes/combat/armor_silver_leggings": {
     "criteria": {
       "has_item": "2025-01-05 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-01-05 02:22:16 +0000"
     },
     "done": true
   },
