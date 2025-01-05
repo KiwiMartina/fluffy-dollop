@@ -3842,6 +3842,18 @@
     },
     "done": true
   },
+  "goblins_tyranny:barrel_success": {
+    "criteria": {
+      "barrel_success_0": "2025-01-05 00:49:04 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-01-05 00:47:29 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/tools/generated/craft/gold_machete_enchanted": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
@@ -3863,6 +3875,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2025-01-05 00:53:01 +0000"
     },
     "done": true
   },
@@ -3905,6 +3923,12 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-01-05 00:39:54 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-05 00:47:39 +0000"
     },
     "done": true
   },
@@ -4112,6 +4136,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2025-01-05 00:53:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-05 00:39:55 +0000"
@@ -4301,6 +4331,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-05 00:39:55 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-01-05 00:49:30 +0000"
     },
     "done": true
   },

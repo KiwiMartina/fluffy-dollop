@@ -6609,27 +6609,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_green_leggings": {
+  "iceandfire:recipes/food/ambrosia": {
     "criteria": {
-      "has_item": "2025-01-05 00:30:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_macuahuitl": {
-    "criteria": {
-      "has_item": "2025-01-05 00:10:00 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-01-05 00:19:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-05 00:05:59 +0000"
+      "has_item": "2025-01-04 23:47:37 +0000"
     },
     "done": true
   },
@@ -6639,21 +6621,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-01-05 00:42:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-05 00:30:17 +0000"
-    },
-    "done": true
-  },
   "chimes:recipes/decorations/bamboo_chimes": {
     "criteria": {
       "has_planks": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-05 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-01-05 00:10:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-01-05 00:10:00 +0000"
     },
     "done": true
   },
@@ -6663,21 +6669,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/food/ambrosia": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "has_item": "2025-01-04 23:47:37 +0000"
+      "bastion": "2025-01-05 00:19:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-05 00:25:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-05 00:30:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 00:30:18 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-01-05 00:30:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/amphithere_arrow": {
-    "criteria": {
-      "has_item": "2025-01-05 00:10:00 +0000"
     },
     "done": true
   },
@@ -6693,24 +6711,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-01-04 23:49:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2025-01-05 00:25:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-01-04 23:49:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-01-05 00:30:18 +0000"
@@ -6723,15 +6723,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-01-04 23:49:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2025-01-05 00:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-05 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:poison_success": {
+    "criteria": {
+      "poison_success_0": "2025-01-05 00:47:20 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-01-05 00:48:38 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:glitteron_success": {
+    "criteria": {
+      "glitteron_success_0": "2025-01-05 00:51:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 00:53:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-05 00:53:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-05 00:53:45 +0000"
     },
     "done": true
   },
