@@ -982,6 +982,7 @@
     "criteria": {
       "cooked_mutton": "2025-01-04 05:15:53 +0000",
       "sweet_berries": "2025-01-04 03:39:09 +0000",
+      "cooked_beef": "2025-01-05 01:32:11 +0000",
       "cooked_cod": "2025-01-04 04:25:02 +0000",
       "pumpkin_pie": "2025-01-04 03:53:34 +0000",
       "rotten_flesh": "2025-01-04 04:47:20 +0000",
@@ -3594,9 +3595,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:42 +0000"
     },
     "done": true
   },
@@ -3612,6 +3625,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"
@@ -3624,6 +3649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
+    },
+    "done": true
+  },
   "mca:chores": {
     "criteria": {
       "baby": "2025-01-05 01:19:28 +0000"
@@ -3633,6 +3664,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
     },
     "done": true
   },
@@ -3660,6 +3697,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"
@@ -3672,9 +3727,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
     },
     "done": true
   },
@@ -3696,6 +3769,30 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-01-05 01:16:13 +0000"
@@ -3708,9 +3805,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
   "mca:hunted": {
     "criteria": {
       "iron": "2025-01-05 00:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-05 01:38:42 +0000"
     },
     "done": true
   },
@@ -3750,6 +3871,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/spruce_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-05 01:38:59 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
@@ -3759,6 +3892,24 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
     },
     "done": true
   },
@@ -3774,9 +3925,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-05 01:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 01:37:35 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
       "has_gold_block": "2025-01-05 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-05 01:38:42 +0000"
     },
     "done": true
   },

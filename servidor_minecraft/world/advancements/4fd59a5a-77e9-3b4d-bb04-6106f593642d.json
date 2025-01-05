@@ -4311,9 +4311,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-01-05 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-05 01:32:44 +0000"
     },
     "done": true
   },
@@ -4329,15 +4353,33 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-01-05 01:32:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-05 01:14:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-05 01:32:44 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-01-05 01:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-05 01:32:44 +0000"
     },
     "done": true
   },

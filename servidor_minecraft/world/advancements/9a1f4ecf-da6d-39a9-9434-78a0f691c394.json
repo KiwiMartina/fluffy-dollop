@@ -2772,6 +2772,7 @@
       "minecraft:spider": "2025-01-04 03:50:42 +0000",
       "minecraft:creeper": "2025-01-04 02:23:13 +0000",
       "minecraft:evoker": "2025-01-04 03:17:38 +0000",
+      "minecraft:slime": "2025-01-05 01:35:36 +0000",
       "minecraft:witch": "2025-01-04 03:13:49 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:52:34 +0000",
       "minecraft:husk": "2025-01-04 23:54:16 +0000",
@@ -6768,9 +6769,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 01:36:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-01-05 00:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 01:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 01:36:03 +0000"
     },
     "done": true
   },

@@ -77,7 +77,9 @@
       "minecraft:lukewarm_ocean": "2024-12-30 05:15:29 +0000",
       "minecraft:river": "2024-12-30 03:11:45 +0000",
       "minecraft:stony_shore": "2024-12-30 05:17:07 +0000",
+      "minecraft:snowy_plains": "2025-01-05 01:33:35 +0000",
       "minecraft:dripstone_caves": "2024-12-30 04:08:45 +0000",
+      "minecraft:snowy_taiga": "2025-01-05 01:33:25 +0000",
       "minecraft:swamp": "2025-01-04 04:41:52 +0000",
       "minecraft:forest": "2024-12-30 03:02:49 +0000",
       "minecraft:jungle": "2025-01-01 22:51:37 +0000",
@@ -7003,6 +7005,12 @@
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/frost_stew": {
+    "criteria": {
+      "has_item": "2025-01-05 01:34:16 +0000"
     },
     "done": true
   },

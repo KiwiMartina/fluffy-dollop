@@ -4270,6 +4270,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-05 01:31:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-01-05 00:39:54 +0000"
@@ -4279,6 +4285,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-01-05 01:37:38 +0000"
     },
     "done": true
   },
