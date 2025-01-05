@@ -6645,6 +6645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-05 01:04:10 +0000",
@@ -6655,6 +6661,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-05 01:26:12 +0000"
     },
     "done": true
   },
@@ -6676,15 +6688,45 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-05 01:23:41 +0000"
+    },
+    "done": true
+  },
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-01-05 01:04:28 +0000"
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/soul_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_mask": {
+    "criteria": {
+      "has_ender_eye": "2025-01-05 01:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-01-04 23:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-05 01:24:35 +0000"
     },
     "done": true
   },
@@ -6706,6 +6748,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/strong_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-01-05 00:17:12 +0000"
@@ -6724,6 +6772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
   "mca:grow_child": {
     "criteria": {
       "baby": "2025-01-04 23:38:24 +0000"
@@ -6736,9 +6790,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/enchantments/enchantments/snow_walker": {
     "criteria": {
       "has_leather": "2025-01-04 23:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
     },
     "done": true
   },
@@ -6751,6 +6817,12 @@
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-01-05 00:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
     },
     "done": true
   },
@@ -6778,9 +6850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-05 01:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-05 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-05 01:24:35 +0000"
     },
     "done": true
   },
@@ -6832,15 +6916,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-01-04 22:53:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-01-04 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-05 01:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
     },
     "done": true
   },
@@ -6886,9 +6994,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
     },
     "done": true
   },
@@ -6916,9 +7036,39 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/craft/black_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-05 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-05 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-05 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-04 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-05 01:23:41 +0000"
     },
     "done": true
   },

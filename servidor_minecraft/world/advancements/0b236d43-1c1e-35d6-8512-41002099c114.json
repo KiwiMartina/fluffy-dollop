@@ -3624,6 +3624,12 @@
     },
     "done": true
   },
+  "mca:chores": {
+    "criteria": {
+      "baby": "2025-01-05 01:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-05 01:16:13 +0000"

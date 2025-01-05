@@ -275,6 +275,7 @@
       "pumpkin_pie": "2025-01-04 03:05:52 +0000",
       "bread": "2025-01-04 03:12:58 +0000",
       "rotten_flesh": "2025-01-04 04:37:23 +0000",
+      "salmon": "2025-01-05 01:22:59 +0000",
       "cod": "2025-01-04 04:49:39 +0000",
       "cooked_salmon": "2025-01-05 00:38:16 +0000",
       "carrot": "2025-01-04 03:27:01 +0000"
@@ -3876,9 +3877,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:28:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/lime_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -3888,15 +3907,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-05 01:28:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/orange_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -3912,9 +3949,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/copper_chimes": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/brown_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -3942,9 +3997,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/red_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -3954,9 +4027,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-05 00:56:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -3969,6 +4072,12 @@
   "pfm:recipes/furniture/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-05 01:26:31 +0000"
     },
     "done": true
   },
@@ -3990,6 +4099,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/white_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
@@ -4008,9 +4123,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -4056,9 +4189,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_gray_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-05 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -4074,9 +4231,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/gray_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -4092,9 +4279,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/black_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },
@@ -4116,6 +4315,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_blue_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
@@ -4134,6 +4339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-01-05 01:28:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/orange_simple_sofa": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
@@ -4143,6 +4354,12 @@
   "pfm:recipes/furniture/light_blue_arm_chair": {
     "criteria": {
       "has_wool": "2025-01-05 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-01-05 01:26:37 +0000"
     },
     "done": true
   },

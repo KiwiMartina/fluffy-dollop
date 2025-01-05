@@ -4198,6 +4198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-05 01:21:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_simple_bunk_ladder": {
     "criteria": {
       "has_planks": "2025-01-05 00:18:39 +0000"
@@ -4543,6 +4549,12 @@
   "supplementaries:recipes/gold_door": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 00:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-05 01:21:14 +0000"
     },
     "done": true
   },
