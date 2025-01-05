@@ -1817,3 +1817,90 @@
 [05Jan2025 04:24:20.515] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [05Jan2025 04:24:20.516] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [05Jan2025 04:26:40.317] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[05Jan2025 04:28:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Apparitions]
+[05Jan2025 04:28:49.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/482286, l='ServerLevel[world]', x=-1302.50, y=69.03, z=352.94] died: Restless Spirit was slain by MotoMoto_7
+[05Jan2025 04:30:24.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Headless Warrior
+[05Jan2025 04:30:33.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/484361, l='ServerLevel[world]', x=-1267.25, y=75.00, z=358.21] died: Headless Warrior was slain by MotoMoto_7
+[05Jan2025 04:31:13.009] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/484393, l='ServerLevel[world]', x=-1245.72, y=84.00, z=392.55] died: Piglin Civilian was slain by Headless Warrior
+[05Jan2025 04:31:15.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/482761, l='ServerLevel[world]', x=-1279.37, y=-20.00, z=351.22] died: Restless Spirit was killed
+[05Jan2025 04:32:27.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Zombie
+[05Jan2025 04:32:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Who is Cutting Onions?]
+[05Jan2025 04:33:24.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/487184, l='ServerLevel[world]', x=-1325.19, y=78.00, z=289.60] died: Headless Warrior was shot by Piglin
+[05Jan2025 04:33:38.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilgar'/486183, l='ServerLevel[world]', x=919.42, y=72.00, z=18447.63] died, message: 'Ilgar (Following) was shot by Skeleton'
+[05Jan2025 04:33:38.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilgar'/486183, l='ServerLevel[world]', x=919.42, y=72.00, z=18447.63] died: Ilgar (Following) was shot by Skeleton
+[05Jan2025 04:33:47.544] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Lada}[style={}] has been infected
+[05Jan2025 04:34:40.637] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element goblins_tyranny:goblinscamp took 16 ms
+[05Jan2025 04:34:54.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[05Jan2025 04:34:55.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/485176, l='ServerLevel[world]', x=-1325.46, y=83.00, z=321.05] died: Headless Warrior was shot by Piglin
+[05Jan2025 04:34:56.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to -367.500000, 107.000000, 656.500000]
+[05Jan2025 04:35:10.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[05Jan2025 04:36:15.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Hunt and Gather]
+[05Jan2025 04:36:51.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1000.500000, 90.000000, 1000.500000]
+[05Jan2025 04:37:14.033] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element goblins_tyranny:goblinscamp took 6 ms
+[05Jan2025 04:37:31.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 2000.500000, 90.000000, 2000.500000]
+[05Jan2025 04:37:43.496] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element goblins_tyranny:goblinscamp took 240 ms
+[05Jan2025 04:37:50.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/490865, l='ServerLevel[world]', x=-1281.51, y=53.00, z=344.59] died: Headless Warrior was shot by Piglin
+[05Jan2025 04:37:56.175] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:56.780] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:56.780] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:56.781] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:56.781] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:37:56.781] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:57.766] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:57.766] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:57.784] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:37:57.785] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-60, z=89}
+[05Jan2025 04:37:57.785] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-60, z=90}
+[05Jan2025 04:38:00.902] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-53, z=93}
+[05Jan2025 04:38:00.903] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.903] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.904] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.906] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.906] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.906] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.906] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.907] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.907] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.907] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-58, z=100}
+[05Jan2025 04:38:00.907] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.907] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.907] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=102}
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.908] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:00.909] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:00.909] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-54, z=102}
+[05Jan2025 04:38:01.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1328.500000, 90.000000, 3488.500000]
+[05Jan2025 04:38:01.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11737ms or 234 ticks behind
+[05Jan2025 04:38:01.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ReyGamarra moved too quickly! -9.827682007371095,2.0900619192267342,0.5274237811727289
+[05Jan2025 04:38:01.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! 9.921427927398327,0.8352267181739279,-2.0179277952302073
+[05Jan2025 04:38:01.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito moved too quickly! 10.077125785041858,0.0625,-1.524294941379594
+[05Jan2025 04:38:01.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! 0.0,-10.806526110008988,0.0
+[05Jan2025 04:38:01.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon moved too quickly! -7.707497999550128,-6.294999986886978,-1.1228019819627661
+[05Jan2025 04:38:03.334] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.334] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.335] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.335] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.335] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.335] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.335] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.345] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.345] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.345] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.356] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.358] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[05Jan2025 04:38:03.358] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[05Jan2025 04:38:03.358] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:03.359] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:25.898] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:25.898] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:25.898] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[05Jan2025 04:38:25.898] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[05Jan2025 04:38:37.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2687ms or 53 ticks behind
