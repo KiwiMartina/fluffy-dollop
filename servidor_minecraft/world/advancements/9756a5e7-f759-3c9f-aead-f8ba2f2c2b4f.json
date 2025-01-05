@@ -1279,6 +1279,7 @@
       "minecraft:skeleton": "2024-12-30 04:12:33 +0000",
       "minecraft:spider": "2024-12-30 03:45:55 +0000",
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
+      "minecraft:slime": "2025-01-05 03:19:16 +0000",
       "minecraft:phantom": "2025-01-05 01:01:03 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:47:27 +0000",
       "minecraft:enderman": "2024-12-30 04:34:55 +0000",
@@ -6268,6 +6269,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-01-05 03:25:48 +0000",
+      "incendium:volcanic_deltas": "2025-01-05 03:25:55 +0000",
       "incendium:toxic_heap": "2025-01-02 00:34:12 +0000",
       "incendium:withered_forest": "2025-01-05 01:04:28 +0000"
     },
@@ -6657,6 +6660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-05 03:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-01-05 01:26:08 +0000"
@@ -6820,6 +6829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-05 03:14:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-04 23:40:37 +0000"
@@ -6841,6 +6856,18 @@
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 03:09:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_light_gray": {
+    "criteria": {
+      "oak_chair_classic_light_gray": "2025-01-05 03:09:32 +0000"
     },
     "done": true
   },
@@ -6931,6 +6958,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-05 01:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 03:09:32 +0000"
     },
     "done": true
   },
@@ -7120,6 +7153,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_gray_shower_towel": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 03:09:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-01-04 22:53:33 +0000"
@@ -7168,6 +7207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-05 03:14:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
@@ -7177,6 +7222,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-05 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-05 03:15:50 +0000"
     },
     "done": true
   },
@@ -7222,6 +7273,12 @@
     },
     "done": true
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-01-05 03:25:55 +0000"
+    },
+    "done": true
+  },
   "cardinal_sins:firstofthesins": {
     "criteria": {
       "firstofthesins": "2025-01-05 01:42:43 +0000"
@@ -7246,6 +7303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-05 03:14:23 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
       "poison": "2025-01-05 01:01:46 +0000"
@@ -7255,6 +7318,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-04 23:47:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-01-05 03:25:48 +0000"
     },
     "done": true
   },
@@ -7279,6 +7348,12 @@
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:08 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-05 03:06:03 +0000"
     },
     "done": true
   },
@@ -7327,6 +7402,12 @@
   "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-05 01:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-05 03:09:32 +0000"
     },
     "done": true
   },

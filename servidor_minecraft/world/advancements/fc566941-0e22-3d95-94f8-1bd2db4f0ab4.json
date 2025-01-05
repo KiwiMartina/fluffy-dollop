@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-01-05 02:59:31 +0000",
+      "minecraft:sunflower_plains": "2025-01-05 03:07:17 +0000",
       "minecraft:birch_forest": "2025-01-01 23:16:45 +0000",
       "minecraft:savanna_plateau": "2025-01-01 21:54:03 +0000",
       "minecraft:beach": "2025-01-01 20:06:26 +0000",
@@ -1200,6 +1201,7 @@
       "cooked_beef": "2025-01-01 22:35:00 +0000",
       "baked_potato": "2025-01-01 21:28:48 +0000",
       "apple": "2025-01-01 20:35:04 +0000",
+      "bread": "2025-01-05 03:30:14 +0000",
       "rotten_flesh": "2025-01-01 21:10:07 +0000",
       "glow_berries": "2025-01-05 01:59:50 +0000",
       "cooked_chicken": "2025-01-05 01:09:41 +0000"
@@ -1385,6 +1387,8 @@
       "minecraft:skeleton": "2025-01-01 20:41:56 +0000",
       "minecraft:spider": "2025-01-01 22:20:24 +0000",
       "minecraft:creeper": "2025-01-01 22:01:20 +0000",
+      "minecraft:slime": "2025-01-05 03:19:24 +0000",
+      "minecraft:wither_skeleton": "2025-01-05 03:24:49 +0000",
       "minecraft:cave_spider": "2025-01-05 02:03:07 +0000",
       "minecraft:enderman": "2025-01-01 22:23:20 +0000",
       "minecraft:zombie": "2025-01-01 20:41:15 +0000",
@@ -5547,9 +5551,123 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-05 03:14:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:barrel_success": {
+    "criteria": {
+      "barrel_success_0": "2025-01-05 03:09:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-01-05 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-01-05 03:19:52 +0000"
     },
     "done": true
   },
@@ -5559,9 +5677,171 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_classic_nightstand": {
+    "criteria": {
+      "blackstone_classic_nightstand": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-05 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_log": {
+    "criteria": {
+      "has_log": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-05 03:09:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_natural": {
+    "criteria": {
+      "blackstone_table_natural": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_chair_dinner": {
+    "criteria": {
+      "blackstone_chair_dinner": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_modern_dinner": {
+    "criteria": {
+      "blackstone_table_modern_dinner": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
     },
     "done": true
   },
@@ -5571,9 +5851,69 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-05 03:14:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-01-05 03:18:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_chair_classic": {
+    "criteria": {
+      "blackstone_chair_classic": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-01-05 02:58:53 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-01-05 03:19:52 +0000"
     },
     "done": true
   },
@@ -5583,9 +5923,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-01-05 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-05 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_basic": {
+    "criteria": {
+      "blackstone_table_basic": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-05 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
     },
     "done": true
   },
@@ -5595,9 +5983,130 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-01-05 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-01-05 03:18:27 +0000",
+      "incendium:withered_forest": "2025-01-05 03:19:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-01-05 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-05 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-05 03:14:30 +0000"
     },
     "done": true
   },
@@ -5607,15 +6116,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/cherry_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-05 03:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-05 03:14:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_birch_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
     },
     "done": true
   },
@@ -5631,9 +6188,123 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-05 03:18:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-05 03:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-05 03:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-05 03:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_chair_modern": {
+    "criteria": {
+      "blackstone_chair_modern": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
     },
     "done": true
   },
@@ -5643,9 +6314,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-05 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-01-05 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 03:19:27 +0000"
     },
     "done": true
   },
@@ -5655,9 +6368,153 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-01-05 03:14:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_dinner": {
+    "criteria": {
+      "blackstone_table_dinner": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-05 03:19:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-01-05 03:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-05 03:18:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_table_classic": {
+    "criteria": {
+      "blackstone_table_classic": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_chair": {
+    "criteria": {
+      "blackstone_chair": "2025-01-05 03:31:51 +0000"
     },
     "done": true
   },
@@ -5667,9 +6524,57 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/blackstone_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
     },
     "done": true
   },
@@ -5679,9 +6584,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-05 03:24:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-01-05 02:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-05 03:28:32 +0000"
     },
     "done": true
   },
@@ -5694,6 +6629,72 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-01-05 02:58:53 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-01-05 03:03:31 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_birch_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-05 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_brown_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_brown_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-05 03:03:14 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-05 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2025-01-05 03:31:40 +0000"
     },
     "done": true
   },
