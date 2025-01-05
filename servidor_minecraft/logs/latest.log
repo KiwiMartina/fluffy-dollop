@@ -1043,3 +1043,27 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [05Jan2025 23:34:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Ol' Betsy]
 [05Jan2025 23:34:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was shot by %2$s
 [05Jan2025 23:34:49.858] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[05Jan2025 23:35:14.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 1 [Shield] to ErickJaeger]
+[05Jan2025 23:35:19.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was shot by %2$s
+[05Jan2025 23:36:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was shot by %2$s
+[05Jan2025 23:37:43.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elcin'/303, l='ServerLevel[world]', x=755.28, y=64.12, z=18459.48] died, message: 'Elcin was slain by Zombie'
+[05Jan2025 23:37:43.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elcin'/303, l='ServerLevel[world]', x=755.28, y=64.12, z=18459.48] died: Elcin was slain by Zombie
+[05Jan2025 23:39:04.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$MonitorType
+[05Jan2025 23:39:04.561] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ContinuousType
+[05Jan2025 23:39:36.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Dinner's Served!]
+[05Jan2025 23:39:42.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Crops of the Wild]
+[05Jan2025 23:40:23.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was shot by %2$s
+[05Jan2025 23:43:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:43:49.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Roman'/21458, l='ServerLevel[world]', x=836.46, y=71.56, z=4852.15] died, message: 'Roman suffocated in a wall'
+[05Jan2025 23:43:49.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Roman'/21458, l='ServerLevel[world]', x=836.46, y=71.56, z=4852.15] died: Roman suffocated in a wall
+[05Jan2025 23:44:28.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:45:07.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:45:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:46:37.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:47:59.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:48:05.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:59917] logged in with entity id 25224 at (839.5488898825157, 60.0, 4854.105318060924)
+[05Jan2025 23:48:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[05Jan2025 23:48:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Bulldrogioth
+[05Jan2025 23:48:42.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was blown up by Creeper
+[05Jan2025 23:48:54.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[05Jan2025 23:52:00.064] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
