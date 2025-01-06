@@ -83,6 +83,7 @@
       "minecraft:stony_shore": "2025-01-04 23:04:26 +0000",
       "minecraft:snowy_plains": "2025-01-05 01:27:36 +0000",
       "minecraft:snowy_taiga": "2025-01-05 02:53:55 +0000",
+      "minecraft:dripstone_caves": "2025-01-06 02:27:42 +0000",
       "minecraft:grove": "2025-01-05 01:42:02 +0000",
       "minecraft:cold_ocean": "2025-01-05 00:13:05 +0000",
       "minecraft:forest": "2025-01-04 23:02:35 +0000",
@@ -6703,6 +6704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-06 02:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-06 00:07:14 +0000"
@@ -6748,6 +6755,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-06 01:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-06 02:29:01 +0000"
     },
     "done": true
   },
@@ -7087,6 +7100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-06 02:29:01 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -7111,6 +7130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-01-06 02:28:51 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -7132,6 +7157,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-06 01:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-06 02:29:01 +0000"
     },
     "done": true
   },
@@ -7186,6 +7217,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-01-06 02:21:10 +0000"
     },
     "done": true
   },

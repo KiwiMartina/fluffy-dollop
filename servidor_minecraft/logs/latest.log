@@ -1310,3 +1310,31 @@
 [06Jan2025 02:19:30.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 02:19:31.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 02:19:32.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:42.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:46.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:20:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> pongan una mesa de craft eo po
+[06Jan2025 02:20:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 went up in flames
+[06Jan2025 02:21:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Kobolediator
+[06Jan2025 02:21:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Cursed Pyramid]
+[06Jan2025 02:21:15.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hitoshi'/96028, l='ServerLevel[world]', x=830.62, y=67.00, z=4881.71] died, message: 'Hitoshi was slain by Zombie'
+[06Jan2025 02:21:15.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hitoshi'/96028, l='ServerLevel[world]', x=830.62, y=67.00, z=4881.71] died: Hitoshi was slain by Zombie
+[06Jan2025 02:22:32.456] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Shigeko}[style={}] has been infected
+[06Jan2025 02:22:42.200] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:23:11.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 34 [Torch] to ErickJaeger]
+[06Jan2025 02:23:53.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Kobolediator
+[06Jan2025 02:23:56.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Kobolediator
+[06Jan2025 02:23:56.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Kobolediator
+[06Jan2025 02:23:56.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> -
+[06Jan2025 02:24:26.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> tienes oro
+[06Jan2025 02:24:51.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Kobolediator
+[06Jan2025 02:24:53.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Kobolediator
+[06Jan2025 02:24:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Kobolediator
+[06Jan2025 02:25:20.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Cursed Pyramid]
+[06Jan2025 02:26:15.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by Wadjet
+[06Jan2025 02:26:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [A Flaming Sword]
+[06Jan2025 02:28:18.330] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[06Jan2025 02:28:18.330] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:29:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Friendship Found]
+[06Jan2025 02:29:30.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Koboleton
+[06Jan2025 02:29:32.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito fell from a high place
+[06Jan2025 02:29:44.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Koboleton
