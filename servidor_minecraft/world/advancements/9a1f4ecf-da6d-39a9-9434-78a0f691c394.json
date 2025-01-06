@@ -85,6 +85,7 @@
       "minecraft:dripstone_caves": "2025-01-05 01:08:29 +0000",
       "minecraft:snowy_taiga": "2025-01-05 01:51:28 +0000",
       "minecraft:swamp": "2025-01-04 03:05:13 +0000",
+      "minecraft:grove": "2025-01-06 02:09:17 +0000",
       "minecraft:cold_ocean": "2025-01-04 06:08:57 +0000",
       "minecraft:forest": "2025-01-04 02:00:37 +0000",
       "minecraft:lush_caves": "2025-01-04 23:21:58 +0000",
@@ -95,6 +96,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:50:49 +0000",
       "minecraft:snowy_beach": "2025-01-05 02:42:54 +0000",
       "minecraft:flower_forest": "2025-01-04 02:43:33 +0000",
+      "minecraft:frozen_peaks": "2025-01-06 02:09:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-04 06:29:48 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-04 04:43:55 +0000",
       "minecraft:savanna": "2025-01-04 04:59:49 +0000",
@@ -8023,15 +8025,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 02:12:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
     },
     "done": true
   },
@@ -8044,6 +8064,18 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-01-06 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 02:15:33 +0000"
     },
     "done": true
   },
@@ -8062,6 +8094,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-01-06 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-06 02:11:42 +0000"
     },
     "done": true
   },
@@ -8095,6 +8133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-01-06 02:14:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-01-06 00:48:00 +0000"
@@ -8119,9 +8163,21 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/iron_round_shield": {
+    "criteria": {
+      "has_iron_round_shield": "2025-01-06 01:59:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
     "criteria": {
       "has_sea_serpent_scales_purple": "2025-01-06 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-01-06 02:12:38 +0000"
     },
     "done": true
   },
@@ -8134,6 +8190,18 @@
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-06 02:17:12 +0000"
     },
     "done": true
   },
@@ -8155,9 +8223,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 02:12:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
     },
     "done": true
   },
@@ -8167,9 +8247,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2025-01-06 00:56:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_log_stool": {
+    "criteria": {
+      "has_log": "2025-01-06 02:11:42 +0000"
     },
     "done": true
   },
@@ -8191,9 +8283,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 02:15:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/copper_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-01-06 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
     },
     "done": true
   },
@@ -8233,6 +8349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-01-06 02:17:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-01-06 01:01:49 +0000"
@@ -8251,9 +8373,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/bamboo_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-06 02:14:46 +0000"
     },
     "done": true
   },
@@ -8320,6 +8466,12 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-01-06 00:56:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-01-06 02:13:57 +0000"
     },
     "done": true
   },

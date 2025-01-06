@@ -5926,6 +5926,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-06 02:19:30 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-01-06 01:18:19 +0000"

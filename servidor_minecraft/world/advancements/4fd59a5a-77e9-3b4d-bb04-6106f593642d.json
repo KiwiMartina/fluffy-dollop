@@ -1566,6 +1566,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-04 22:59:11 +0000",
+      "cooked_beef": "2025-01-06 01:59:24 +0000",
       "bread": "2025-01-04 23:48:14 +0000",
       "golden_apple": "2025-01-05 03:41:56 +0000"
     },
@@ -7191,6 +7192,12 @@
   "l2weaponry:recipes/misc/generated/recycle/iron_battle_axe": {
     "criteria": {
       "has_iron_battle_axe": "2025-01-06 01:01:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cooked_beef": {
+    "criteria": {
+      "has_cooked_beef": "2025-01-06 01:59:08 +0000"
     },
     "done": true
   },

@@ -1200,3 +1200,113 @@
 [06Jan2025 01:57:23.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [06Jan2025 01:59:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
 [06Jan2025 01:59:12.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca
+[06Jan2025 01:59:41.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> hay una fortaleza w
+[06Jan2025 02:00:48.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Monsterous Maw]
+[06Jan2025 02:01:16.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> jajajs
+[06Jan2025 02:01:20.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> okap
+[06Jan2025 02:02:18.317] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.802439f,range:8,source:{pos:[I;-110,-47,214],type:"minecraft:block"}}]
+[06Jan2025 02:02:18.367] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.1622777f,range:8,source:{pos:[I;-171,-59,114],type:"minecraft:block"}}]
+[06Jan2025 02:02:18.368] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-176,-57,125],type:"minecraft:block"}}]
+[06Jan2025 02:02:18.406] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.395869f,range:8,source:{pos:[I;-110,-47,184],type:"minecraft:block"}}]
+[06Jan2025 02:02:22.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ven
+[06Jan2025 02:02:48.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 20
+[06Jan2025 02:03:12.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aqui
+[06Jan2025 02:03:19.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [Into Fire]
+[06Jan2025 02:03:26.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 02:03:36.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [The Twelve Labors of Hercules]
+[06Jan2025 02:03:43.595] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[06Jan2025 02:03:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 02:04:19.287] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[06Jan2025 02:05:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> xd
+[06Jan2025 02:05:13.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> nada ps
+[06Jan2025 02:05:31.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> v:v
+[06Jan2025 02:07:33.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Teresė'/162396, l='ServerLevel[world]', x=-9528.73, y=58.00, z=2398.27] died, message: 'Teresė was slain by Zombie'
+[06Jan2025 02:07:59.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marijona'/162280, l='ServerLevel[world]', x=-9536.84, y=95.52, z=2398.95] died, message: 'Marijona went up in flames'
+[06Jan2025 02:08:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> dragon
+[06Jan2025 02:08:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> de hielo
+[06Jan2025 02:08:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Cursed Pyramid]
+[06Jan2025 02:09:27.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ReyGamarra lost connection: Disconnected
+[06Jan2025 02:09:27.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra left the game
+[06Jan2025 02:09:48.649] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[06Jan2025 02:09:48.733] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[06Jan2025 02:09:50.365] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[06Jan2025 02:09:50.370] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[06Jan2025 02:09:51.270] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=15}
+[06Jan2025 02:10:01.954] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:5.802439f,range:8,source:{pos:[I;-110,-47,214],type:"minecraft:block"}}]
+[06Jan2025 02:10:04.547] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.1622777f,range:8,source:{pos:[I;-171,-59,114],type:"minecraft:block"}}]
+[06Jan2025 02:10:04.548] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:1.4142135f,range:8,source:{pos:[I;-176,-57,125],type:"minecraft:block"}}]
+[06Jan2025 02:10:22.594] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:7.395869f,range:8,source:{pos:[I;-110,-47,184],type:"minecraft:block"}}]
+[06Jan2025 02:10:55.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ReyGamarra[/172.22.196.128:58400] logged in with entity id 186927 at (-9588.526197434667, 72.0, 2400.4038171108655)
+[06Jan2025 02:10:55.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra joined the game
+[06Jan2025 02:12:07.003] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[06Jan2025 02:12:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 02:13:22.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Gave 126 [Cobblestone] to ErickJaeger]
+[06Jan2025 02:13:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 4026.500000, 95.500000, 3906.500000]
+[06Jan2025 02:13:57.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Cursed Pyramid]
+[06Jan2025 02:14:31.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Dread Knight
+[06Jan2025 02:15:02.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Genė'/186946, l='ServerLevel[world]', x=-9537.30, y=53.00, z=2465.72] died, message: 'Genė was slain by Miner Zombie'
+[06Jan2025 02:15:02.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Genė'/186946, l='ServerLevel[world]', x=-9537.30, y=53.00, z=2465.72] died: Genė was slain by Miner Zombie
+[06Jan2025 02:15:03.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Dread Thrall
+[06Jan2025 02:15:29.465] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Aušrinė}[style={}] has been infected
+[06Jan2025 02:15:32.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aušrinė'/187202, l='ServerLevel[world]', x=-9524.53, y=65.94, z=2382.51] died, message: 'Aušrinė was slain by Zombie'
+[06Jan2025 02:15:32.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aušrinė'/187202, l='ServerLevel[world]', x=-9524.53, y=65.94, z=2382.51] died: Aušrinė was slain by Zombie
+[06Jan2025 02:16:16.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Dread Thrall
+[06Jan2025 02:16:53.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Violeta'/187129, l='ServerLevel[world]', x=-9499.40, y=105.20, z=2544.67] died, message: 'Violeta was slain by Cyclops'
+[06Jan2025 02:16:53.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Violeta'/187129, l='ServerLevel[world]', x=-9499.40, y=105.20, z=2544.67] died: Violeta was slain by Cyclops
+[06Jan2025 02:17:23.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:17:24.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:18:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Koboleton
+[06Jan2025 02:18:03.115] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=3995, y=67, z=3685}
+[06Jan2025 02:18:04.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[06Jan2025 02:18:29.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:18:31.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:18:33.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:18:34.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:18:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Cursed Pyramid]
+[06Jan2025 02:18:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Wadjet
+[06Jan2025 02:18:50.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:01.755] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:03.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:05.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:05.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:07.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:08.765] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:09.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:09.957] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:10.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:11.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:11.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:12.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:12.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:13.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:14.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:14.771] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:15.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:15.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:16.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:17.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:17.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:18.365] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:18.956] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:19.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:20.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:20.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:21.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:21.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:22.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:23.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:23.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:24.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:24.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:25.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:26.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:26.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:27.360] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:27.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:28.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:29.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:29.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:30.542] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:30.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:31.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:19:32.155] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

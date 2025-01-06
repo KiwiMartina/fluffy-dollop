@@ -81,8 +81,10 @@
       "minecraft:snowy_plains": "2025-01-05 04:41:31 +0000",
       "minecraft:stony_shore": "2025-01-05 02:52:20 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:57:26 +0000",
+      "minecraft:snowy_taiga": "2025-01-06 01:59:59 +0000",
       "minecraft:forest": "2025-01-01 22:07:44 +0000",
       "minecraft:frozen_ocean": "2025-01-06 01:36:38 +0000",
+      "minecraft:desert": "2025-01-06 02:18:39 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-06 01:38:09 +0000",
       "minecraft:jungle": "2025-01-01 23:48:42 +0000",
       "minecraft:ocean": "2025-01-01 20:12:23 +0000",
@@ -1206,6 +1208,7 @@
       "cooked_beef": "2025-01-01 22:35:00 +0000",
       "baked_potato": "2025-01-01 21:28:48 +0000",
       "apple": "2025-01-01 20:35:04 +0000",
+      "pumpkin_pie": "2025-01-06 01:55:46 +0000",
       "bread": "2025-01-05 03:30:14 +0000",
       "golden_apple": "2025-01-05 03:52:13 +0000",
       "rotten_flesh": "2025-01-01 21:10:07 +0000",
@@ -7547,9 +7550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-06 01:55:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-01-06 02:14:15 +0000"
     },
     "done": true
   },
@@ -7601,6 +7616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-06 01:55:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-06 01:53:48 +0000"
@@ -7631,9 +7652,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-06 01:55:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-01-06 01:36:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-01-06 02:14:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-01-06 02:14:15 +0000"
     },
     "done": true
   },
@@ -7664,6 +7703,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-01-06 02:14:15 +0000"
     },
     "done": true
   },
@@ -7727,6 +7772,12 @@
     },
     "done": true
   },
+  "luminousworld:kill_frost_golem": {
+    "criteria": {
+      "kill_frost_golem_0": "2025-01-06 02:00:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/building_blocks/spruce_herringbone_planks": {
     "criteria": {
       "has_wood_slabs": "2025-01-06 01:44:16 +0000"
@@ -7736,6 +7787,18 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-06 01:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-01-06 02:13:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-01-06 02:14:15 +0000"
     },
     "done": true
   },
@@ -7769,9 +7832,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-01-06 02:13:28 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/daub": {
     "criteria": {
       "supplementaries:straw": "2025-01-06 01:36:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-01-06 02:10:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-01-06 02:18:39 +0000"
     },
     "done": true
   },
