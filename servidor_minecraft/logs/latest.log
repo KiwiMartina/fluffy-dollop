@@ -1034,3 +1034,74 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 23:33:30.233] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
 [06Jan2025 23:34:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [06Jan2025 23:37:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Cold-Hearted Crustacean]
+[06Jan2025 23:41:10.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.26277799159889936
+[06Jan2025 23:41:13.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.35182848112068593
+[06Jan2025 23:41:35.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.415516346285494
+[06Jan2025 23:41:36.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.41431813593444744
+[06Jan2025 23:41:36.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4140292455388421
+[06Jan2025 23:41:36.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.41282945142808714
+[06Jan2025 23:41:36.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4130599562740766
+[06Jan2025 23:41:38.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2501654611607222
+[06Jan2025 23:41:49.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.831418539895546
+[06Jan2025 23:41:49.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8114079578582263
+[06Jan2025 23:42:22.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8210690242918977
+[06Jan2025 23:42:54.587] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-203, y=67, z=4699}
+[06Jan2025 23:42:54.608] [pool-9-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[06Jan2025 23:42:54.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-203, y=67, z=4700} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[06Jan2025 23:42:54.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-203, y=67, z=4700}
+[06Jan2025 23:42:54.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-203, y=66, z=4700} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[06Jan2025 23:42:54.992] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-203, y=66, z=4700}
+[06Jan2025 23:42:56.109] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-203, y=67, z=4699} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[06Jan2025 23:42:56.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-203, y=67, z=4699}
+[06Jan2025 23:43:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7956754271153516
+[06Jan2025 23:43:10.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8139998376861725
+[06Jan2025 23:43:32.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3086035480364444
+[06Jan2025 23:43:32.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.66077020600369
+[06Jan2025 23:43:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.9963300499985053
+[06Jan2025 23:43:32.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.3922664756337326
+[06Jan2025 23:43:32.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3934776801479529
+[06Jan2025 23:43:32.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.44044607204432396
+[06Jan2025 23:43:32.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4818721936962902
+[06Jan2025 23:43:32.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5184100329943249
+[06Jan2025 23:43:32.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5372685762822584
+[06Jan2025 23:43:32.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5539018114632199
+[06Jan2025 23:43:33.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5685723248925569
+[06Jan2025 23:43:33.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4949069054773645
+[06Jan2025 23:43:33.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4299340055522407
+[06Jan2025 23:43:33.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.372627907819151
+[06Jan2025 23:43:33.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3220839296182021
+[06Jan2025 23:43:33.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2775041408449397
+[06Jan2025 23:43:33.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5713997984857997
+[06Jan2025 23:43:36.008] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 23:44:50.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8100288219573503
+[06Jan2025 23:44:50.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8159630247595514
+[06Jan2025 23:44:54.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6199959467015793
+[06Jan2025 23:44:54.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.70059391812281
+[06Jan2025 23:44:55.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7949989579202814
+[06Jan2025 23:44:55.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7949989579202814
+[06Jan2025 23:44:55.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.6018384230244083
+[06Jan2025 23:44:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7440305645840477
+[06Jan2025 23:44:56.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6584560567825516
+[06Jan2025 23:44:56.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6866529117957438
+[06Jan2025 23:44:56.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6947732340377984
+[06Jan2025 23:45:36.734] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 23:46:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:47:45.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6122301461914296
+[06Jan2025 23:48:32.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4292091574227181
+[06Jan2025 23:48:50.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8408181719868016
+[06Jan2025 23:48:50.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8428921186575262
+[06Jan2025 23:48:51.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8434285832240814
+[06Jan2025 23:48:51.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.33089008956368765
+[06Jan2025 23:48:52.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.724199596747982
+[06Jan2025 23:48:53.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7955398068719577
+[06Jan2025 23:48:59.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4450217949726576
+[06Jan2025 23:48:59.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6467247542275446
+[06Jan2025 23:48:59.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.667318135532246
+[06Jan2025 23:48:59.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7169769602270347
+[06Jan2025 23:48:59.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7169769602270347
+[06Jan2025 23:49:00.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7992921388649598
+[06Jan2025 23:49:00.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.514959202808456
+[06Jan2025 23:49:01.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8023825483150177
+[06Jan2025 23:49:01.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8022787978301122
+[06Jan2025 23:49:01.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8022787978301122
+[06Jan2025 23:49:02.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.6037187946470142

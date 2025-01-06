@@ -11697,3 +11697,202 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 23:37:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Cold-Hearted Crustacean]
 [06Jan2025 23:37:15.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 23:37:15.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:40:49.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 23:40:51.299] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[06Jan2025 23:40:53.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_2
+[06Jan2025 23:40:53.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_2
+[06Jan2025 23:40:53.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_2
+[06Jan2025 23:40:53.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[06Jan2025 23:40:53.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[06Jan2025 23:40:53.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[06Jan2025 23:40:54.211] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[06Jan2025 23:41:10.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.26277799159889936
+[06Jan2025 23:41:13.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.35182848112068593
+[06Jan2025 23:41:35.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.415516346285494
+[06Jan2025 23:41:36.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.41431813593444744
+[06Jan2025 23:41:36.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4140292455388421
+[06Jan2025 23:41:36.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.41282945142808714
+[06Jan2025 23:41:36.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4130599562740766
+[06Jan2025 23:41:38.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2501654611607222
+[06Jan2025 23:41:49.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.831418539895546
+[06Jan2025 23:41:49.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8114079578582263
+[06Jan2025 23:42:15.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:42:15.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:42:22.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8210690242918977
+[06Jan2025 23:42:51.909] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[06Jan2025 23:42:52.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_2
+[06Jan2025 23:42:52.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 23:42:52.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_1
+[06Jan2025 23:42:52.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[06Jan2025 23:42:52.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[06Jan2025 23:42:52.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down
+[06Jan2025 23:42:52.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[06Jan2025 23:42:52.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_1
+[06Jan2025 23:42:52.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/down_4
+[06Jan2025 23:42:52.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn
+[06Jan2025 23:42:52.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[06Jan2025 23:42:52.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_4
+[06Jan2025 23:42:52.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_brown_mushroom
+[06Jan2025 23:42:52.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[06Jan2025 23:42:52.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path
+[06Jan2025 23:42:52.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_2
+[06Jan2025 23:42:52.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_alt
+[06Jan2025 23:42:52.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_weapons
+[06Jan2025 23:42:52.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_rip
+[06Jan2025 23:42:52.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_tools
+[06Jan2025 23:42:52.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_food
+[06Jan2025 23:42:52.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 23:42:52.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/room_iron
+[06Jan2025 23:42:53.604] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
+[06Jan2025 23:42:53.704] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[06Jan2025 23:42:54.587] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-203, y=67, z=4699}
+[06Jan2025 23:42:54.608] [pool-9-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[06Jan2025 23:42:54.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-203, y=67, z=4700} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[06Jan2025 23:42:54.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-203, y=67, z=4700}
+[06Jan2025 23:42:54.991] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-203, y=66, z=4700} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[06Jan2025 23:42:54.992] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-203, y=66, z=4700}
+[06Jan2025 23:42:55.317] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew1
+[06Jan2025 23:42:56.109] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-203, y=67, z=4699} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[06Jan2025 23:42:56.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-203, y=67, z=4699}
+[06Jan2025 23:43:01.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_3
+[06Jan2025 23:43:01.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_3
+[06Jan2025 23:43:01.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_3
+[06Jan2025 23:43:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7956754271153516
+[06Jan2025 23:43:10.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8139998376861725
+[06Jan2025 23:43:20.253] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jan2025 23:43:27.546] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[06Jan2025 23:43:32.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3086035480364444
+[06Jan2025 23:43:32.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.66077020600369
+[06Jan2025 23:43:32.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.9963300499985053
+[06Jan2025 23:43:32.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.3922664756337326
+[06Jan2025 23:43:32.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3934776801479529
+[06Jan2025 23:43:32.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.44044607204432396
+[06Jan2025 23:43:32.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4818721936962902
+[06Jan2025 23:43:32.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5184100329943249
+[06Jan2025 23:43:32.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5372685762822584
+[06Jan2025 23:43:32.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5539018114632199
+[06Jan2025 23:43:33.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5685723248925569
+[06Jan2025 23:43:33.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4949069054773645
+[06Jan2025 23:43:33.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4299340055522407
+[06Jan2025 23:43:33.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.372627907819151
+[06Jan2025 23:43:33.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.3220839296182021
+[06Jan2025 23:43:33.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.2775041408449397
+[06Jan2025 23:43:33.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.5713997984857997
+[06Jan2025 23:43:36.008] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 23:43:38.558] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[06Jan2025 23:44:06.750] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Jan2025 23:44:47.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_8
+[06Jan2025 23:44:47.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[06Jan2025 23:44:47.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[06Jan2025 23:44:50.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8100288219573503
+[06Jan2025 23:44:50.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8159630247595514
+[06Jan2025 23:44:54.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6199959467015793
+[06Jan2025 23:44:54.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.70059391812281
+[06Jan2025 23:44:55.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7949989579202814
+[06Jan2025 23:44:55.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7949989579202814
+[06Jan2025 23:44:55.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.6018384230244083
+[06Jan2025 23:44:55.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7440305645840477
+[06Jan2025 23:44:56.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6584560567825516
+[06Jan2025 23:44:56.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6866529117957438
+[06Jan2025 23:44:56.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6947732340377984
+[06Jan2025 23:45:10.257] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[06Jan2025 23:45:21.035] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_2
+[06Jan2025 23:45:21.040] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[06Jan2025 23:45:21.041] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_2
+[06Jan2025 23:45:21.042] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_alt
+[06Jan2025 23:45:21.043] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/turn
+[06Jan2025 23:45:21.044] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_1
+[06Jan2025 23:45:21.047] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_2
+[06Jan2025 23:45:21.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_2
+[06Jan2025 23:45:21.050] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_2
+[06Jan2025 23:45:21.051] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance_alt
+[06Jan2025 23:45:21.053] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_2
+[06Jan2025 23:45:36.734] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 23:45:58.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1_alt
+[06Jan2025 23:45:58.980] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 23:45:58.982] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/down
+[06Jan2025 23:45:58.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[06Jan2025 23:45:58.997] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/pathlong_2
+[06Jan2025 23:45:59.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path_1
+[06Jan2025 23:45:59.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/trap/trap_2
+[06Jan2025 23:45:59.199] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_2
+[06Jan2025 23:45:59.200] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn_2
+[06Jan2025 23:45:59.202] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_2
+[06Jan2025 23:45:59.204] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_3
+[06Jan2025 23:46:03.739] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path
+[06Jan2025 23:46:03.742] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/down_3
+[06Jan2025 23:46:03.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[06Jan2025 23:46:03.769] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path
+[06Jan2025 23:46:03.771] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1_alt
+[06Jan2025 23:46:03.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance
+[06Jan2025 23:46:03.774] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 23:46:03.775] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[06Jan2025 23:46:19.632] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[06Jan2025 23:46:19.634] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[06Jan2025 23:46:19.637] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_5
+[06Jan2025 23:46:19.641] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_5
+[06Jan2025 23:46:19.644] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_5
+[06Jan2025 23:46:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:46:36.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 23:46:37.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 23:46:38.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 23:46:45.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 23:46:46.612] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars1
+[06Jan2025 23:46:46.614] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars2
+[06Jan2025 23:46:46.616] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:airpillars3
+[06Jan2025 23:46:46.617] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:luststructuregenerator
+[06Jan2025 23:46:46.618] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars1
+[06Jan2025 23:46:46.619] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:groundpillars2
+[06Jan2025 23:46:46.620] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:lamp1
+[06Jan2025 23:46:47.008] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew1
+[06Jan2025 23:46:52.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_8
+[06Jan2025 23:46:52.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_8
+[06Jan2025 23:46:52.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_8
+[06Jan2025 23:47:11.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 23:47:11.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 23:47:15.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 23:47:15.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 23:47:32.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[06Jan2025 23:47:32.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[06Jan2025 23:47:32.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[06Jan2025 23:47:32.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[06Jan2025 23:47:32.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[06Jan2025 23:47:32.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[06Jan2025 23:47:32.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_5
+[06Jan2025 23:47:32.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_5
+[06Jan2025 23:47:32.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_5
+[06Jan2025 23:47:32.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_3
+[06Jan2025 23:47:32.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_3
+[06Jan2025 23:47:32.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_3
+[06Jan2025 23:47:45.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6122301461914296
+[06Jan2025 23:48:32.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4292091574227181
+[06Jan2025 23:48:36.235] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:birchtreenew2
+[06Jan2025 23:48:46.157] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[06Jan2025 23:48:50.559] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[06Jan2025 23:48:50.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8408181719868016
+[06Jan2025 23:48:50.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8428921186575262
+[06Jan2025 23:48:51.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8434285832240814
+[06Jan2025 23:48:51.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.33089008956368765
+[06Jan2025 23:48:52.741] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[06Jan2025 23:48:52.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.724199596747982
+[06Jan2025 23:48:53.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7955398068719577
+[06Jan2025 23:48:56.801] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Jan2025 23:48:59.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.4450217949726576
+[06Jan2025 23:48:59.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6467247542275446
+[06Jan2025 23:48:59.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.667318135532246
+[06Jan2025 23:48:59.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7169769602270347
+[06Jan2025 23:48:59.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7169769602270347
+[06Jan2025 23:49:00.036] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[06Jan2025 23:49:00.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7992921388649598
+[06Jan2025 23:49:00.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.514959202808456
+[06Jan2025 23:49:01.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8023825483150177
+[06Jan2025 23:49:01.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8022787978301122
+[06Jan2025 23:49:01.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.8022787978301122
+[06Jan2025 23:49:02.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 1.6037187946470142
+[06Jan2025 23:49:13.670] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[06Jan2025 23:49:13.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[06Jan2025 23:49:13.728] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[06Jan2025 23:49:27.903] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_5
+[06Jan2025 23:49:30.804] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jan2025 23:49:32.819] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[06Jan2025 23:49:32.845] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9

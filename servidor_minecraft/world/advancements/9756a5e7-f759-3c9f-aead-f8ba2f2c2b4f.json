@@ -9261,6 +9261,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-06 23:39:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:35:57 +0000"
@@ -9297,9 +9303,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-06 23:39:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-01-06 23:39:02 +0000"
     },
     "done": true
   },
@@ -9336,6 +9354,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/building_blocks/jungle_herringbone_planks": {
+    "criteria": {
+      "has_wood_slabs": "2025-01-06 23:39:02 +0000"
     },
     "done": true
   },
