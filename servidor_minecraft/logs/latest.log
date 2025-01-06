@@ -1805,3 +1805,111 @@
 [06Jan2025 03:32:07.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 03:32:07.769] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 03:32:07.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:40.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1696}
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1696}
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-883, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-883, y=56, z=1696}
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-881, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-881, y=56, z=1696}
+[06Jan2025 03:32:47.592] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1694} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1694}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1680} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1680}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1682} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1682}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1680} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1680}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1682} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1682}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1694} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1694}
+[06Jan2025 03:33:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Paul Atreides]
+[06Jan2025 03:33:25.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.992353133911365,0.0,2.8831972031184705
+[06Jan2025 03:33:25.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.37667443538453,0.0,2.9940893179591512
+[06Jan2025 03:33:25.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.760995737450685,0.0,3.104981430933094
+[06Jan2025 03:33:25.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.145317040050713,0.0,3.215873542226973
+[06Jan2025 03:33:45.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.50818261813265,0.0,-4.213596718689587
+[06Jan2025 03:33:45.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.873881948969938,0.0,-4.375658132562876
+[06Jan2025 03:33:45.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.239581279793583,0.0,-4.537719546471635
+[06Jan2025 03:35:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> gente
+[06Jan2025 03:35:12.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> otra piramide
+[06Jan2025 03:35:13.501] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 03:35:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> PARA MI
+[06Jan2025 03:35:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> GRRRRRRRRRRRRRR
+[06Jan2025 03:35:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> pero parece azteca :VV
+[06Jan2025 03:36:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> nope
+[06Jan2025 03:36:20.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> _vvv
+[06Jan2025 03:36:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> erick manda tu tp
+[06Jan2025 03:36:31.674] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[06Jan2025 03:36:31.675] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 03:36:31.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Settling In]
+[06Jan2025 03:37:12.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> w
+[06Jan2025 03:37:15.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.387420114362158,0.0,0.5113108061643743
+[06Jan2025 03:37:15.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.78693631023907,0.0,0.5309762513013538
+[06Jan2025 03:37:15.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.186452506939986,0.0,0.5506416886648822
+[06Jan2025 03:37:18.265] [pool-9-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-587, y=68, z=1659}
+[06Jan2025 03:37:18.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-587, y=68, z=1660} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[06Jan2025 03:37:18.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-587, y=68, z=1660}
+[06Jan2025 03:37:18.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-587, y=67, z=1660} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[06Jan2025 03:37:18.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-587, y=67, z=1660}
+[06Jan2025 03:37:19.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-587, y=68, z=1659} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[06Jan2025 03:37:19.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-587, y=68, z=1659}
+[06Jan2025 03:37:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> full spawners
+[06Jan2025 03:37:38.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 03:38:02.696] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms
+[06Jan2025 03:38:05.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.140924718159113,0.0,2.3068563914353035
+[06Jan2025 03:38:05.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.530960284242155,0.0,2.3955816372597383
+[06Jan2025 03:38:05.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.920995850325198,0.0,2.484306883084173
+[06Jan2025 03:38:16.290] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 17 ms
+[06Jan2025 03:38:23.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:38:38.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:38:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:40:01.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:03.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:07.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:08.306] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:26.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:26.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:43.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:48.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:48.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:48.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:50.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Creeper
+[06Jan2025 03:41:58.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:42:08.406] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Bronisław}[style={}] has been infected
+[06Jan2025 03:42:18.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[06Jan2025 03:42:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was blown up by Creeper
+[06Jan2025 03:43:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:43:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:43:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:44:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[06Jan2025 03:44:19.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was impaled by Drowned
+[06Jan2025 03:45:09.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Rotten to the Core]
+[06Jan2025 03:45:24.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Jan2025 03:45:47.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[06Jan2025 03:46:05.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[06Jan2025 03:46:13.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has reached the goal [Ruthless Remains]
+[06Jan2025 03:46:45.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Jan2025 03:47:03.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[06Jan2025 03:47:23.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4074ms or 81 ticks behind
+[06Jan2025 03:47:40.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[06Jan2025 03:47:57.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[06Jan2025 03:48:18.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6531ms or 130 ticks behind
+[06Jan2025 03:48:36.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[06Jan2025 03:48:54.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[06Jan2025 03:50:19.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[06Jan2025 03:50:37.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[06Jan2025 03:50:55.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3399ms or 67 ticks behind
+[06Jan2025 03:50:55.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Cyclops
+[06Jan2025 03:51:12.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[06Jan2025 03:52:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Cyclops
+[06Jan2025 03:52:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Myrmex Worker

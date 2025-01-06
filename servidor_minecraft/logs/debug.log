@@ -21568,3 +21568,674 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 03:32:07.769] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 03:32:07.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 03:32:10.185] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ancientruin7
+[06Jan2025 03:32:27.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_3
+[06Jan2025 03:32:38.919] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_7
+[06Jan2025 03:32:38.949] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[06Jan2025 03:32:40.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.530] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1696}
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1696}
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-883, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-883, y=56, z=1696}
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-881, y=56, z=1696} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:40.531] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-881, y=56, z=1696}
+[06Jan2025 03:32:47.592] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1694} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1694}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1680} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1680}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1682} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1682}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1680} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1680}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-894, y=56, z=1682} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-894, y=56, z=1682}
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-896, y=56, z=1694} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:32:47.593] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-896, y=56, z=1694}
+[06Jan2025 03:32:57.865] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
+[06Jan2025 03:33:23.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_1
+[06Jan2025 03:33:23.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_alt
+[06Jan2025 03:33:23.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[06Jan2025 03:33:23.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path_1_alt
+[06Jan2025 03:33:23.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_alt
+[06Jan2025 03:33:23.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance
+[06Jan2025 03:33:23.980] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[06Jan2025 03:33:23.980] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_alt
+[06Jan2025 03:33:23.981] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance
+[06Jan2025 03:33:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Paul Atreides]
+[06Jan2025 03:33:25.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.992353133911365,0.0,2.8831972031184705
+[06Jan2025 03:33:25.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.37667443538453,0.0,2.9940893179591512
+[06Jan2025 03:33:25.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.760995737450685,0.0,3.104981430933094
+[06Jan2025 03:33:25.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.145317040050713,0.0,3.215873542226973
+[06Jan2025 03:33:31.793] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[06Jan2025 03:33:31.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance_1
+[06Jan2025 03:33:31.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_1_alt
+[06Jan2025 03:33:31.795] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1
+[06Jan2025 03:33:31.798] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/trap/trap_5
+[06Jan2025 03:33:31.801] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
+[06Jan2025 03:33:33.506] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_2
+[06Jan2025 03:33:33.537] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[06Jan2025 03:33:45.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.50818261813265,0.0,-4.213596718689587
+[06Jan2025 03:33:45.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.873881948969938,0.0,-4.375658132562876
+[06Jan2025 03:33:45.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.239581279793583,0.0,-4.537719546471635
+[06Jan2025 03:34:57.204] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[06Jan2025 03:34:57.205] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[06Jan2025 03:34:59.718] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[06Jan2025 03:35:02.254] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[06Jan2025 03:35:05.426] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabone
+[06Jan2025 03:35:09.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> gente
+[06Jan2025 03:35:12.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> otra piramide
+[06Jan2025 03:35:13.501] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 03:35:14.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[06Jan2025 03:35:14.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[06Jan2025 03:35:14.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 03:35:14.336] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[06Jan2025 03:35:14.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[06Jan2025 03:35:14.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 03:35:14.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2
+[06Jan2025 03:35:14.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[06Jan2025 03:35:14.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 03:35:14.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_sculk
+[06Jan2025 03:35:14.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:35:14.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 03:35:14.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 03:35:14.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[06Jan2025 03:35:14.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[06Jan2025 03:35:14.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 03:35:14.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_2
+[06Jan2025 03:35:14.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 03:35:14.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[06Jan2025 03:35:14.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:35:14.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[06Jan2025 03:35:14.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[06Jan2025 03:35:14.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 03:35:14.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/connector_2
+[06Jan2025 03:35:14.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[06Jan2025 03:35:14.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/connector_1
+[06Jan2025 03:35:15.550] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ancientgate
+[06Jan2025 03:35:16.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:35:16.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:35:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> PARA MI
+[06Jan2025 03:35:19.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> GRRRRRRRRRRRRRR
+[06Jan2025 03:35:22.579] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[06Jan2025 03:35:26.273] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin6
+[06Jan2025 03:35:35.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_2
+[06Jan2025 03:35:35.283] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/turn
+[06Jan2025 03:35:35.284] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[06Jan2025 03:35:35.285] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_2
+[06Jan2025 03:35:35.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_alt
+[06Jan2025 03:35:35.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1_alt
+[06Jan2025 03:35:35.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[06Jan2025 03:35:35.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[06Jan2025 03:35:35.289] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_2
+[06Jan2025 03:35:35.289] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:35:42.639] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_alt
+[06Jan2025 03:35:42.640] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/path_1_alt
+[06Jan2025 03:35:42.640] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_1
+[06Jan2025 03:35:42.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path_alt
+[06Jan2025 03:35:42.643] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_1
+[06Jan2025 03:35:42.654] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_3
+[06Jan2025 03:35:42.655] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 03:35:42.656] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[06Jan2025 03:35:42.657] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance
+[06Jan2025 03:35:42.658] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_4
+[06Jan2025 03:35:44.722] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_4
+[06Jan2025 03:35:49.844] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_3
+[06Jan2025 03:35:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> pero parece azteca :VV
+[06Jan2025 03:36:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> nope
+[06Jan2025 03:36:20.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> _vvv
+[06Jan2025 03:36:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> erick manda tu tp
+[06Jan2025 03:36:31.674] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[06Jan2025 03:36:31.675] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 03:36:31.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Settling In]
+[06Jan2025 03:36:34.350] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn_2
+[06Jan2025 03:36:34.352] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/pathlong_1
+[06Jan2025 03:36:34.354] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_1
+[06Jan2025 03:36:34.355] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_4
+[06Jan2025 03:36:34.357] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_1
+[06Jan2025 03:36:34.361] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_4
+[06Jan2025 03:36:34.362] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path
+[06Jan2025 03:37:08.696] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[06Jan2025 03:37:12.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> w
+[06Jan2025 03:37:15.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.387420114362158,0.0,0.5113108061643743
+[06Jan2025 03:37:15.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.78693631023907,0.0,0.5309762513013538
+[06Jan2025 03:37:15.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.186452506939986,0.0,0.5506416886648822
+[06Jan2025 03:37:18.265] [pool-9-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-587, y=68, z=1659}
+[06Jan2025 03:37:18.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-587, y=68, z=1660} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[06Jan2025 03:37:18.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-587, y=68, z=1660}
+[06Jan2025 03:37:18.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-587, y=67, z=1660} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[06Jan2025 03:37:18.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-587, y=67, z=1660}
+[06Jan2025 03:37:19.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-587, y=68, z=1659} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[06Jan2025 03:37:19.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-587, y=68, z=1659}
+[06Jan2025 03:37:21.653] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn_1
+[06Jan2025 03:37:21.655] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/pathlong_3
+[06Jan2025 03:37:21.657] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_5
+[06Jan2025 03:37:21.657] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance
+[06Jan2025 03:37:21.658] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[06Jan2025 03:37:21.659] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_5
+[06Jan2025 03:37:21.663] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_1
+[06Jan2025 03:37:21.663] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance
+[06Jan2025 03:37:21.663] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance
+[06Jan2025 03:37:21.665] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_alt
+[06Jan2025 03:37:22.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> full spawners
+[06Jan2025 03:37:37.566] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
+[06Jan2025 03:37:37.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[06Jan2025 03:37:38.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 03:37:45.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 03:37:45.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/copper
+[06Jan2025 03:37:45.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down
+[06Jan2025 03:37:45.140] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_1
+[06Jan2025 03:37:45.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_potato
+[06Jan2025 03:37:45.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 03:37:45.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down_sculk
+[06Jan2025 03:37:45.144] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down_sculk
+[06Jan2025 03:37:45.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 03:37:45.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_lapis
+[06Jan2025 03:37:45.146] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_pumpkin
+[06Jan2025 03:37:45.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_food
+[06Jan2025 03:37:45.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 03:37:45.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 03:37:45.148] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 03:37:45.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 03:37:45.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1
+[06Jan2025 03:37:45.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[06Jan2025 03:37:45.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 03:37:45.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/archer
+[06Jan2025 03:37:45.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 03:37:49.066] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[06Jan2025 03:37:49.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[06Jan2025 03:37:49.068] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_3
+[06Jan2025 03:37:49.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_5
+[06Jan2025 03:37:57.275] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[06Jan2025 03:37:58.840] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_1
+[06Jan2025 03:37:58.873] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[06Jan2025 03:38:00.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:38:00.895] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:38:00.900] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Jan2025 03:38:00.917] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin3
+[06Jan2025 03:38:02.696] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms
+[06Jan2025 03:38:04.806] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_1
+[06Jan2025 03:38:05.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.140924718159113,0.0,2.3068563914353035
+[06Jan2025 03:38:05.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.530960284242155,0.0,2.3955816372597383
+[06Jan2025 03:38:05.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.920995850325198,0.0,2.484306883084173
+[06Jan2025 03:38:10.388] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:38:15.980] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[06Jan2025 03:38:16.290] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 17 ms
+[06Jan2025 03:38:20.762] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jan2025 03:38:22.207] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_2
+[06Jan2025 03:38:22.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_2
+[06Jan2025 03:38:22.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:38:22.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_2
+[06Jan2025 03:38:22.212] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[06Jan2025 03:38:22.215] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path
+[06Jan2025 03:38:22.215] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn_1
+[06Jan2025 03:38:22.216] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path
+[06Jan2025 03:38:22.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance_1_alt
+[06Jan2025 03:38:22.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[06Jan2025 03:38:22.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[06Jan2025 03:38:22.220] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[06Jan2025 03:38:23.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:38:25.197] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance
+[06Jan2025 03:38:25.199] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_alt
+[06Jan2025 03:38:25.200] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn
+[06Jan2025 03:38:25.201] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1_alt
+[06Jan2025 03:38:25.204] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/copper
+[06Jan2025 03:38:25.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_2
+[06Jan2025 03:38:25.208] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
+[06Jan2025 03:38:25.211] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[06Jan2025 03:38:25.212] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1_alt
+[06Jan2025 03:38:25.216] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[06Jan2025 03:38:25.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance
+[06Jan2025 03:38:25.220] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[06Jan2025 03:38:25.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[06Jan2025 03:38:25.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_alt
+[06Jan2025 03:38:25.226] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_2
+[06Jan2025 03:38:25.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_2
+[06Jan2025 03:38:25.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[06Jan2025 03:38:25.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_1
+[06Jan2025 03:38:25.231] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
+[06Jan2025 03:38:25.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[06Jan2025 03:38:25.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_4
+[06Jan2025 03:38:25.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_5
+[06Jan2025 03:38:25.236] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down
+[06Jan2025 03:38:25.237] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_4
+[06Jan2025 03:38:25.240] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_alt
+[06Jan2025 03:38:25.244] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_3
+[06Jan2025 03:38:25.246] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_2
+[06Jan2025 03:38:25.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_emerald
+[06Jan2025 03:38:25.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_crafting
+[06Jan2025 03:38:25.333] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_redstone
+[06Jan2025 03:38:25.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/potions
+[06Jan2025 03:38:25.339] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_diamonds
+[06Jan2025 03:38:25.341] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_red_mushroom
+[06Jan2025 03:38:25.342] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_3
+[06Jan2025 03:38:25.345] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/music
+[06Jan2025 03:38:25.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_gold
+[06Jan2025 03:38:25.351] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/r_anchor
+[06Jan2025 03:38:25.354] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tools
+[06Jan2025 03:38:25.357] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_prison
+[06Jan2025 03:38:25.359] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_food
+[06Jan2025 03:38:25.362] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/map
+[06Jan2025 03:38:25.365] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_lapis
+[06Jan2025 03:38:25.366] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_archer
+[06Jan2025 03:38:25.367] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_beetroot
+[06Jan2025 03:38:25.367] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_iron
+[06Jan2025 03:38:25.370] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/prison
+[06Jan2025 03:38:25.373] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_rip
+[06Jan2025 03:38:25.373] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_smelting
+[06Jan2025 03:38:25.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_potions
+[06Jan2025 03:38:25.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_copper
+[06Jan2025 03:38:25.375] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_amethyst
+[06Jan2025 03:38:25.375] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/archer
+[06Jan2025 03:38:25.376] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/portal
+[06Jan2025 03:38:25.378] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_brown_mushroom
+[06Jan2025 03:38:25.379] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_2
+[06Jan2025 03:38:25.380] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_2
+[06Jan2025 03:38:25.380] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_1
+[06Jan2025 03:38:25.381] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/camp
+[06Jan2025 03:38:25.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_weapons
+[06Jan2025 03:38:25.382] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/stews
+[06Jan2025 03:38:25.383] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_melon
+[06Jan2025 03:38:25.384] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom
+[06Jan2025 03:38:25.384] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_1
+[06Jan2025 03:38:25.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_armor
+[06Jan2025 03:38:25.385] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tnt
+[06Jan2025 03:38:25.386] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_wheat
+[06Jan2025 03:38:25.386] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_books
+[06Jan2025 03:38:25.387] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/iron_golem
+[06Jan2025 03:38:25.388] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_3
+[06Jan2025 03:38:25.388] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_potato
+[06Jan2025 03:38:25.389] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils
+[06Jan2025 03:38:25.390] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_carrot
+[06Jan2025 03:38:25.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_pumpkin
+[06Jan2025 03:38:25.543] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:38:25.544] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/connector_1
+[06Jan2025 03:38:25.546] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_sculk
+[06Jan2025 03:38:25.554] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down_sculk
+[06Jan2025 03:38:25.557] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down_sculk
+[06Jan2025 03:38:25.559] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_sculk
+[06Jan2025 03:38:25.560] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/connector_2
+[06Jan2025 03:38:25.566] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2
+[06Jan2025 03:38:25.568] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down
+[06Jan2025 03:38:25.570] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down
+[06Jan2025 03:38:25.573] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1
+[06Jan2025 03:38:26.048] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:38:32.600] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1_alt
+[06Jan2025 03:38:32.601] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/turn_2
+[06Jan2025 03:38:32.601] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance
+[06Jan2025 03:38:32.602] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[06Jan2025 03:38:32.603] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1_alt
+[06Jan2025 03:38:32.604] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1_alt
+[06Jan2025 03:38:32.605] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[06Jan2025 03:38:32.607] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[06Jan2025 03:38:32.608] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_1_alt
+[06Jan2025 03:38:32.609] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_alt
+[06Jan2025 03:38:32.610] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path_1
+[06Jan2025 03:38:38.277] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:38:40.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[06Jan2025 03:38:40.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/cows_1
+[06Jan2025 03:38:40.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/pigs_1
+[06Jan2025 03:38:43.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:38:45.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:38:46.102] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[06Jan2025 03:38:47.266] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin3
+[06Jan2025 03:38:48.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 03:38:48.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tools
+[06Jan2025 03:38:48.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 03:38:48.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[06Jan2025 03:38:48.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/prison
+[06Jan2025 03:38:48.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 03:38:48.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 03:38:48.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/iron_golem
+[06Jan2025 03:38:48.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:38:48.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_smelting
+[06Jan2025 03:38:48.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[06Jan2025 03:38:48.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 03:38:48.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 03:38:48.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 03:38:48.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 03:38:48.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 03:38:48.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 03:38:48.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_3
+[06Jan2025 03:38:48.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils
+[06Jan2025 03:38:48.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 03:38:48.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 03:38:48.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_weapons
+[06Jan2025 03:38:48.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 03:38:48.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_carrot
+[06Jan2025 03:38:48.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[06Jan2025 03:38:48.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 03:38:48.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down
+[06Jan2025 03:38:48.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:38:48.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 03:38:48.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_4
+[06Jan2025 03:38:48.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 03:38:48.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 03:38:48.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:38:48.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_crafting
+[06Jan2025 03:38:48.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 03:38:49.027] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin5
+[06Jan2025 03:38:49.479] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[06Jan2025 03:38:49.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:38:49.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:38:50.811] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin4
+[06Jan2025 03:38:52.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:38:52.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:38:53.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:38:53.733] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:38:53.741] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[06Jan2025 03:38:53.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[06Jan2025 03:38:53.880] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin3
+[06Jan2025 03:39:05.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:39:05.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:39:05.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:39:09.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:39:10.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:39:10.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[06Jan2025 03:39:10.483] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[06Jan2025 03:39:10.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:39:10.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:39:11.020] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 03:39:11.022] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 03:39:11.023] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/archer
+[06Jan2025 03:39:11.023] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:39:11.024] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 03:39:11.025] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 03:39:11.029] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[06Jan2025 03:39:11.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 03:39:11.135] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[06Jan2025 03:39:11.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[06Jan2025 03:39:11.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:39:11.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[06Jan2025 03:39:11.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance
+[06Jan2025 03:39:11.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1
+[06Jan2025 03:39:11.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[06Jan2025 03:39:11.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_3
+[06Jan2025 03:39:11.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/copper
+[06Jan2025 03:39:11.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_books
+[06Jan2025 03:39:11.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_1_down
+[06Jan2025 03:39:11.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_food
+[06Jan2025 03:39:11.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down
+[06Jan2025 03:39:11.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/archer
+[06Jan2025 03:39:11.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_2
+[06Jan2025 03:39:11.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_smelting
+[06Jan2025 03:39:11.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_2
+[06Jan2025 03:39:11.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[06Jan2025 03:39:11.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[06Jan2025 03:39:11.250] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_2
+[06Jan2025 03:39:11.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[06Jan2025 03:39:11.252] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_1
+[06Jan2025 03:39:11.253] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_1
+[06Jan2025 03:39:11.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path
+[06Jan2025 03:39:11.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_prison
+[06Jan2025 03:39:11.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_armor
+[06Jan2025 03:39:11.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tools
+[06Jan2025 03:39:11.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/r_anchor
+[06Jan2025 03:39:11.261] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/music
+[06Jan2025 03:39:11.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_weapons
+[06Jan2025 03:39:11.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn
+[06Jan2025 03:39:11.264] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_redstone
+[06Jan2025 03:39:11.265] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_iron
+[06Jan2025 03:39:11.266] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tnt
+[06Jan2025 03:39:11.268] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/stews
+[06Jan2025 03:39:11.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_carrot
+[06Jan2025 03:39:11.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_pumpkin
+[06Jan2025 03:39:11.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_4
+[06Jan2025 03:39:11.272] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1_alt
+[06Jan2025 03:39:12.448] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down_sculk
+[06Jan2025 03:39:12.450] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down_sculk
+[06Jan2025 03:39:12.451] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:39:12.489] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin5
+[06Jan2025 03:39:12.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_5
+[06Jan2025 03:39:12.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_sculk
+[06Jan2025 03:39:12.796] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 03:39:12.800] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[06Jan2025 03:39:12.934] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 03:39:12.936] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1
+[06Jan2025 03:39:14.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:39:19.578] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 03:39:20.076] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 03:39:20.221] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 03:39:20.405] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 03:39:20.426] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[06Jan2025 03:39:20.427] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_1
+[06Jan2025 03:39:20.428] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 03:39:42.400] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 03:39:42.537] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_alt
+[06Jan2025 03:39:42.542] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_potato
+[06Jan2025 03:39:42.557] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 03:39:42.562] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[06Jan2025 03:39:42.575] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_pumpkin
+[06Jan2025 03:39:42.579] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_food
+[06Jan2025 03:39:42.869] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 03:39:46.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[06Jan2025 03:39:46.185] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down
+[06Jan2025 03:39:46.193] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[06Jan2025 03:39:46.273] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_lapis
+[06Jan2025 03:39:46.274] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin3
+[06Jan2025 03:39:46.306] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[06Jan2025 03:39:46.346] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 03:39:46.386] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 03:39:46.389] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[06Jan2025 03:39:46.394] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/copper
+[06Jan2025 03:39:49.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin4
+[06Jan2025 03:39:56.548] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin2
+[06Jan2025 03:39:57.644] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin1
+[06Jan2025 03:40:01.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:03.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:07.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:08.306] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:16.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:40:16.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:40:17.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ancientgate
+[06Jan2025 03:40:26.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:40:26.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:43.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:48.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:48.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:48.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:49.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:41:50.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Creeper
+[06Jan2025 03:41:58.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:42:04.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tools
+[06Jan2025 03:42:04.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[06Jan2025 03:42:04.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/prison
+[06Jan2025 03:42:04.982] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/iron_golem
+[06Jan2025 03:42:04.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_smelting
+[06Jan2025 03:42:04.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[06Jan2025 03:42:04.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 03:42:04.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_3
+[06Jan2025 03:42:04.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils
+[06Jan2025 03:42:04.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_weapons
+[06Jan2025 03:42:04.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_carrot
+[06Jan2025 03:42:04.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[06Jan2025 03:42:04.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down
+[06Jan2025 03:42:04.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_4
+[06Jan2025 03:42:04.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_crafting
+[06Jan2025 03:42:08.406] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Bronisław}[style={}] has been infected
+[06Jan2025 03:42:09.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:42:09.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 03:42:18.672] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/entity/ImprovedProjectileEntity$ColliderType
+[06Jan2025 03:42:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was blown up by Creeper
+[06Jan2025 03:42:27.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:42:27.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:42:45.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:43:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:43:12.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_2
+[06Jan2025 03:43:12.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_2
+[06Jan2025 03:43:12.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_2
+[06Jan2025 03:43:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:43:42.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[06Jan2025 03:43:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 03:43:49.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:43:53.100] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[06Jan2025 03:43:53.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[06Jan2025 03:43:53.102] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[06Jan2025 03:44:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was shot by Skeleton
+[06Jan2025 03:44:19.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was impaled by Drowned
+[06Jan2025 03:44:24.238] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:44:24.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:44:34.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:44:34.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:44:44.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:44:49.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 03:44:49.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:44:59.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:45:06.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[06Jan2025 03:45:06.274] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[06Jan2025 03:45:06.275] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[06Jan2025 03:45:06.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[06Jan2025 03:45:06.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:45:09.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Rotten to the Core]
+[06Jan2025 03:45:17.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:45:17.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:45:21.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_3
+[06Jan2025 03:45:21.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_3
+[06Jan2025 03:45:21.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_3
+[06Jan2025 03:45:24.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Jan2025 03:45:29.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_5
+[06Jan2025 03:45:29.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_5
+[06Jan2025 03:45:29.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_5
+[06Jan2025 03:45:47.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[06Jan2025 03:45:52.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[06Jan2025 03:45:52.273] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[06Jan2025 03:45:52.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[06Jan2025 03:46:05.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[06Jan2025 03:46:13.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has reached the goal [Ruthless Remains]
+[06Jan2025 03:46:37.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:46:38.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:46:39.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:46:45.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Jan2025 03:46:47.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:46:52.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[06Jan2025 03:46:52.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[06Jan2025 03:46:52.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[06Jan2025 03:46:52.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:46:54.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:46:54.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:46:57.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_9
+[06Jan2025 03:46:57.767] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:47:00.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:47:03.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[06Jan2025 03:47:05.524] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jan2025 03:47:05.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/corner1
+[06Jan2025 03:47:05.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/villagers/unemployed_plains
+[06Jan2025 03:47:05.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[06Jan2025 03:47:05.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/wonky_1
+[06Jan2025 03:47:05.557] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/straight5
+[06Jan2025 03:47:05.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/small_farm
+[06Jan2025 03:47:05.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/weaponsmith
+[06Jan2025 03:47:05.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/houses/large_farm
+[06Jan2025 03:47:05.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/roads/cross
+[06Jan2025 03:47:15.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:47:15.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:47:23.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4074ms or 81 ticks behind
+[06Jan2025 03:47:23.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:47:29.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[06Jan2025 03:47:40.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[06Jan2025 03:47:57.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[06Jan2025 03:47:58.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[06Jan2025 03:47:59.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[06Jan2025 03:47:59.166] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[06Jan2025 03:47:59.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[06Jan2025 03:47:59.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:47:59.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:47:59.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:47:59.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:47:59.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:47:59.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[06Jan2025 03:47:59.665] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_4
+[06Jan2025 03:47:59.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[06Jan2025 03:47:59.671] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[06Jan2025 03:47:59.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn
+[06Jan2025 03:47:59.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_4
+[06Jan2025 03:47:59.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2_sculk
+[06Jan2025 03:47:59.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2_down
+[06Jan2025 03:47:59.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_1_down
+[06Jan2025 03:47:59.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:47:59.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[06Jan2025 03:47:59.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_amethyst
+[06Jan2025 03:47:59.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[06Jan2025 03:47:59.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:47:59.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[06Jan2025 03:47:59.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/connector_2
+[06Jan2025 03:47:59.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[06Jan2025 03:47:59.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_3
+[06Jan2025 03:47:59.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_3
+[06Jan2025 03:47:59.710] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[06Jan2025 03:47:59.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[06Jan2025 03:47:59.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_weapons
+[06Jan2025 03:47:59.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/copper
+[06Jan2025 03:47:59.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_armor
+[06Jan2025 03:47:59.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[06Jan2025 03:47:59.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_fossils
+[06Jan2025 03:47:59.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/iron_golem
+[06Jan2025 03:47:59.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_prison
+[06Jan2025 03:47:59.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_smelting
+[06Jan2025 03:47:59.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_potions
+[06Jan2025 03:47:59.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_2
+[06Jan2025 03:47:59.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[06Jan2025 03:47:59.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[06Jan2025 03:48:07.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:48:07.755] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:48:07.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[06Jan2025 03:48:07.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/villagers/unemployed_savanna
+[06Jan2025 03:48:07.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/cows_1
+[06Jan2025 03:48:07.883] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:48:08.905] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2_sculk
+[06Jan2025 03:48:08.909] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/connector_2
+[06Jan2025 03:48:08.929] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[06Jan2025 03:48:18.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6531ms or 130 ticks behind
+[06Jan2025 03:48:22.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:48:36.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[06Jan2025 03:48:44.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:48:44.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:48:51.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:48:54.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[06Jan2025 03:48:55.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 03:50:06.758] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:50:08.749] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/villagers/unemployed_savanna
+[06Jan2025 03:50:14.876] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[06Jan2025 03:50:14.984] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabtwo
+[06Jan2025 03:50:14.985] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabone
+[06Jan2025 03:50:19.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[06Jan2025 03:50:20.813] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/cows_1
+[06Jan2025 03:50:23.484] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/iron_golem
+[06Jan2025 03:50:37.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[06Jan2025 03:50:42.687] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/portalroom
+[06Jan2025 03:50:42.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room6
+[06Jan2025 03:50:42.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway6
+[06Jan2025 03:50:42.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway3
+[06Jan2025 03:50:42.690] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway2
+[06Jan2025 03:50:42.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room9
+[06Jan2025 03:50:42.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room4
+[06Jan2025 03:50:42.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway1
+[06Jan2025 03:50:42.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway5
+[06Jan2025 03:50:42.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/smeltery
+[06Jan2025 03:50:42.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room2
+[06Jan2025 03:50:42.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room3
+[06Jan2025 03:50:42.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room8
+[06Jan2025 03:50:42.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway4
+[06Jan2025 03:50:42.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room7
+[06Jan2025 03:50:42.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room10
+[06Jan2025 03:50:42.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room5
+[06Jan2025 03:50:46.787] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[06Jan2025 03:50:46.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_4
+[06Jan2025 03:50:46.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[06Jan2025 03:50:46.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_5
+[06Jan2025 03:50:46.795] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[06Jan2025 03:50:55.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3399ms or 67 ticks behind
+[06Jan2025 03:50:55.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Cyclops
+[06Jan2025 03:50:57.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:50:57.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:50:58.620] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:50:58.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:51:07.638] [pool-3-thread-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
+[06Jan2025 03:51:12.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[06Jan2025 03:52:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Cyclops
+[06Jan2025 03:52:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Myrmex Worker

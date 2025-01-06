@@ -6686,6 +6686,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair": {
+    "criteria": {
+      "stone_chair": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -6728,6 +6740,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-01-06 01:39:22 +0000"
@@ -6743,6 +6767,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -6764,6 +6794,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_table_dinner": {
+    "criteria": {
+      "stone_table_dinner": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_modern_dinner": {
+    "criteria": {
+      "stone_table_modern_dinner": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-06 01:00:36 +0000"
@@ -6773,6 +6815,12 @@
   "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -6791,6 +6839,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 02:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -6878,6 +6938,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_chair_modern": {
+    "criteria": {
+      "stone_chair_modern": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-06 00:07:14 +0000"
@@ -6917,6 +6983,12 @@
   "pfm:recipes/furniture/oak_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7083,15 +7155,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-06 02:45:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-01-06 01:34:35 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_chair_classic": {
+    "criteria": {
+      "stone_chair_classic": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7131,6 +7221,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 03:40:15 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -7158,6 +7254,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_classic": {
+    "criteria": {
+      "stone_table_classic": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7191,6 +7293,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 03:40:15 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2025-01-06 00:54:44 +0000"
@@ -7209,9 +7317,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pewen_alexscaves_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_basic": {
+    "criteria": {
+      "stone_table_basic": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7239,6 +7365,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-01-06 03:45:09 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/thornwood_alexscaves_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -7257,9 +7389,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_classic_nightstand": {
+    "criteria": {
+      "stone_classic_nightstand": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
     "criteria": {
       "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7299,6 +7449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-01-06 03:08:47 +0000"
@@ -7311,9 +7467,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_chair_dinner": {
+    "criteria": {
+      "stone_chair_dinner": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7353,9 +7521,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stone_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:40:54 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dreadwood_iceandfire_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },
@@ -7446,6 +7626,12 @@
   "l2weaponry:recipes/misc/generated/recycle/iron_battle_axe": {
     "criteria": {
       "has_iron_battle_axe": "2025-01-06 01:01:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_table_natural": {
+    "criteria": {
+      "stone_table_natural": "2025-01-06 03:40:54 +0000"
     },
     "done": true
   },

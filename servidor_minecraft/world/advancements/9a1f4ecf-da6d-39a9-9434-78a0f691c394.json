@@ -74,6 +74,7 @@
       "minecraft:sunflower_plains": "2025-01-06 00:54:34 +0000",
       "minecraft:birch_forest": "2025-01-04 02:19:13 +0000",
       "minecraft:bamboo_jungle": "2025-01-04 23:43:17 +0000",
+      "minecraft:badlands": "2025-01-06 03:30:55 +0000",
       "minecraft:savanna_plateau": "2025-01-04 05:01:01 +0000",
       "minecraft:beach": "2025-01-04 01:58:05 +0000",
       "minecraft:dark_forest": "2025-01-04 04:59:27 +0000",
@@ -8033,6 +8034,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 03:32:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 00:48:00 +0000"
@@ -8075,6 +8082,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 03:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:19:44 +0000"
@@ -8084,6 +8097,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-01-06 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 03:33:25 +0000"
     },
     "done": true
   },
@@ -8111,6 +8130,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-06 03:33:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-01-06 00:15:11 +0000"
@@ -8129,9 +8154,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 03:33:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-01-06 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-06 03:33:13 +0000"
     },
     "done": true
   },
@@ -8267,9 +8304,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 03:33:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-01-06 02:11:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 03:33:25 +0000"
     },
     "done": true
   },
@@ -8294,6 +8343,12 @@
   "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 03:32:06 +0000"
     },
     "done": true
   },
@@ -8471,6 +8526,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-01-06 03:33:25 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_raw_table_log": {
     "criteria": {
       "has_log": "2025-01-06 02:11:42 +0000"
@@ -8513,9 +8574,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 03:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-01-06 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-06 03:33:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-06 03:33:13 +0000"
     },
     "done": true
   },
@@ -8576,6 +8655,12 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-01-06 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 03:32:06 +0000"
     },
     "done": true
   },
