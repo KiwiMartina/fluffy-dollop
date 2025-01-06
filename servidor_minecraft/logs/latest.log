@@ -979,3 +979,21 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 22:57:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Merchant]
 [06Jan2025 22:57:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Hitoshi ponte armadura
 [06Jan2025 22:58:08.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Hitoshi ponte tu armadura
+[06Jan2025 23:00:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 23:00:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Best Friends Forever]
+[06Jan2025 23:01:13.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MotoMoto_7[/172.22.250.207:59551] logged in with entity id 8218 at (394.50215308716724, 59.55348410970247, 4534.776824214579)
+[06Jan2025 23:01:13.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 joined the game
+[06Jan2025 23:01:25.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 drowned whilst trying to escape Drowned
+[06Jan2025 23:01:26.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cepatito[/172.22.106.123:51851] logged in with entity id 8543 at (865.445523341919, 66.875, 4932.88020418443)
+[06Jan2025 23:01:26.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito joined the game
+[06Jan2025 23:01:39.313] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[06Jan2025 23:01:39.314] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[06Jan2025 23:01:43.369] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/ai/MyrmexAIReEnterHive$Phases
+[06Jan2025 23:03:12.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> ZZZZZZZZZZZZZZZZZZZZ
+[06Jan2025 23:03:31.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> W fortaleza
+[06Jan2025 23:04:19.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Motomoto7 te baneamos si no te unes al vc, aunque sea mudo
+[06Jan2025 23:06:35.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:06:53.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:07:25.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:07:44.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:08:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
