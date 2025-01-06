@@ -6714,6 +6714,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-01-06 01:39:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-06 00:07:39 +0000"
@@ -6747,6 +6753,12 @@
   "pfm:recipes/furniture/dark_oak_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-01-06 01:35:12 +0000"
     },
     "done": true
   },
@@ -6852,6 +6864,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/misc/generated/recycle/iron_spear": {
     "criteria": {
       "has_iron_spear": "2025-01-06 01:04:22 +0000"
@@ -6906,6 +6930,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -6918,9 +6948,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-01-06 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-06 01:34:35 +0000"
     },
     "done": true
   },
@@ -7032,6 +7074,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -7080,6 +7128,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-06 01:34:35 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dreadwood_iceandfire_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -7113,6 +7167,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 01:43:59 +0000"
     },
     "done": true
   },
