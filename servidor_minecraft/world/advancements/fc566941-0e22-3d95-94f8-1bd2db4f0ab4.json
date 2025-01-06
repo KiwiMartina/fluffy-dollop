@@ -8858,6 +8858,12 @@
     },
     "done": true
   },
+  "luminousworld:kill_king_crab": {
+    "criteria": {
+      "kill_king_crab_0": "2025-01-06 23:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"

@@ -9105,6 +9105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-06 23:31:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:35:57 +0000"
@@ -9156,6 +9162,12 @@
   "pfm:recipes/furniture/crimson_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-01-06 23:31:45 +0000"
     },
     "done": true
   },

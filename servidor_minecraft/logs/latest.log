@@ -1022,3 +1022,15 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 23:22:12.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon lost connection: Disconnected
 [06Jan2025 23:22:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon left the game
 [06Jan2025 23:25:36.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [They Grow Up So Fast]
+[06Jan2025 23:29:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 23:29:35.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> k
+[06Jan2025 23:29:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> chocolate go
+[06Jan2025 23:30:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 23:30:33.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkMoon[/172.22.63.58:55350] logged in with entity id 32009 at (839.3261494114503, 66.0, 4855.157637165267)
+[06Jan2025 23:30:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon joined the game
+[06Jan2025 23:32:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> nadie le debe dar las coordenas, lo dijo gammara
+[06Jan2025 23:33:30.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[06Jan2025 23:33:30.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[06Jan2025 23:33:30.233] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[06Jan2025 23:34:05.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 23:37:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Cold-Hearted Crustacean]
