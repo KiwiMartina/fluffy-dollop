@@ -960,3 +960,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 22:21:54.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
 [06Jan2025 22:21:54.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
 [06Jan2025 22:25:09.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 22:27:54.705] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[06Jan2025 22:28:58.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[06Jan2025 22:31:39.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 22:33:08.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]

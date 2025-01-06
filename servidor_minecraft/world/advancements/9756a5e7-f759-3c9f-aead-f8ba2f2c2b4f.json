@@ -9087,9 +9087,357 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-01-06 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-01-06 22:18:34 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-01-06 22:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-06 22:34:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_tile_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:36:17 +0000"
     },
     "done": true
   },
