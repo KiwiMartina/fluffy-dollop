@@ -2784,6 +2784,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-06 05:40:36 +0000",
       "minecraft:skeleton": "2025-01-04 02:22:20 +0000",
       "minecraft:zoglin": "2025-01-04 22:55:07 +0000",
       "minecraft:ghast": "2025-01-05 04:51:47 +0000",
@@ -8771,6 +8772,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-06 05:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-01-06 04:47:47 +0000"
@@ -8810,6 +8817,12 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-01-06 04:47:47 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-06 05:31:42 +0000"
     },
     "done": true
   },

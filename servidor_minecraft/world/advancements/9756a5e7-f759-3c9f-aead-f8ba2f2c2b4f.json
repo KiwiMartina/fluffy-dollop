@@ -1281,15 +1281,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-05 01:10:55 +0000",
+      "minecraft:pillager": "2025-01-06 05:39:25 +0000",
       "minecraft:skeleton": "2024-12-30 04:12:33 +0000",
       "minecraft:zoglin": "2025-01-06 04:21:02 +0000",
       "minecraft:ghast": "2025-01-06 04:22:03 +0000",
+      "minecraft:vindicator": "2025-01-06 05:38:43 +0000",
       "minecraft:spider": "2024-12-30 03:45:55 +0000",
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
       "minecraft:slime": "2025-01-05 03:19:16 +0000",
       "minecraft:phantom": "2025-01-05 01:01:03 +0000",
       "minecraft:witch": "2025-01-06 01:53:54 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:47:27 +0000",
+      "minecraft:husk": "2025-01-06 05:30:24 +0000",
       "minecraft:enderman": "2024-12-30 04:34:55 +0000",
       "minecraft:zombie": "2024-12-30 03:10:20 +0000"
     },
@@ -8661,6 +8664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
   "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
       "locate_mud_mineshaft": "2025-01-06 05:19:37 +0000"
@@ -8673,9 +8682,27 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-06 05:38:43 +0000"
     },
     "done": true
   },
@@ -8697,9 +8724,33 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-06 05:32:45 +0000"
     },
     "done": true
   },
@@ -8715,9 +8766,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-06 05:22:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
@@ -8739,6 +8802,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
@@ -8754,6 +8823,24 @@
   "mca:grandparent": {
     "criteria": {
       "iron": "2025-01-06 04:11:36 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
@@ -8793,15 +8880,39 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-01-06 05:32:44 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dreadwood_iceandfire_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-06 05:31:02 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
@@ -8847,9 +8958,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/thornwood_alexscaves_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
@@ -8859,9 +8982,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
@@ -8874,6 +9009,12 @@
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 05:18:25 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
@@ -8898,6 +9039,30 @@
   "pfm:recipes/furniture/bamboo_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 05:26:03 +0000"
     },
     "done": true
   },
