@@ -27,7 +27,7 @@
 	bigMoonWeight = 10
 	#Weight of the Big Moon Event [Default: 5]
 	#Range: 0 ~ 100
-	badOmenMoonWeight = 5
+	badOmenMoonWeight = 1
 	#Weight of the Hero Moon Event [Default: 5]
 	#Range: 0 ~ 100
 	heroMoonWeight = 5

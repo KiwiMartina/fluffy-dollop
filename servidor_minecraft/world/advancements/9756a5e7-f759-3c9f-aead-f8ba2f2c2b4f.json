@@ -1284,16 +1284,19 @@
       "minecraft:pillager": "2025-01-06 05:39:25 +0000",
       "minecraft:skeleton": "2024-12-30 04:12:33 +0000",
       "minecraft:zoglin": "2025-01-06 04:21:02 +0000",
+      "minecraft:ravager": "2025-01-06 05:47:54 +0000",
       "minecraft:ghast": "2025-01-06 04:22:03 +0000",
       "minecraft:vindicator": "2025-01-06 05:38:43 +0000",
       "minecraft:spider": "2024-12-30 03:45:55 +0000",
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
       "minecraft:slime": "2025-01-05 03:19:16 +0000",
+      "minecraft:evoker": "2025-01-06 05:46:50 +0000",
       "minecraft:phantom": "2025-01-05 01:01:03 +0000",
       "minecraft:witch": "2025-01-06 01:53:54 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:47:27 +0000",
       "minecraft:husk": "2025-01-06 05:30:24 +0000",
       "minecraft:enderman": "2024-12-30 04:34:55 +0000",
+      "minecraft:vex": "2025-01-06 05:45:12 +0000",
       "minecraft:zombie": "2024-12-30 03:10:20 +0000"
     },
     "done": false
@@ -8652,6 +8655,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/oak_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
@@ -8661,6 +8736,12 @@
   "pfm:recipes/furniture/thornwood_alexscaves_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-06 05:47:52 +0000"
     },
     "done": true
   },
@@ -8952,6 +9033,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-06 05:49:00 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
@@ -9021,6 +9108,12 @@
   "pfm:recipes/furniture/warped_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-01-06 05:47:52 +0000"
     },
     "done": true
   },

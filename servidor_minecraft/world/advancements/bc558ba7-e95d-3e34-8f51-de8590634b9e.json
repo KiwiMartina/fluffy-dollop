@@ -2957,6 +2957,7 @@
       "minecraft:pillager": "2025-01-04 04:20:13 +0000",
       "minecraft:skeleton": "2025-01-04 05:22:12 +0000",
       "minecraft:zoglin": "2025-01-05 04:54:48 +0000",
+      "minecraft:vindicator": "2025-01-06 05:54:17 +0000",
       "minecraft:spider": "2025-01-05 00:59:18 +0000",
       "minecraft:creeper": "2025-01-04 05:33:55 +0000",
       "minecraft:phantom": "2025-01-05 04:54:34 +0000",
@@ -2966,6 +2967,7 @@
       "minecraft:husk": "2025-01-06 03:42:25 +0000",
       "minecraft:cave_spider": "2025-01-06 01:00:54 +0000",
       "minecraft:silverfish": "2025-01-04 05:32:12 +0000",
+      "minecraft:vex": "2025-01-06 05:45:22 +0000",
       "minecraft:zombie": "2025-01-04 23:56:59 +0000",
       "minecraft:drowned": "2025-01-06 04:41:42 +0000"
     },
@@ -5434,6 +5436,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 06:00:15 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/dark_oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 05:31:33 +0000"
@@ -5941,6 +6015,12 @@
   "pfm:recipes/furniture/dreadwood_iceandfire_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 05:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-06 05:49:00 +0000"
     },
     "done": true
   },
