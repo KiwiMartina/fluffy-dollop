@@ -1017,3 +1017,8 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 23:15:19.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
 [06Jan2025 23:15:36.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
 [06Jan2025 23:15:53.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Sea Serpent
+[06Jan2025 23:20:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Creeper
+[06Jan2025 23:22:05.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon moved too quickly! -9.849536881817926,1.0,-2.0053627319139196
+[06Jan2025 23:22:12.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon lost connection: Disconnected
+[06Jan2025 23:22:12.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon left the game
+[06Jan2025 23:25:36.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [They Grow Up So Fast]

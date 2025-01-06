@@ -8731,6 +8731,12 @@
     },
     "done": true
   },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-01-06 23:25:36 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/diorite_classic_stool": {
     "criteria": {
       "has_planks": "2025-01-06 22:45:48 +0000"
