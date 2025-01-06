@@ -7932,6 +7932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
@@ -7944,9 +7950,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair": {
+    "criteria": {
+      "diorite_chair": "2025-01-06 22:45:48 +0000"
     },
     "done": true
   },
@@ -7980,15 +7998,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick_wall": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-06 22:43:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_natural": {
+    "criteria": {
+      "diorite_table_natural": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_classic_nightstand": {
+    "criteria": {
+      "diorite_classic_nightstand": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_table_modern_dinner": {
+    "criteria": {
+      "diorite_table_modern_dinner": "2025-01-06 22:45:48 +0000"
     },
     "done": true
   },
@@ -8022,6 +8064,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_table_basic": {
+    "criteria": {
+      "diorite_table_basic": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/crimson_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
@@ -8031,6 +8079,12 @@
   "pfm:recipes/furniture/spruce_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_stairs": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-06 22:43:10 +0000"
     },
     "done": true
   },
@@ -8058,6 +8112,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/ash_brick_stairs_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-06 22:43:10 +0000"
+    },
+    "done": true
+  },
+  "mca:grandparent": {
+    "criteria": {
+      "iron": "2025-01-06 22:40:08 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
@@ -8076,9 +8142,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_chair_dinner": {
+    "criteria": {
+      "diorite_chair_dinner": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_classic": {
+    "criteria": {
+      "diorite_chair_classic": "2025-01-06 22:45:48 +0000"
     },
     "done": true
   },
@@ -8106,9 +8184,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_table_classic": {
+    "criteria": {
+      "diorite_table_classic": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick_slab": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-06 22:43:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:45:48 +0000"
     },
     "done": true
   },
@@ -8178,6 +8274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pewen_alexscaves_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
@@ -8196,9 +8298,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/diorite_table_dinner": {
+    "criteria": {
+      "diorite_table_dinner": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/thornwood_alexscaves_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-01-06 22:47:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/diorite_chair_modern": {
+    "criteria": {
+      "diorite_chair_modern": "2025-01-06 22:45:48 +0000"
     },
     "done": true
   },
@@ -8208,15 +8334,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-01-06 22:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/ash_brick_wall_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-06 22:43:10 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-06 22:45:48 +0000"
     },
     "done": true
   },
@@ -8235,6 +8385,12 @@
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-06 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/ash_brick_slab_from_bricks": {
+    "criteria": {
+      "has_ash_bricks": "2025-01-06 22:43:10 +0000"
     },
     "done": true
   },
