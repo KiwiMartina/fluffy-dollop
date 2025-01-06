@@ -196,3 +196,48 @@
 [06Jan2025 00:24:23.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 00:24:23.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 00:24:42.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 00:26:45.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ReyGamarra[/172.22.196.128:57307] logged in with entity id 63633 at (898.6999999880791, 68.0, 4944.300000011921)
+[06Jan2025 00:26:45.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra joined the game
+[06Jan2025 00:28:22.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Hot Stuff]
+[06Jan2025 00:28:31.926] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.929] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.931] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.931] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.932] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.936] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.936] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.938] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.940] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.941] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.964] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.971] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.971] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.972] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.977] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.977] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.977] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.978] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.978] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.979] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:28:31.990] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:29:17.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.2839221247670025
+[06Jan2025 00:29:18.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.5344646379557503
+[06Jan2025 00:29:18.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.463314460933816
+[06Jan2025 00:29:18.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.3615434587365485
+[06Jan2025 00:29:21.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.5250927943703232
+[06Jan2025 00:29:21.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.8610856430873355
+[06Jan2025 00:29:21.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 1.2008178406603633
+[06Jan2025 00:30:16.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Timed out
+[06Jan2025 00:30:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[06Jan2025 00:31:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Alex's Caves]
+[06Jan2025 00:31:27.521] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.521] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.522] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.522] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.522] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.525] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.525] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:31:27.529] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 00:34:24.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:65083] logged in with entity id 72729 at (1161.3576557886734, 111.0, 268.5430524223804)
+[06Jan2025 00:34:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[06Jan2025 00:36:20.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Once Upon a Cave]
