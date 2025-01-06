@@ -77,6 +77,7 @@
       "minecraft:savanna_plateau": "2025-01-04 05:01:01 +0000",
       "minecraft:beach": "2025-01-04 01:58:05 +0000",
       "minecraft:dark_forest": "2025-01-04 04:59:27 +0000",
+      "minecraft:mangrove_swamp": "2025-01-06 02:58:04 +0000",
       "minecraft:sparse_jungle": "2025-01-04 22:42:39 +0000",
       "minecraft:river": "2025-01-04 02:07:17 +0000",
       "minecraft:lukewarm_ocean": "2025-01-04 23:52:29 +0000",
@@ -91,6 +92,7 @@
       "minecraft:lush_caves": "2025-01-04 23:21:58 +0000",
       "minecraft:deep_cold_ocean": "2025-01-04 06:16:16 +0000",
       "minecraft:desert": "2025-01-04 23:53:26 +0000",
+      "minecraft:windswept_forest": "2025-01-06 03:03:10 +0000",
       "minecraft:ocean": "2025-01-04 02:12:24 +0000",
       "minecraft:jungle": "2025-01-04 22:37:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-04 03:50:49 +0000",
@@ -7983,6 +7985,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-01-06 02:57:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-01-06 00:59:45 +0000"
@@ -8097,6 +8105,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-01-06 02:56:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
@@ -8169,6 +8183,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 02:56:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-01-06 01:38:14 +0000"
@@ -8178,6 +8198,18 @@
   "l2weaponry:recipes/misc/generated/recycle/iron_round_shield": {
     "criteria": {
       "has_iron_round_shield": "2025-01-06 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 02:56:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 02:56:28 +0000"
     },
     "done": true
   },
@@ -8238,6 +8270,12 @@
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-01-06 02:12:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-01-06 02:56:28 +0000"
     },
     "done": true
   },
@@ -8334,6 +8372,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-01-06 01:38:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 02:56:28 +0000"
     },
     "done": true
   },

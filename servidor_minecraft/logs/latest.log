@@ -1423,3 +1423,99 @@
 [06Jan2025 02:49:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> xaero-waypoint:ALDEA GAMARRA:A:831:64:4934:6:false:0:Internal-overworld-waypoints
 [06Jan2025 02:49:54.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eduardo'/237336, l='ServerLevel[world]', x=109.72, y=66.56, z=1682.85] died, message: 'Eduardo hit the ground too hard whilst trying to escape Fire Dragon'
 [06Jan2025 02:49:54.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eduardo'/237336, l='ServerLevel[world]', x=109.72, y=66.56, z=1682.85] died: Eduardo was doomed to fall by Fire Dragon
+[06Jan2025 02:50:50.131] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[06Jan2025 02:50:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has completed the challenge [Best Friends]
+[06Jan2025 02:52:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has completed the challenge [Best Friends]
+[06Jan2025 02:52:14.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Eso pelen
+[06Jan2025 02:55:08.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Fire Dragon
+[06Jan2025 02:57:37.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:57:41.642] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:57:42.256] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:57:43.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 02:58:01.160] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[06Jan2025 02:58:01.228] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[06Jan2025 02:58:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 02:58:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was blown up by Death Worm
+[06Jan2025 02:59:14.831] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.834] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.850] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.854] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.858] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.866] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.868] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.868] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 02:59:14.870] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: joshie:village/ocean/decor
+[06Jan2025 03:01:51.929] [pool-9-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=2827, y=74, z=4293}
+[06Jan2025 03:02:40.772] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3106, y=56, z=4227} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3106, y=56, z=4227}
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3106, y=56, z=4225} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3106, y=56, z=4225}
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3104, y=56, z=4227} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3104, y=56, z=4227}
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3106, y=56, z=4238} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3106, y=56, z=4238}
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3104, y=56, z=4225} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3104, y=56, z=4225}
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3104, y=56, z=4238} but found not block entity block Block{minecraft:air} at location
+[06Jan2025 03:02:40.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3104, y=56, z=4238}
+[06Jan2025 03:02:45.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -4.779050041001824,0.0,-9.236902027059386
+[06Jan2025 03:02:45.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -4.96285736543291,0.0,-9.592169111945168
+[06Jan2025 03:02:45.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -5.146664639679329,0.0,-9.947436232343989
+[06Jan2025 03:04:29.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has reached the goal [Ruthless Remains]
+[06Jan2025 03:06:12.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [The Desert Swimmers]
+[06Jan2025 03:07:35.675] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 03:08:13.032] [pool-9-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=101, y=69, z=2267}
+[06Jan2025 03:08:14.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ReyGamarra moved too quickly! -9.698838751019991,-2.380023674395531,1.1975094823501422
+[06Jan2025 03:08:14.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 moved too quickly! -7.636134835432969,2.0,6.480823474844328
+[06Jan2025 03:08:15.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=102, y=69, z=2267} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[06Jan2025 03:08:15.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=102, y=69, z=2267}
+[06Jan2025 03:08:15.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=102, y=68, z=2267} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[06Jan2025 03:08:15.024] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=102, y=68, z=2267}
+[06Jan2025 03:08:15.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=101, y=69, z=2267} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[06Jan2025 03:08:15.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=101, y=69, z=2267}
+[06Jan2025 03:08:57.916] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[06Jan2025 03:09:06.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was energized by Lightning Dragon
+[06Jan2025 03:09:22.384] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[06Jan2025 03:09:22.385] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 03:09:27.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Lightning Dragon
+[06Jan2025 03:10:25.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=64, z=4857} BlockPos{x=887, y=63, z=4856}
+[06Jan2025 03:10:25.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=889, y=64, z=4857} BlockPos{x=887, y=63, z=4856}
+[06Jan2025 03:10:26.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=64, z=4854} BlockPos{x=885, y=63, z=4855}
+[06Jan2025 03:10:26.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=64, z=4854} BlockPos{x=885, y=63, z=4855}
+[06Jan2025 03:10:26.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=65, z=4853} BlockPos{x=886, y=63, z=4852}
+[06Jan2025 03:10:26.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=65, z=4853} BlockPos{x=886, y=63, z=4852}
+[06Jan2025 03:10:26.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=65, z=4853} BlockPos{x=886, y=63, z=4852}
+[06Jan2025 03:10:26.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=65, z=4853} BlockPos{x=886, y=63, z=4852}
+[06Jan2025 03:10:26.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=65, z=4853} BlockPos{x=886, y=63, z=4852}
+[06Jan2025 03:11:34.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Death Worm
+[06Jan2025 03:12:07.756] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Jan2025 03:12:11.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Death Worm
+[06Jan2025 03:12:50.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Death Worm
+[06Jan2025 03:12:56.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger lost connection: Disconnected
+[06Jan2025 03:12:56.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger left the game
+[06Jan2025 03:13:13.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ErickJaeger[/172.22.49.244:61438] logged in with entity id 282270 at (1161.300000011921, 111.0, 279.7949015275337)
+[06Jan2025 03:13:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger joined the game
+[06Jan2025 03:14:13.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS was slain by Modern Remnant
+[06Jan2025 03:15:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 03:16:30.477] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[06Jan2025 03:16:30.477] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 03:17:19.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:17:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Death Worm
+[06Jan2025 03:19:19.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 1164.850000, 111.000000, 277.400000]
+[06Jan2025 03:19:57.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Death Worm
+[06Jan2025 03:20:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement [The Desert Swimmers]
+[06Jan2025 03:21:17.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:17.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:17.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:17.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.210] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.310] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.407] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:18.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:19.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

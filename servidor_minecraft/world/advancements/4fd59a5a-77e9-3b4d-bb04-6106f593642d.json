@@ -6698,6 +6698,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/thornwood_alexscaves_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -6764,6 +6770,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:29:01 +0000"
@@ -6785,6 +6797,12 @@
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-01-06 01:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -6818,6 +6836,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-01-06 01:05:56 +0000"
@@ -6827,6 +6851,12 @@
   "pfm:recipes/furniture/chorus_cataclysm_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -6890,6 +6920,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-01-06 01:38:09 +0000"
@@ -6899,6 +6941,12 @@
   "iceandfire:recipes/combat/armor_gray_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_log": {
+    "criteria": {
+      "has_log": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -6920,6 +6968,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
@@ -6935,6 +6989,12 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-01-06 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-06 03:10:26 +0000"
     },
     "done": true
   },
@@ -6986,9 +7046,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_table_basic": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-01-06 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -7040,6 +7112,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -7052,6 +7130,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-06 00:07:39 +0000"
@@ -7061,6 +7145,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -7082,9 +7172,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2025-01-06 00:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-06 03:10:23 +0000"
     },
     "done": true
   },
@@ -7103,6 +7205,18 @@
   "pfm:recipes/furniture/dreadwood_iceandfire_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2025-01-06 02:50:53 +0000"
     },
     "done": true
   },
@@ -7130,6 +7244,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:29:01 +0000"
@@ -7139,6 +7259,12 @@
   "pfm:recipes/furniture/mangrove_red_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -7160,6 +7286,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-01-06 02:28:51 +0000"
@@ -7169,6 +7301,12 @@
   "pfm:recipes/furniture/mangrove_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
@@ -7220,6 +7358,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -7238,15 +7382,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-06 01:43:59 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_red_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_spruce_table_classic": {
+    "criteria": {
+      "has_planks": "2025-01-06 03:08:47 +0000"
     },
     "done": true
   },
