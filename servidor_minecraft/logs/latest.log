@@ -2233,3 +2233,51 @@
 [06Jan2025 04:42:37.676] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 04:42:39.472] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 04:42:41.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:44:01.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 04:44:02.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[06Jan2025 04:44:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 111.062500, 3216.500000]
+[06Jan2025 04:44:21.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4045ms or 80 ticks behind
+[06Jan2025 04:44:58.704] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[06Jan2025 04:44:58.757] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[06Jan2025 04:45:30.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 04:46:00.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 64.000000, 3216.500000]
+[06Jan2025 04:46:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 64.200000, 3216.500000]
+[06Jan2025 04:46:31.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 blew up
+[06Jan2025 04:46:33.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> JAJAJJA
+[06Jan2025 04:47:21.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 04:47:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 64.000000, 3216.500000]
+[06Jan2025 04:47:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was turned into KFC by Fire Dragon
+[06Jan2025 04:48:04.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! 10.255819556183553,0.0,-2.01963639311316
+[06Jan2025 04:48:28.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 04:48:47.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 64.000000, 3216.500000]
+[06Jan2025 04:48:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was doomed to fall by Fire Dragon
+[06Jan2025 04:49:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 04:50:20.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 04:51:12.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Amadea'/431891, l='ServerLevel[world]', x=830.53, y=64.00, z=4948.43] died, message: 'Amadea was slain by Zombie'
+[06Jan2025 04:51:12.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Amadea'/431891, l='ServerLevel[world]', x=830.53, y=64.00, z=4948.43] died: Amadea was slain by Zombie
+[06Jan2025 04:51:12.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra has made the advancement ['Til Death Do Us Part]
+[06Jan2025 04:51:19.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:51:31.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 04:51:34.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 69.000000, 3216.500000]
+[06Jan2025 04:51:56.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:52:01.342] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[06Jan2025 04:52:01.707] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[06Jan2025 04:52:03.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:52:05.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:52:07.394] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:52:11.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 04:52:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 04:53:09.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 96.500000, 64.062500, 3216.500000]
+[06Jan2025 04:53:20.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! 3.0334645251720076,2.2901968894272784,-10.173421819889427
+[06Jan2025 04:53:45.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ErickJaeger moved too quickly! -7.0120289619879514,3.1745408595849085,-6.731381316511033
+[06Jan2025 04:54:50.889] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[06Jan2025 04:54:51.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 04:56:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 05:00:14.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 05:02:04.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Birgitta, ese cepatito es pervertido
+[06Jan2025 05:02:18.605] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 05:02:20.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 05:02:20.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 05:02:21.407] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 05:02:37.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Birgitta ese nomepare tiene fetiche con gente de cabello blanco
+[06Jan2025 05:03:02.613] [pool-9-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-1483, y=69, z=3045}

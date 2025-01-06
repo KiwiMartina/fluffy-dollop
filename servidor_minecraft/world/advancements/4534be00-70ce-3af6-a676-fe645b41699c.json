@@ -270,7 +270,9 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-01-04 03:05:47 +0000",
-      "wheat": "2025-01-04 05:32:39 +0000"
+      "potato": "2025-01-06 04:50:56 +0000",
+      "wheat": "2025-01-04 05:32:39 +0000",
+      "carrot": "2025-01-06 04:50:42 +0000"
     },
     "done": false
   },
@@ -2912,8 +2914,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-01-06 04:55:28 +0000",
       "minecraft:sheep": "2025-01-04 05:03:31 +0000",
-      "minecraft:cow": "2025-01-04 05:02:12 +0000"
+      "minecraft:cow": "2025-01-04 05:02:12 +0000",
+      "minecraft:chicken": "2025-01-06 04:53:23 +0000"
     },
     "done": false
   },

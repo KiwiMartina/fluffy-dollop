@@ -8649,9 +8649,93 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/oak_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/uneasy_alliance": {
     "criteria": {
       "killed_ghast": "2025-01-06 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
     },
     "done": true
   },
@@ -8661,15 +8745,111 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/jungle_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/ghast_tear": {
     "criteria": {
       "has_ghast_tear": "2025-01-06 04:22:04 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dreadwood_iceandfire_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_gray_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/misc/generated/recycle/iron_battle_axe": {
     "criteria": {
       "has_iron_battle_axe": "2025-01-06 04:14:44 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_gray_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 04:59:49 +0000"
     },
     "done": true
   },

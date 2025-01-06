@@ -6,16 +6,16 @@
 	last_seen: { dim: "minecraft:overworld", x: 1161, y: 111, z: 279, time: 1736133193453L, xRot: 5.400272f, yRot: 104.54942f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 840, y: 60, z: 4844, time: 1736134599268L, xRot: 6.299569f, yRot: -7.906071f }
-		{ dim: "minecraft:overworld", x: -149, y: 76, z: 2414, time: 1736134658621L }
-		{ dim: "minecraft:overworld", x: 75, y: 72, z: 3216, time: 1736135968312L, xRot: 45.749973f, yRot: -111.00078f }
-		{ dim: "minecraft:overworld", x: 1165, y: 111, z: 276, time: 1736136099585L }
-		{ dim: "minecraft:overworld", x: 157, y: 72, z: 3186, time: 1736136329451L, xRot: 8.699962f, yRot: -109.199455f }
-		{ dim: "minecraft:overworld", x: 1168, y: 112, z: 276, time: 1736136345162L }
-		{ dim: "minecraft:overworld", x: 1664, y: 73, z: 6561, time: 1736136354786L }
-		{ dim: "minecraft:overworld", x: 115, y: 70, z: 3211, time: 1736136372690L, xRot: 17.699976f, yRot: -161.24954f }
-		{ dim: "minecraft:overworld", x: 1162, y: 111, z: 265, time: 1736136802435L, xRot: -34.650146f, yRot: 20.99768f }
-		{ dim: "minecraft:overworld", x: 814, y: 66, z: 4907, time: 1736137594780L, xRot: 5.549656f, yRot: 168.89453f }
+		{ dim: "minecraft:overworld", x: 96, y: 64, z: 3216, time: 1736138773831L }
+		{ dim: "minecraft:overworld", x: 66, y: 71, z: 3206, time: 1736138841322L }
+		{ dim: "minecraft:overworld", x: 835, y: 64, z: 4933, time: 1736138868065L }
+		{ dim: "minecraft:overworld", x: 104, y: 69, z: 3243, time: 1736138908121L }
+		{ dim: "minecraft:overworld", x: 842, y: 64, z: 4933, time: 1736138927324L }
+		{ dim: "minecraft:overworld", x: 114, y: 68, z: 3236, time: 1736138980936L }
+		{ dim: "minecraft:overworld", x: 868, y: 69, z: 4917, time: 1736139094720L }
+		{ dim: "minecraft:overworld", x: 137, y: 69, z: 3158, time: 1736139177705L }
+		{ dim: "minecraft:overworld", x: 843, y: 64, z: 4933, time: 1736139189175L }
+		{ dim: "minecraft:overworld", x: 101, y: 73, z: 3151, time: 1736139291669L }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 1168, y: 112, z: 276, time: 1735533532384L, xRot: 43.499992f, yRot: -133.65018f }
