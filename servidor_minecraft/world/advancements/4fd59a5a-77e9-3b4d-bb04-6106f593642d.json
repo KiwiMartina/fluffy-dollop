@@ -6714,6 +6714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-06 01:00:36 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -6792,6 +6798,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-06 01:00:36 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -6801,6 +6813,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/iron_nunchaku": {
+    "criteria": {
+      "has_iron_nunchaku": "2025-01-06 00:57:30 +0000"
     },
     "done": true
   },
@@ -6831,6 +6849,18 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-01-06 00:54:44 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/iron_javelin": {
+    "criteria": {
+      "has_iron_javelin": "2025-01-06 01:00:25 +0000"
     },
     "done": true
   },
@@ -6867,6 +6897,12 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/misc/generated/recycle/iron_battle_axe": {
+    "criteria": {
+      "has_iron_battle_axe": "2025-01-06 01:01:26 +0000"
     },
     "done": true
   },

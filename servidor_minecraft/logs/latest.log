@@ -1019,3 +1019,18 @@
 [06Jan2025 00:55:38.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.4216260426801455
 [06Jan2025 00:55:38.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.6181901793715951
 [06Jan2025 00:55:38.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.6374428261879075
+[06Jan2025 00:57:28.859] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[06Jan2025 00:57:29.480] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[06Jan2025 00:57:32.433] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[06Jan2025 00:57:32.438] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[06Jan2025 00:57:36.773] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=215, y=-53, z=262}
+[06Jan2025 00:57:38.898] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=-57, z=225}
+[06Jan2025 00:57:59.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[06Jan2025 00:59:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 01:00:02.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has reached the goal [Cold-Hearted Crustacean]
+[06Jan2025 01:00:32.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 was slain by Ice Dragon
+[06Jan2025 01:01:02.654] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elkhan'/63075, l='ServerLevel[world]', x=816.57, y=65.00, z=18404.57] died, message: 'Elkhan was slain by Zombie'
+[06Jan2025 01:01:02.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elkhan'/63075, l='ServerLevel[world]', x=816.57, y=65.00, z=18404.57] died: Elkhan was slain by Zombie
+[06Jan2025 01:03:59.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 01:05:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 01:05:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
