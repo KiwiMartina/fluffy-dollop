@@ -20877,3 +20877,694 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 03:21:18.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 03:21:18.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 03:21:19.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:21.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:22.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.309] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.610] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:23.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.510] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.810] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:24.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:25.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [The Parrots and the Bats]
+[06Jan2025 03:21:26.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:26.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.226] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:27.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:28.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:28.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:31.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:32.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:33.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:33.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:33.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:34.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:34.268] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:34.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:34.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:34.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:34.948] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.048] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.527] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:35.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:36.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[06Jan2025 03:21:36.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:36.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:36.632] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:36.894] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:37.019] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:37.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:37.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:37.803] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.353] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.684] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:38.750] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:39.886] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:43.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:44.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:44.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:44.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:44.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:44.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:44.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.172] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.605] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.706] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:45.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:46.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:46.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:46.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:46.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:46.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.184] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:47.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:48.159] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:48.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:48.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:48.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:48.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.278] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:49.864] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:50.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:50.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:50.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:50.803] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:50.994] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:51.203] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:51.393] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:51.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:51.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:51.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:52.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:52.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:52.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:52.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:53.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:56.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:58.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:58.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:21:59.963] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:22:00.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9493ms or 189 ticks behind
+[06Jan2025 03:22:04.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:22:06.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:22:07.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:22:09.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:22:12.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[06Jan2025 03:22:12.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[06Jan2025 03:22:12.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2
+[06Jan2025 03:22:12.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[06Jan2025 03:22:12.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_sculk
+[06Jan2025 03:22:12.228] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_alt
+[06Jan2025 03:22:12.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[06Jan2025 03:22:12.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[06Jan2025 03:22:12.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_2
+[06Jan2025 03:22:12.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[06Jan2025 03:22:12.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[06Jan2025 03:22:12.234] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[06Jan2025 03:22:12.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/connector_2
+[06Jan2025 03:22:12.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/connector_1
+[06Jan2025 03:22:22.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6596ms or 131 ticks behind
+[06Jan2025 03:22:32.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Husk
+[06Jan2025 03:22:36.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:22:43.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[06Jan2025 03:22:43.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:22:43.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[06Jan2025 03:22:43.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[06Jan2025 03:22:43.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[06Jan2025 03:22:43.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_5
+[06Jan2025 03:22:43.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[06Jan2025 03:22:43.354] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path
+[06Jan2025 03:22:43.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[06Jan2025 03:22:43.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[06Jan2025 03:22:43.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_tnt
+[06Jan2025 03:22:43.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_1_down
+[06Jan2025 03:22:43.360] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_1
+[06Jan2025 03:22:43.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2
+[06Jan2025 03:22:43.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/portal
+[06Jan2025 03:22:43.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_3
+[06Jan2025 03:22:43.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/path_2_down_sculk
+[06Jan2025 03:22:43.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_armor
+[06Jan2025 03:22:43.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_amethyst
+[06Jan2025 03:22:43.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_2
+[06Jan2025 03:22:43.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[06Jan2025 03:22:43.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_gold
+[06Jan2025 03:22:43.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_redstone
+[06Jan2025 03:22:43.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_weapons
+[06Jan2025 03:22:43.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_bedroom_1
+[06Jan2025 03:22:43.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[06Jan2025 03:22:43.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/farm_wheat
+[06Jan2025 03:22:43.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_food
+[06Jan2025 03:22:43.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_archer
+[06Jan2025 03:22:43.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_4
+[06Jan2025 03:22:43.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[06Jan2025 03:22:43.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/r_anchor
+[06Jan2025 03:22:43.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[06Jan2025 03:22:43.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/big_rooms/farm_potato
+[06Jan2025 03:22:43.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_brown_mushroom
+[06Jan2025 03:22:43.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_2
+[06Jan2025 03:22:43.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/minecart/connector_2
+[06Jan2025 03:22:43.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[06Jan2025 03:22:44.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[06Jan2025 03:22:45.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/sheep_2
+[06Jan2025 03:22:45.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/pigs_1
+[06Jan2025 03:22:45.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/cows_1
+[06Jan2025 03:22:46.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:22:46.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9677ms or 193 ticks behind
+[06Jan2025 03:23:09.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7331ms or 146 ticks behind
+[06Jan2025 03:23:27.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[06Jan2025 03:23:40.710] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin2
+[06Jan2025 03:23:41.176] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:23:41.195] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:23:44.392] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin5
+[06Jan2025 03:23:48.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6542ms or 130 ticks behind
+[06Jan2025 03:24:00.347] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down
+[06Jan2025 03:24:00.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_3
+[06Jan2025 03:24:00.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_2
+[06Jan2025 03:24:00.377] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1
+[06Jan2025 03:24:00.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_1
+[06Jan2025 03:24:00.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:24:00.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_lapis
+[06Jan2025 03:24:00.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/archer
+[06Jan2025 03:24:00.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_iron
+[06Jan2025 03:24:00.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_pumpkin
+[06Jan2025 03:24:00.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[06Jan2025 03:24:00.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_weapons
+[06Jan2025 03:24:00.399] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_amethyst
+[06Jan2025 03:24:00.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_carrot
+[06Jan2025 03:24:00.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_copper
+[06Jan2025 03:24:00.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_bedroom
+[06Jan2025 03:24:00.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_fossils
+[06Jan2025 03:24:00.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_tools
+[06Jan2025 03:24:00.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance
+[06Jan2025 03:24:00.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_4
+[06Jan2025 03:24:00.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_4
+[06Jan2025 03:24:00.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1
+[06Jan2025 03:24:00.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1_alt
+[06Jan2025 03:24:00.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_fossils_1
+[06Jan2025 03:24:00.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/stews
+[06Jan2025 03:24:00.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_wheat
+[06Jan2025 03:24:00.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_redstone
+[06Jan2025 03:24:00.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_brown_mushroom
+[06Jan2025 03:24:00.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_alt
+[06Jan2025 03:24:00.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_books
+[06Jan2025 03:24:00.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_diamonds
+[06Jan2025 03:24:00.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/r_anchor
+[06Jan2025 03:24:00.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_crafting
+[06Jan2025 03:24:00.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_prison
+[06Jan2025 03:24:00.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path
+[06Jan2025 03:24:00.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1_alt
+[06Jan2025 03:24:00.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_gold
+[06Jan2025 03:24:00.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_beetroot
+[06Jan2025 03:24:00.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_tnt
+[06Jan2025 03:24:00.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_2
+[06Jan2025 03:24:00.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_alt
+[06Jan2025 03:24:00.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[06Jan2025 03:24:00.747] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_5
+[06Jan2025 03:24:00.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[06Jan2025 03:24:00.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 03:24:00.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[06Jan2025 03:24:00.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 03:24:00.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 03:24:00.766] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 03:24:00.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/copper
+[06Jan2025 03:24:00.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down
+[06Jan2025 03:24:00.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[06Jan2025 03:24:00.785] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_1
+[06Jan2025 03:24:00.786] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_potato
+[06Jan2025 03:24:00.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 03:24:00.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 03:24:00.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 03:24:00.793] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[06Jan2025 03:24:00.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down_sculk
+[06Jan2025 03:24:00.804] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down_sculk
+[06Jan2025 03:24:00.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 03:24:00.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[06Jan2025 03:24:00.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 03:24:00.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_lapis
+[06Jan2025 03:24:00.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 03:24:00.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[06Jan2025 03:24:00.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_pumpkin
+[06Jan2025 03:24:00.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_food
+[06Jan2025 03:24:00.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[06Jan2025 03:24:00.826] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 03:24:00.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 03:24:00.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 03:24:00.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 03:24:00.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[06Jan2025 03:24:00.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_sculk
+[06Jan2025 03:24:00.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1
+[06Jan2025 03:24:00.844] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:24:00.886] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[06Jan2025 03:24:00.888] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 03:24:00.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 03:24:00.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/archer
+[06Jan2025 03:24:00.893] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 03:24:05.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[06Jan2025 03:24:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Teleported ErickJaeger to 831.500000, 64.500000, 4934.500000]
+[06Jan2025 03:24:34.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 03:24:49.303] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabtwo
+[06Jan2025 03:24:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was blown up by Creeper
+[06Jan2025 03:24:56.834] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[06Jan2025 03:25:00.023] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:25:00.025] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:25:05.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 03:25:06.891] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_4
+[06Jan2025 03:25:06.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn
+[06Jan2025 03:25:06.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[06Jan2025 03:25:06.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_1
+[06Jan2025 03:25:06.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_redstone
+[06Jan2025 03:25:06.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_fossils_3
+[06Jan2025 03:25:06.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[06Jan2025 03:25:06.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[06Jan2025 03:25:06.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[06Jan2025 03:25:06.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[06Jan2025 03:25:06.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[06Jan2025 03:25:06.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[06Jan2025 03:25:06.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_3
+[06Jan2025 03:25:06.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[06Jan2025 03:25:06.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[06Jan2025 03:25:06.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path
+[06Jan2025 03:25:06.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[06Jan2025 03:25:12.274] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabone
+[06Jan2025 03:25:17.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:25:17.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:25:38.160] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Jan2025 03:25:42.898] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_5
+[06Jan2025 03:25:50.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 03:25:53.298] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 03:25:55.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[06Jan2025 03:25:55.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/cows_1
+[06Jan2025 03:25:55.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/common/animals/pigs_1
+[06Jan2025 03:25:58.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 03:26:04.871] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[06Jan2025 03:26:04.889] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 03:26:04.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tools
+[06Jan2025 03:26:04.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 03:26:04.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[06Jan2025 03:26:04.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/prison
+[06Jan2025 03:26:04.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 03:26:04.911] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 03:26:04.913] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/iron_golem
+[06Jan2025 03:26:04.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:26:04.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_smelting
+[06Jan2025 03:26:04.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[06Jan2025 03:26:04.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 03:26:04.922] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 03:26:04.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 03:26:04.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 03:26:04.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 03:26:04.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 03:26:04.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_3
+[06Jan2025 03:26:04.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[06Jan2025 03:26:04.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils
+[06Jan2025 03:26:04.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 03:26:04.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 03:26:04.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_weapons
+[06Jan2025 03:26:04.945] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 03:26:04.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_carrot
+[06Jan2025 03:26:04.948] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[06Jan2025 03:26:04.950] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 03:26:04.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down
+[06Jan2025 03:26:04.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:26:04.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 03:26:04.956] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_4
+[06Jan2025 03:26:04.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 03:26:04.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 03:26:04.963] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:26:04.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_crafting
+[06Jan2025 03:26:04.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 03:26:10.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[06Jan2025 03:26:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 was slain by Siren
+[06Jan2025 03:26:41.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_6
+[06Jan2025 03:26:56.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 03:28:02.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_10
+[06Jan2025 03:28:06.903] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 03:28:06.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 03:28:27.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_4
+[06Jan2025 03:28:27.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_7
+[06Jan2025 03:28:27.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_5
+[06Jan2025 03:28:27.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_8
+[06Jan2025 03:28:55.382] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_alt
+[06Jan2025 03:28:55.385] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[06Jan2025 03:28:55.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_5
+[06Jan2025 03:28:55.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn
+[06Jan2025 03:28:55.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 03:28:55.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[06Jan2025 03:28:55.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 03:28:55.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 03:28:55.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 03:28:55.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 03:28:55.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/copper
+[06Jan2025 03:28:55.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down
+[06Jan2025 03:28:55.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_emerald
+[06Jan2025 03:28:55.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_1
+[06Jan2025 03:28:55.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_potato
+[06Jan2025 03:28:55.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 03:28:55.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 03:28:55.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 03:28:55.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 03:28:55.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down
+[06Jan2025 03:28:55.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_2_down_sculk
+[06Jan2025 03:28:55.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_down_sculk
+[06Jan2025 03:28:55.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 03:28:55.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_rip
+[06Jan2025 03:28:55.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 03:28:55.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_lapis
+[06Jan2025 03:28:55.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 03:28:55.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_red_mushroom
+[06Jan2025 03:28:55.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_pumpkin
+[06Jan2025 03:28:55.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_food
+[06Jan2025 03:28:55.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1
+[06Jan2025 03:28:55.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 03:28:55.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 03:28:55.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 03:28:55.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 03:28:55.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[06Jan2025 03:28:55.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1_sculk
+[06Jan2025 03:28:55.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/minecart/path_1
+[06Jan2025 03:28:55.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 03:28:55.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_1
+[06Jan2025 03:28:55.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 03:28:55.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 03:28:55.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/archer
+[06Jan2025 03:28:55.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 03:28:58.849] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabone
+[06Jan2025 03:28:59.093] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:shortacacia1
+[06Jan2025 03:29:02.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_4
+[06Jan2025 03:29:02.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn
+[06Jan2025 03:29:02.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down
+[06Jan2025 03:29:02.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_1
+[06Jan2025 03:29:02.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_redstone
+[06Jan2025 03:29:02.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/room_fossils_3
+[06Jan2025 03:29:02.808] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1
+[06Jan2025 03:29:02.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_1_alt
+[06Jan2025 03:29:02.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_1
+[06Jan2025 03:29:02.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[06Jan2025 03:29:02.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance
+[06Jan2025 03:29:02.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1_alt
+[06Jan2025 03:29:02.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/trap/trap_3
+[06Jan2025 03:29:02.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[06Jan2025 03:29:02.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[06Jan2025 03:29:02.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path
+[06Jan2025 03:29:02.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_3
+[06Jan2025 03:29:02.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 03:29:03.639] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_1
+[06Jan2025 03:29:06.892] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down
+[06Jan2025 03:29:06.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_3
+[06Jan2025 03:29:06.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_2
+[06Jan2025 03:29:06.906] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1
+[06Jan2025 03:29:06.908] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_1
+[06Jan2025 03:29:06.910] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_lapis
+[06Jan2025 03:29:06.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/archer
+[06Jan2025 03:29:06.912] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_iron
+[06Jan2025 03:29:06.914] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_pumpkin
+[06Jan2025 03:29:06.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[06Jan2025 03:29:06.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_weapons
+[06Jan2025 03:29:06.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_amethyst
+[06Jan2025 03:29:06.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_carrot
+[06Jan2025 03:29:06.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_copper
+[06Jan2025 03:29:06.919] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_bedroom
+[06Jan2025 03:29:06.920] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_fossils
+[06Jan2025 03:29:06.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_tools
+[06Jan2025 03:29:06.921] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance
+[06Jan2025 03:29:06.923] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_4
+[06Jan2025 03:29:06.924] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_4
+[06Jan2025 03:29:06.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1
+[06Jan2025 03:29:06.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1_alt
+[06Jan2025 03:29:06.926] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_fossils_1
+[06Jan2025 03:29:06.927] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/stews
+[06Jan2025 03:29:06.928] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_wheat
+[06Jan2025 03:29:06.929] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_redstone
+[06Jan2025 03:29:06.930] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_brown_mushroom
+[06Jan2025 03:29:06.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_alt
+[06Jan2025 03:29:06.931] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_books
+[06Jan2025 03:29:06.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_diamonds
+[06Jan2025 03:29:06.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/r_anchor
+[06Jan2025 03:29:06.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_crafting
+[06Jan2025 03:29:06.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_prison
+[06Jan2025 03:29:06.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path
+[06Jan2025 03:29:06.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1_alt
+[06Jan2025 03:29:06.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_gold
+[06Jan2025 03:29:06.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/big_rooms/farm_beetroot
+[06Jan2025 03:29:06.940] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/room_tnt
+[06Jan2025 03:29:06.941] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_2
+[06Jan2025 03:29:10.632] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin1
+[06Jan2025 03:29:11.169] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
+[06Jan2025 03:29:14.876] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:luststructuregenerator
+[06Jan2025 03:29:15.520] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin3
+[06Jan2025 03:29:16.926] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin5
+[06Jan2025 03:29:18.934] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin2
+[06Jan2025 03:29:23.579] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin6
+[06Jan2025 03:29:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Book of Monsters]
+[06Jan2025 03:29:28.176] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[06Jan2025 03:29:29.830] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[06Jan2025 03:29:55.371] [pool-9-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-907, y=71, z=2475}
+[06Jan2025 03:29:55.616] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ancientgate
+[06Jan2025 03:29:55.675] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of revampedvillages:desert/worker/church
+[06Jan2025 03:29:55.967] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/villagers/unemployed_desert
+[06Jan2025 03:29:57.165] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-907, y=71, z=2476} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] at location
+[06Jan2025 03:29:57.166] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-907, y=71, z=2476}
+[06Jan2025 03:29:57.166] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-907, y=70, z=2476} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[06Jan2025 03:29:57.166] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-907, y=70, z=2476}
+[06Jan2025 03:29:57.972] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-907, y=71, z=2475} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[06Jan2025 03:29:57.973] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-907, y=71, z=2475}
+[06Jan2025 03:30:00.445] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/301317, l='ServerLevel[world]', x=-824.82, y=67.41, z=2496.04]
+[06Jan2025 03:30:00.446] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/301318, l='ServerLevel[world]', x=-816.02, y=67.31, z=2497.48]
+[06Jan2025 03:30:00.446] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/301319, l='ServerLevel[world]', x=-815.26, y=67.31, z=2500.22]
+[06Jan2025 03:30:00.447] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/301320, l='ServerLevel[world]', x=-814.51, y=67.31, z=2502.96]
+[06Jan2025 03:30:00.447] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/301321, l='ServerLevel[world]', x=-813.75, y=67.31, z=2505.70]
+[06Jan2025 03:30:02.070] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jan2025 03:30:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Would you Like to Know More?]
+[06Jan2025 03:30:15.294] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_5
+[06Jan2025 03:30:16.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:30:16.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:30:18.820] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:desertruin4
+[06Jan2025 03:30:24.202] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_2
+[06Jan2025 03:30:24.202] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_alt
+[06Jan2025 03:30:24.213] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_2
+[06Jan2025 03:30:24.217] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[06Jan2025 03:30:24.222] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 03:30:24.226] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/pathlong_3
+[06Jan2025 03:30:24.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_1
+[06Jan2025 03:30:24.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/turn_1
+[06Jan2025 03:30:24.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_2
+[06Jan2025 03:30:24.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/pathlong_3
+[06Jan2025 03:30:26.380] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_5
+[06Jan2025 03:30:26.382] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/down_4
+[06Jan2025 03:30:26.382] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[06Jan2025 03:30:26.385] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_5
+[06Jan2025 03:30:26.388] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1
+[06Jan2025 03:30:26.393] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_5
+[06Jan2025 03:30:26.397] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_2
+[06Jan2025 03:30:26.398] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn
+[06Jan2025 03:30:26.400] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1
+[06Jan2025 03:30:26.407] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_alt
+[06Jan2025 03:30:33.363] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Jan2025 03:30:36.641] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_savanna took 7 ms
+[06Jan2025 03:31:01.931] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/portalroom
+[06Jan2025 03:31:01.933] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room6
+[06Jan2025 03:31:01.933] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway6
+[06Jan2025 03:31:01.934] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway3
+[06Jan2025 03:31:01.935] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway2
+[06Jan2025 03:31:01.935] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway4
+[06Jan2025 03:31:01.936] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway5
+[06Jan2025 03:31:01.936] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway1
+[06Jan2025 03:31:01.940] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room8
+[06Jan2025 03:31:01.941] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room3
+[06Jan2025 03:31:01.941] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room5
+[06Jan2025 03:31:01.944] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room10
+[06Jan2025 03:31:01.946] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/smeltery
+[06Jan2025 03:31:01.947] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room7
+[06Jan2025 03:31:01.948] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room1
+[06Jan2025 03:31:01.950] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room9
+[06Jan2025 03:31:01.952] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/library
+[06Jan2025 03:31:01.953] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room4
+[06Jan2025 03:31:01.955] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room2
+[06Jan2025 03:31:20.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/giant_portal_3
+[06Jan2025 03:31:25.337] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_desert took 13 ms
+[06Jan2025 03:31:34.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.302] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.407] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:34.905] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.106] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.306] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.407] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.504] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.616] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.906] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[06Jan2025 03:31:35.923] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[06Jan2025 03:31:35.926] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[06Jan2025 03:31:35.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:35.950] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_3
+[06Jan2025 03:31:35.952] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_1
+[06Jan2025 03:31:35.964] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_2
+[06Jan2025 03:31:35.969] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[06Jan2025 03:31:35.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[06Jan2025 03:31:35.978] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn_1
+[06Jan2025 03:31:36.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.305] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.507] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.709] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.808] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:36.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.007] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.104] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.606] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.743] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:37.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:31:46.276] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/warm_2
+[06Jan2025 03:31:46.322] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn
+[06Jan2025 03:31:46.325] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance_1_alt
+[06Jan2025 03:31:46.325] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_1
+[06Jan2025 03:31:46.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_alt
+[06Jan2025 03:31:46.329] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_1
+[06Jan2025 03:31:46.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/pathlong_3
+[06Jan2025 03:31:46.337] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/down_3
+[06Jan2025 03:31:46.338] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_1
+[06Jan2025 03:31:55.051] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:baobabtwo
+[06Jan2025 03:32:03.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:03.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:03.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:03.958] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.454] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [The Desert Swimmers]
+[06Jan2025 03:32:04.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:04.960] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.161] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.556] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.659] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.880] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:05.955] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:06.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.183] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.368] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.465] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.567] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.769] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:07.866] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 03:32:10.185] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ancientruin7

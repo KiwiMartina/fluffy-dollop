@@ -5898,6 +5898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-06 03:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:45:22 +0000"
@@ -6126,6 +6132,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-06 03:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-06 00:28:22 +0000"
@@ -6288,6 +6300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-06 03:26:19 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-01-06 00:35:50 +0000"
@@ -6321,6 +6339,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-01-06 00:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-06 03:26:19 +0000"
     },
     "done": true
   },
