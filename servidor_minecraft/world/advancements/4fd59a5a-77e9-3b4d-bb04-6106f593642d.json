@@ -6684,9 +6684,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
     },
     "done": true
   },
@@ -6696,15 +6708,45 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-01-06 00:20:19 +0000"
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
     },
     "done": true
   },
@@ -6720,6 +6762,36 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-06 00:07:39 +0000"
@@ -6729,6 +6801,66 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2025-01-06 00:38:30 +0000"
     },
     "done": true
   },
