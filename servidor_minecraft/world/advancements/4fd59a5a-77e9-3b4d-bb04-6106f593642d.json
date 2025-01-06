@@ -6684,9 +6684,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6720,9 +6732,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-06 01:00:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6750,15 +6774,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-01-06 01:05:56 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/chorus_cataclysm_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6777,6 +6837,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6804,6 +6870,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/bamboo_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-01-06 00:47:05 +0000"
@@ -6822,6 +6894,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/warped_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
@@ -6837,6 +6921,18 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-01-06 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-01-06 01:14:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/pewen_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6864,6 +6960,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/birch_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-06 00:07:39 +0000"
@@ -6873,6 +6975,12 @@
   "mca:recipes/misc/rose_gold_dust": {
     "criteria": {
       "has_item": "2025-01-06 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6900,9 +7008,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/pewen_alexscaves_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 00:47:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/thornwood_alexscaves_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6912,9 +7038,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/mangrove_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/bamboo_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dreadwood_iceandfire_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
@@ -6924,15 +7092,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/crimson_red_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
     "criteria": {
       "has_gold_block": "2025-01-06 00:38:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_red_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-01-06 01:21:38 +0000"
     },
     "done": true
   },
