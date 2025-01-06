@@ -909,3 +909,113 @@
 [06Jan2025 00:46:16.215] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
 [06Jan2025 00:46:16.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [06Jan2025 00:46:16.223] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[06Jan2025 00:46:49.538] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:50.044] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:50.096] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[06Jan2025 00:46:50.097] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[06Jan2025 00:46:50.098] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:55.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! -9.888269654789553,1.1661092609382138,2.690812874995572
+[06Jan2025 00:46:55.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ReyGamarra moved too quickly! 9.616621011201346,0.24813599859093927,-3.162175658128035
+[06Jan2025 00:46:56.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5383ms or 107 ticks behind
+[06Jan2025 00:46:58.087] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-53, z=93}
+[06Jan2025 00:46:58.087] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.087] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-58, z=100}
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=102}
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.091] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-54, z=102}
+[06Jan2025 00:46:58.110] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.111] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-60, z=89}
+[06Jan2025 00:46:58.111] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-60, z=90}
+[06Jan2025 00:46:58.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.374] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.375] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.377] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:03.032] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Dragonslayer]
+[06Jan2025 00:48:15.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 0.7265963855151085,0.0,10.374214967651824
+[06Jan2025 00:48:15.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 0.7548365846289471,0.0,10.773211917796289
+[06Jan2025 00:48:15.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 0.7830844222049791,0.0,11.172208534978381
+[06Jan2025 00:48:26.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.099864609157635,0.0,2.468628458411331
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.48798635435844,0.0,2.565298942163281
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.876098096224837,0.0,2.66201786248439
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.264200835090492,0.0,2.758780375716924
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.652295471255798,0.0,2.855582122568194
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -12.040382814990835,0.0,2.9524191796754167
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -12.428463595538915,0.0,3.0492880160127243
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -12.816538469218813,0.0,3.146185453655562
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -13.204607095394977,0.0,3.243112352175558
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -13.592670098817962,0.0,3.3400657654847237
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -13.980552550787706,0.0,3.4377185722751165
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -14.367906504132748,0.0,3.5372761853850534
+[06Jan2025 00:48:26.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -14.754419890466238,0.0,3.6396835497798747
+[06Jan2025 00:48:27.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.053591523160321,0.0,-4.075445911272254
+[06Jan2025 00:48:45.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -8.69243787111293,0.0,5.709768997772699
+[06Jan2025 00:48:45.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.026762404617273,0.0,5.929375497687033
+[06Jan2025 00:48:45.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.361086938121616,0.0,6.148981997601368
+[06Jan2025 00:48:51.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 00:49:12.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 00:49:15.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.338758579558146,0.0,6.213594365083736
+[06Jan2025 00:49:15.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.659452579878291,0.0,6.452631777443457
+[06Jan2025 00:49:15.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.980145976426968,0.0,6.691670353179688
+[06Jan2025 00:49:25.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.337887027768602,0.0,6.215275199056123
+[06Jan2025 00:49:25.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.658574990375087,0.0,6.454324245173666
+[06Jan2025 00:49:25.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.979262952981571,0.0,6.693373291291209
+[06Jan2025 00:49:25.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 9.299950915588056,0.0,6.932422337408752
+[06Jan2025 00:49:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:50:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:51:05.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:51:25.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:52:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:52:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:53:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 00:53:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 00:54:15.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> pipipi
+[06Jan2025 00:54:50.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[06Jan2025 00:55:38.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.4216260426801455
+[06Jan2025 00:55:38.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.6181901793715951
+[06Jan2025 00:55:38.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.6374428261879075

@@ -7991,9 +7991,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-06 00:51:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 00:48:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_purple_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 00:34:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 00:47:33 +0000"
     },
     "done": true
   },
@@ -8006,6 +8024,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-01-06 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 00:48:00 +0000"
     },
     "done": true
   },
@@ -8027,9 +8051,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-06 00:51:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-06 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 00:48:00 +0000"
     },
     "done": true
   },
@@ -8042,6 +8090,12 @@
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-01-06 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-01-06 00:47:56 +0000"
     },
     "done": true
   },

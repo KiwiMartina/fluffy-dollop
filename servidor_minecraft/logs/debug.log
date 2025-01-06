@@ -13801,3 +13801,241 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 00:46:18.706] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of milesplayz:watertower
 [06Jan2025 00:46:21.572] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_5
 [06Jan2025 00:46:35.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of cardinal_sins:drakarastructure
+[06Jan2025 00:46:49.538] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:50.044] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:50.096] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[06Jan2025 00:46:50.097] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[06Jan2025 00:46:50.098] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:52.313] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/trap/trap_2
+[06Jan2025 00:46:52.314] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_1
+[06Jan2025 00:46:52.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_2
+[06Jan2025 00:46:52.319] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/trap/trap_3
+[06Jan2025 00:46:52.320] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/trap/trap_2
+[06Jan2025 00:46:52.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 00:46:52.329] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn
+[06Jan2025 00:46:52.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[06Jan2025 00:46:52.331] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_4
+[06Jan2025 00:46:52.332] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/trap/trap_2
+[06Jan2025 00:46:52.334] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_2
+[06Jan2025 00:46:55.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! -9.888269654789553,1.1661092609382138,2.690812874995572
+[06Jan2025 00:46:55.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ReyGamarra moved too quickly! 9.616621011201346,0.24813599859093927,-3.162175658128035
+[06Jan2025 00:46:56.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5383ms or 107 ticks behind
+[06Jan2025 00:46:58.087] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-9, y=-53, z=93}
+[06Jan2025 00:46:58.087] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.087] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.088] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-3, y=-58, z=100}
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.089] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.089] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7, y=-53, z=102}
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.090] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[06Jan2025 00:46:58.091] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.091] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-54, z=102}
+[06Jan2025 00:46:58.110] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.111] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1, y=-60, z=89}
+[06Jan2025 00:46:58.111] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-60, z=90}
+[06Jan2025 00:46:58.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:46:58.120] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.374] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.375] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.376] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.377] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:02.478] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:03.032] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_spell_power'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:max_mana'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:03.033] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[06Jan2025 00:47:04.458] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 00:47:08.046] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[06Jan2025 00:47:08.047] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_alt
+[06Jan2025 00:47:08.052] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/down_5
+[06Jan2025 00:47:08.054] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/down_5
+[06Jan2025 00:47:08.058] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/down_5
+[06Jan2025 00:47:08.059] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[06Jan2025 00:47:08.060] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[06Jan2025 00:47:08.061] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_alt
+[06Jan2025 00:47:08.063] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/path_alt
+[06Jan2025 00:47:08.064] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path
+[06Jan2025 00:47:08.066] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_2
+[06Jan2025 00:47:12.963] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_4
+[06Jan2025 00:47:12.966] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_3
+[06Jan2025 00:47:12.967] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/down_5
+[06Jan2025 00:47:12.967] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance
+[06Jan2025 00:47:12.968] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[06Jan2025 00:47:12.972] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn
+[06Jan2025 00:47:12.973] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[06Jan2025 00:47:12.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_alt
+[06Jan2025 00:47:12.977] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_alt
+[06Jan2025 00:47:12.978] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_alt
+[06Jan2025 00:47:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has made the advancement [Dragonslayer]
+[06Jan2025 00:48:02.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_5
+[06Jan2025 00:48:15.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 0.7265963855151085,0.0,10.374214967651824
+[06Jan2025 00:48:15.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 0.7548365846289471,0.0,10.773211917796289
+[06Jan2025 00:48:15.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 0.7830844222049791,0.0,11.172208534978381
+[06Jan2025 00:48:26.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.099864609157635,0.0,2.468628458411331
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.48798635435844,0.0,2.565298942163281
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -10.876098096224837,0.0,2.66201786248439
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.264200835090492,0.0,2.758780375716924
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -11.652295471255798,0.0,2.855582122568194
+[06Jan2025 00:48:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -12.040382814990835,0.0,2.9524191796754167
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -12.428463595538915,0.0,3.0492880160127243
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -12.816538469218813,0.0,3.146185453655562
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -13.204607095394977,0.0,3.243112352175558
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -13.592670098817962,0.0,3.3400657654847237
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -13.980552550787706,0.0,3.4377185722751165
+[06Jan2025 00:48:26.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -14.367906504132748,0.0,3.5372761853850534
+[06Jan2025 00:48:26.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -14.754419890466238,0.0,3.6396835497798747
+[06Jan2025 00:48:27.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.408729194946886,0.0,-4.253491297842629
+[06Jan2025 00:48:27.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 12.053591523160321,0.0,-4.075445911272254
+[06Jan2025 00:48:45.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -8.69243787111293,0.0,5.709768997772699
+[06Jan2025 00:48:45.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.026762404617273,0.0,5.929375497687033
+[06Jan2025 00:48:45.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! -9.361086938121616,0.0,6.148981997601368
+[06Jan2025 00:48:51.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 00:49:04.359] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_1
+[06Jan2025 00:49:04.362] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_1
+[06Jan2025 00:49:04.364] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_1
+[06Jan2025 00:49:04.365] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_3
+[06Jan2025 00:49:04.366] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_3
+[06Jan2025 00:49:04.367] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_3
+[06Jan2025 00:49:12.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jan2025 00:49:15.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.338758579558146,0.0,6.213594365083736
+[06Jan2025 00:49:15.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.659452579878291,0.0,6.452631777443457
+[06Jan2025 00:49:15.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.980145976426968,0.0,6.691670353179688
+[06Jan2025 00:49:19.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 00:49:19.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 00:49:25.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.337887027768602,0.0,6.215275199056123
+[06Jan2025 00:49:25.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.658574990375087,0.0,6.454324245173666
+[06Jan2025 00:49:25.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 8.979262952981571,0.0,6.693373291291209
+[06Jan2025 00:49:25.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ReyGamarra) moved too quickly! 9.299950915588056,0.0,6.932422337408752
+[06Jan2025 00:49:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:50:22.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 00:50:23.420] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_2
+[06Jan2025 00:50:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:50:45.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[06Jan2025 00:50:45.896] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[06Jan2025 00:50:45.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[06Jan2025 00:50:48.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 00:51:03.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_8
+[06Jan2025 00:51:05.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:51:24.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 00:51:24.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_1
+[06Jan2025 00:51:24.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_1
+[06Jan2025 00:51:24.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_1
+[06Jan2025 00:51:24.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_3
+[06Jan2025 00:51:24.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_3
+[06Jan2025 00:51:24.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_3
+[06Jan2025 00:51:25.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[06Jan2025 00:51:25.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[06Jan2025 00:51:25.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[06Jan2025 00:51:25.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[06Jan2025 00:51:25.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[06Jan2025 00:51:25.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[06Jan2025 00:51:25.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:52:00.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[06Jan2025 00:52:00.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[06Jan2025 00:52:00.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[06Jan2025 00:52:01.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 00:52:07.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:52:55.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ReyGamarra was slain by Sea Serpent
+[06Jan2025 00:52:55.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_1
+[06Jan2025 00:52:55.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_1
+[06Jan2025 00:52:55.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_1
+[06Jan2025 00:53:01.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 00:53:02.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_1
+[06Jan2025 00:53:02.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_1
+[06Jan2025 00:53:02.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_1
+[06Jan2025 00:53:02.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_3
+[06Jan2025 00:53:02.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_3
+[06Jan2025 00:53:02.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_3
+[06Jan2025 00:53:02.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[06Jan2025 00:53:02.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[06Jan2025 00:53:02.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[06Jan2025 00:53:02.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[06Jan2025 00:53:02.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[06Jan2025 00:53:02.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[06Jan2025 00:53:04.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 00:53:11.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 00:53:48.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 00:54:06.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[06Jan2025 00:54:15.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ReyGamarra> pipipi
+[06Jan2025 00:54:19.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 00:54:19.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 00:54:42.198] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_3
+[06Jan2025 00:54:42.199] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_3
+[06Jan2025 00:54:42.200] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_3
+[06Jan2025 00:54:42.201] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_2
+[06Jan2025 00:54:42.202] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_2
+[06Jan2025 00:54:42.203] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_2
+[06Jan2025 00:54:42.204] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_7
+[06Jan2025 00:54:42.205] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_7
+[06Jan2025 00:54:42.205] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_7
+[06Jan2025 00:54:42.208] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_5
+[06Jan2025 00:54:42.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_5
+[06Jan2025 00:54:42.212] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_5
+[06Jan2025 00:54:42.214] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/brick_6
+[06Jan2025 00:54:42.214] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/cracked_6
+[06Jan2025 00:54:42.215] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/mossy_6
+[06Jan2025 00:54:42.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_4
+[06Jan2025 00:54:42.242] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_6
+[06Jan2025 00:54:50.931] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ButtonType
+[06Jan2025 00:55:25.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_4
+[06Jan2025 00:55:38.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.4216260426801455
+[06Jan2025 00:55:38.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.6181901793715951
+[06Jan2025 00:55:38.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of EdrianferXD10) moved wrongly! 0.6374428261879075
+[06Jan2025 00:55:39.663] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/portalroom
+[06Jan2025 00:55:39.665] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room6
+[06Jan2025 00:55:39.666] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway1
+[06Jan2025 00:55:39.667] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway5
+[06Jan2025 00:55:39.668] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway6
+[06Jan2025 00:55:39.669] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway3
+[06Jan2025 00:55:39.669] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway2
+[06Jan2025 00:55:39.670] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/hallway4
+[06Jan2025 00:55:39.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room5
+[06Jan2025 00:55:39.676] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room4
+[06Jan2025 00:55:39.678] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/smeltery
+[06Jan2025 00:55:39.683] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room8
+[06Jan2025 00:55:39.685] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room10
+[06Jan2025 00:55:39.686] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room7
+[06Jan2025 00:55:39.687] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room3
+[06Jan2025 00:55:39.688] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room2
+[06Jan2025 00:55:39.689] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room9
+[06Jan2025 00:55:39.691] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/library
+[06Jan2025 00:55:39.692] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of vsrevamped:stronghold/room1
+[06Jan2025 00:55:43.620] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:village/ocean/centers/center
+[06Jan2025 00:55:54.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_brick_8
+[06Jan2025 00:55:54.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_cracked_8
+[06Jan2025 00:55:54.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:underwater_ruin/big_mossy_8
+[06Jan2025 00:55:54.641] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/city_center_6
