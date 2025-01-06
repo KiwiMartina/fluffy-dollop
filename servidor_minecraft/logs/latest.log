@@ -1168,3 +1168,35 @@
 [06Jan2025 01:48:13.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1824, y=56, z=4735}
 [06Jan2025 01:48:13.926] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jan2025 01:48:40.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 01:48:56.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[06Jan2025 01:49:12.755] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[06Jan2025 01:49:34.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 01:49:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 has made the advancement [Minecraft Comes Alive]
+[06Jan2025 01:49:38.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Clash of the Titans]
+[06Jan2025 01:49:59.303] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-183,-56,672],type:"minecraft:block"}}]
+[06Jan2025 01:49:59.303] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-182,-56,672],type:"minecraft:block"}}]
+[06Jan2025 01:50:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [Take Aim]
+[06Jan2025 01:50:13.002] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-178,-56,675],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.002] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-167,-56,676],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.030] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-179,-56,658],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.030] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-175,-56,664],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.030] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-56,656],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.031] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-174,-56,664],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.031] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-169,-56,659],type:"minecraft:block"}}]
+[06Jan2025 01:50:13.031] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-168,-56,659],type:"minecraft:block"}}]
+[06Jan2025 01:50:15.770] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vlada'/161892, l='ServerLevel[world]', x=-9508.69, y=89.44, z=2467.46] died, message: 'Vlada went up in flames'
+[06Jan2025 01:51:06.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Izidorius'/161896, l='ServerLevel[world]', x=-9510.14, y=89.61, z=2468.61] died, message: 'Izidorius went up in flames'
+[06Jan2025 01:51:38.407] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[06Jan2025 01:51:38.408] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[06Jan2025 01:51:59.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stanislovas'/161778, l='ServerLevel[world]', x=-9509.48, y=89.44, z=2468.50] died, message: 'Stanislovas went up in flames'
+[06Jan2025 01:52:14.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger has made the advancement [Sea? Not a Problem]
+[06Jan2025 01:54:12.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was killed by Witch using magic
+[06Jan2025 01:54:43.145] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[06Jan2025 01:55:42.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalija'/162403, l='ServerLevel[world]', x=-9534.27, y=67.92, z=2378.60] died, message: 'Natalija went up in flames'
+[06Jan2025 01:56:00.277] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-164,-56,677],type:"minecraft:block"}}]
+[06Jan2025 01:56:00.295] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-165,-56,659],type:"minecraft:block"}}]
+[06Jan2025 01:56:00.295] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-165,-56,660],type:"minecraft:block"}}]
+[06Jan2025 01:56:39.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ErickJaeger was slain by Hydra
+[06Jan2025 01:57:23.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 01:59:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
+[06Jan2025 01:59:12.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> aca

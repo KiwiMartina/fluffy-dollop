@@ -2401,6 +2401,7 @@
       "sweet_berries": "2025-01-04 05:34:50 +0000",
       "cooked_beef": "2025-01-04 04:36:28 +0000",
       "beef": "2025-01-04 04:33:30 +0000",
+      "baked_potato": "2025-01-06 01:53:12 +0000",
       "porkchop": "2025-01-04 04:33:57 +0000",
       "apple": "2025-01-05 00:33:27 +0000",
       "rabbit": "2025-01-04 04:39:22 +0000",
@@ -7986,6 +7987,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-06 01:53:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-06 01:08:33 +0000"
@@ -8271,6 +8278,12 @@
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-01-06 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-06 01:53:08 +0000"
     },
     "done": true
   },

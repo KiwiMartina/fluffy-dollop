@@ -1284,6 +1284,7 @@
       "minecraft:creeper": "2024-12-30 03:10:12 +0000",
       "minecraft:slime": "2025-01-05 03:19:16 +0000",
       "minecraft:phantom": "2025-01-05 01:01:03 +0000",
+      "minecraft:witch": "2025-01-06 01:53:54 +0000",
       "minecraft:wither_skeleton": "2025-01-04 22:47:27 +0000",
       "minecraft:enderman": "2024-12-30 04:34:55 +0000",
       "minecraft:zombie": "2024-12-30 03:10:20 +0000"
@@ -8368,6 +8369,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 01:52:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 01:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-01-06 01:01:47 +0000"
@@ -8398,9 +8411,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 01:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-06 00:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-06 01:47:09 +0000"
     },
     "done": true
   },
@@ -8428,9 +8453,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 01:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-06 00:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-06 01:53:55 +0000"
     },
     "done": true
   },
@@ -8476,15 +8513,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-01-06 01:52:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 01:52:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-01-06 01:52:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
     "criteria": {
       "forge:dyes/blue": "2025-01-06 00:41:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-06 01:53:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-01-06 01:00:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-06 01:49:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-01-06 01:52:15 +0000"
     },
     "done": true
   },

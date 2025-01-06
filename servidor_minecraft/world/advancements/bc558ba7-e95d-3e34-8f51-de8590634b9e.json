@@ -5334,6 +5334,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-06 01:51:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-06 00:38:26 +0000"
@@ -5343,6 +5349,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-06 00:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-06 01:51:01 +0000"
     },
     "done": true
   },
