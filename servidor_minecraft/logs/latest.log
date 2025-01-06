@@ -973,3 +973,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 22:41:54.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/craftingtweaks/api/ButtonAlignment
 [06Jan2025 22:44:07.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [06Jan2025 22:44:07.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <EXPRIMEVACAS> zzz
+[06Jan2025 22:51:59.293] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[06Jan2025 22:54:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 22:56:57.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 22:57:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [Merchant]
+[06Jan2025 22:57:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Hitoshi ponte armadura
+[06Jan2025 22:58:08.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> Hitoshi ponte tu armadura

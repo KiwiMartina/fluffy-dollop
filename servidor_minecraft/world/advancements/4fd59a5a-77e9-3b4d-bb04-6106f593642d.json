@@ -1569,7 +1569,8 @@
       "cooked_porkchop": "2025-01-04 22:59:11 +0000",
       "cooked_beef": "2025-01-06 01:59:24 +0000",
       "bread": "2025-01-04 23:48:14 +0000",
-      "golden_apple": "2025-01-05 03:41:56 +0000"
+      "golden_apple": "2025-01-05 03:41:56 +0000",
+      "carrot": "2025-01-06 22:55:56 +0000"
     },
     "done": false
   },
@@ -7932,6 +7933,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_wood_table_modern_dinner": {
+    "criteria": {
+      "dark_wood_table_modern_dinner": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_chair": {
+    "criteria": {
+      "quartz_chair": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-01-06 22:45:48 +0000"
@@ -7944,9 +7957,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_wood_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-06 22:47:41 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/mangrove_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-06 22:52:22 +0000"
     },
     "done": true
   },
@@ -7956,15 +7993,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/basic_bathtub": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_table_classic": {
+    "criteria": {
+      "quartz_table_classic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/basic_sink": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/diorite_chair": {
     "criteria": {
       "diorite_chair": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_chair_classic": {
+    "criteria": {
+      "quartz_chair_classic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_chair_modern": {
+    "criteria": {
+      "dark_wood_chair_modern": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -7980,6 +8047,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/cod": {
+    "criteria": {
+      "has_cod": "2025-01-06 22:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
@@ -7992,9 +8065,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/quartz_table_basic": {
+    "criteria": {
+      "quartz_table_basic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/jungle_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_chair_classic": {
+    "criteria": {
+      "light_wood_chair_classic": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8034,9 +8119,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_wood_table_dinner": {
+    "criteria": {
+      "dark_wood_table_dinner": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-06 22:53:22 +0000"
     },
     "done": true
   },
@@ -8052,6 +8149,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-06 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_chair": {
+    "criteria": {
+      "dark_wood_chair": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_classic_nightstand": {
+    "criteria": {
+      "quartz_classic_nightstand": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_table_dinner": {
+    "criteria": {
+      "light_wood_table_dinner": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
@@ -8061,6 +8182,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_table_natural": {
+    "criteria": {
+      "dark_wood_table_natural": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8094,6 +8221,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/quartz_chair_dinner": {
+    "criteria": {
+      "quartz_chair_dinner": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-06 22:32:54 +0000"
@@ -8124,9 +8257,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_chair": {
+    "criteria": {
+      "light_wood_chair": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_chair_modern": {
+    "criteria": {
+      "light_wood_chair_modern": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/basic_toilet": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8148,9 +8317,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/quartz_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/nether_quartz_ore": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_classic_nightstand": {
+    "criteria": {
+      "light_wood_classic_nightstand": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-06 22:53:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-06 22:52:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_classic_nightstand": {
+    "criteria": {
+      "dark_wood_classic_nightstand": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8163,6 +8374,12 @@
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-06 22:32:54 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_table_natural": {
+    "criteria": {
+      "light_wood_table_natural": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8184,9 +8401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-06 22:53:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/diorite_table_classic": {
     "criteria": {
       "diorite_table_classic": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_chair_dinner": {
+    "criteria": {
+      "dark_wood_chair_dinner": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8199,6 +8428,12 @@
   "supplementaries:recipes/ash_brick_slab": {
     "criteria": {
       "has_ash_bricks": "2025-01-06 22:43:10 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8226,6 +8461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/pewen_alexscaves_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
@@ -8241,6 +8482,30 @@
   "pfm:recipes/furniture/dreadwood_iceandfire_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-06 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_table_classic": {
+    "criteria": {
+      "dark_wood_table_classic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_table_natural": {
+    "criteria": {
+      "quartz_table_natural": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8268,9 +8533,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/quartz_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_table_basic": {
+    "criteria": {
+      "light_wood_table_basic": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8283,6 +8560,18 @@
   "pfm:recipes/furniture/pewen_alexscaves_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_table_modern_dinner": {
+    "criteria": {
+      "quartz_table_modern_dinner": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8304,6 +8593,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-01-06 22:47:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_chair_modern": {
+    "criteria": {
+      "quartz_chair_modern": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_table_basic": {
+    "criteria": {
+      "dark_wood_table_basic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/thornwood_alexscaves_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
@@ -8313,6 +8626,12 @@
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2025-01-06 22:47:11 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_chair_dinner": {
+    "criteria": {
+      "light_wood_chair_dinner": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8364,9 +8683,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-06 22:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-01-06 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_table_dinner": {
+    "criteria": {
+      "quartz_table_dinner": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/quartz_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
@@ -8376,9 +8713,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/light_wood_table_modern_dinner": {
+    "criteria": {
+      "light_wood_table_modern_dinner": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_table_classic": {
+    "criteria": {
+      "light_wood_table_classic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-06 22:52:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_wood_chair_classic": {
+    "criteria": {
+      "dark_wood_chair_classic": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/light_wood_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-01-06 22:47:45 +0000"
     },
     "done": true
   },
