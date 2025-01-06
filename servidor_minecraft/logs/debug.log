@@ -24947,3 +24947,71 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 05:03:27.270] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
 [06Jan2025 05:03:33.042] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
 [06Jan2025 05:03:33.541] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[06Jan2025 05:06:41.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito was slain by ErickJaeger
+[06Jan2025 05:07:14.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 05:07:14.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 05:08:50.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jan2025 05:08:50.986] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jan2025 05:09:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito has made the advancement [Uranium Fever]
+[06Jan2025 05:10:12.284] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_3
+[06Jan2025 05:10:12.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tools
+[06Jan2025 05:10:12.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_iron
+[06Jan2025 05:10:12.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1_alt
+[06Jan2025 05:10:12.286] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/prison
+[06Jan2025 05:10:12.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_brown_mushroom
+[06Jan2025 05:10:12.287] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_tnt
+[06Jan2025 05:10:12.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/iron_golem
+[06Jan2025 05:10:12.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[06Jan2025 05:10:12.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_smelting
+[06Jan2025 05:10:12.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_armor
+[06Jan2025 05:10:12.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance
+[06Jan2025 05:10:12.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_2
+[06Jan2025 05:10:12.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/entrance_1_alt
+[06Jan2025 05:10:12.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils_2
+[06Jan2025 05:10:12.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_archer
+[06Jan2025 05:10:12.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_prison
+[06Jan2025 05:10:12.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_bedroom_3
+[06Jan2025 05:10:12.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_1
+[06Jan2025 05:10:12.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_fossils
+[06Jan2025 05:10:12.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/music
+[06Jan2025 05:10:12.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_gold
+[06Jan2025 05:10:12.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_weapons
+[06Jan2025 05:10:12.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_3
+[06Jan2025 05:10:12.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/farm_carrot
+[06Jan2025 05:10:12.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_3
+[06Jan2025 05:10:12.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/camp
+[06Jan2025 05:10:12.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down
+[06Jan2025 05:10:12.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[06Jan2025 05:10:12.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path_1
+[06Jan2025 05:10:12.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/trap/trap_4
+[06Jan2025 05:10:12.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/down_2
+[06Jan2025 05:10:12.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/big_rooms/potions
+[06Jan2025 05:10:12.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/turn_1
+[06Jan2025 05:10:12.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/room_crafting
+[06Jan2025 05:10:12.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/path
+[06Jan2025 05:10:12.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[06Jan2025 05:10:12.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 05:10:18.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ayuda gente
+[06Jan2025 05:10:25.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> kien pa dragon e fuego
+[06Jan2025 05:10:33.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> mina p
+[06Jan2025 05:10:43.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 05:11:03.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon has made the advancement [What a Handful]
+[06Jan2025 05:11:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EdrianferXD10 has reached the goal [Sky's the Limit]
+[06Jan2025 05:12:14.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 05:12:14.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 05:12:30.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 05:12:43.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ya fue p
+[06Jan2025 05:12:48.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> se despawneo :v
+[06Jan2025 05:13:11.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 05:13:11.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 05:13:20.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ta arriba
+[06Jan2025 05:13:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> :,v
+[06Jan2025 05:13:28.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oe
+[06Jan2025 05:13:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> ven p
+[06Jan2025 05:14:01.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> 439 vida
+[06Jan2025 05:14:57.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EdrianferXD10 moved too quickly! 17.07291444969212,-0.7820801294252391,-5.592197698916607
+[06Jan2025 05:14:59.673] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[06Jan2025 05:15:00.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[06Jan2025 05:15:01.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[06Jan2025 05:15:02.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Jan2025 05:15:02.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
