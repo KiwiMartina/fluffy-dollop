@@ -163,6 +163,7 @@
       "minecraft:zombified_piglin": "2025-01-06 04:26:15 +0000",
       "minecraft:witch": "2025-01-06 01:40:10 +0000",
       "minecraft:wither_skeleton": "2025-01-05 04:57:13 +0000",
+      "minecraft:husk": "2025-01-06 05:20:38 +0000",
       "minecraft:cave_spider": "2025-01-04 03:52:31 +0000",
       "minecraft:stray": "2025-01-05 02:17:35 +0000",
       "minecraft:silverfish": "2025-01-05 02:28:35 +0000",
@@ -5933,6 +5934,12 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_mud_mineshaft": "2025-01-06 05:21:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:43:26 +0000"
@@ -5948,6 +5955,24 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-06 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-06 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-01-06 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-01-06 05:19:38 +0000"
     },
     "done": true
   },
@@ -5972,6 +5997,30 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-06 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-06 05:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-06 05:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-06 05:21:10 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_mud_mineshaft": "2025-01-06 05:21:49 +0000"
     },
     "done": true
   },
@@ -6020,6 +6069,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-01-06 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-01-06 05:19:38 +0000"
     },
     "done": true
   },
@@ -6110,6 +6165,12 @@
   "l2weaponry:recipes/misc/generated/recycle/iron_battle_axe": {
     "criteria": {
       "has_iron_battle_axe": "2025-01-06 04:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-06 05:18:31 +0000"
     },
     "done": true
   },
