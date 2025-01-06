@@ -72,6 +72,8 @@
       "minecraft:frozen_river": "2025-01-06 01:45:41 +0000",
       "minecraft:sunflower_plains": "2025-01-05 03:07:17 +0000",
       "minecraft:birch_forest": "2025-01-01 23:16:45 +0000",
+      "minecraft:wooded_badlands": "2025-01-06 03:58:55 +0000",
+      "minecraft:badlands": "2025-01-06 03:59:02 +0000",
       "minecraft:savanna_plateau": "2025-01-01 21:54:03 +0000",
       "minecraft:beach": "2025-01-01 20:06:26 +0000",
       "minecraft:mangrove_swamp": "2025-01-01 22:42:03 +0000",
@@ -1397,6 +1399,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-05 03:53:54 +0000",
       "minecraft:skeleton": "2025-01-01 20:41:56 +0000",
+      "minecraft:zoglin": "2025-01-06 04:24:56 +0000",
       "minecraft:ghast": "2025-01-05 04:06:29 +0000",
       "minecraft:vindicator": "2025-01-05 04:06:07 +0000",
       "minecraft:spider": "2025-01-01 22:20:24 +0000",
@@ -7553,6 +7556,30 @@
     },
     "done": true
   },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_mud_mineshaft": "2025-01-06 04:34:00 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_sword": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-06 04:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:28:17 +0000"
@@ -7631,9 +7658,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-01-06 04:35:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:28:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 04:31:57 +0000"
     },
     "done": true
   },
@@ -7655,9 +7700,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "resin": "2025-01-06 03:54:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-01-06 04:22:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-01-06 02:56:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
     },
     "done": true
   },
@@ -7667,9 +7742,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 04:02:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_white_boots": {
     "criteria": {
       "has_item": "2025-01-06 03:44:35 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_mud_mineshaft": "2025-01-06 04:34:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-06 04:34:57 +0000"
     },
     "done": true
   },
@@ -7727,6 +7820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-06 04:34:57 +0000"
+    },
+    "done": true
+  },
   "mca:root": {
     "criteria": {
       "village_snowy": "2025-01-06 01:49:36 +0000"
@@ -7775,6 +7874,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-06 01:53:48 +0000"
@@ -7784,6 +7889,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:53:48 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-01-06 04:24:30 +0000"
     },
     "done": true
   },
@@ -7835,15 +7946,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 04:31:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-06 01:44:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-06 04:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-06 01:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-01-06 04:15:30 +0000"
     },
     "done": true
   },
@@ -7859,6 +7994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-06 04:34:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-01-06 01:36:53 +0000"
@@ -7868,6 +8009,30 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-06 01:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 04:15:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 04:15:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_desert": {
+    "criteria": {
+      "has_item": "2025-01-06 03:54:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
     },
     "done": true
   },
@@ -7913,6 +8078,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-01-06 04:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:28:17 +0000"
@@ -7925,9 +8096,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-01-06 04:34:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-01-06 04:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-06 01:53:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
     },
     "done": true
   },
@@ -7943,6 +8138,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-06 04:23:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 03:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 02:28:17 +0000"
@@ -7952,6 +8159,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-01-06 02:14:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 04:02:43 +0000"
     },
     "done": true
   },
@@ -7991,9 +8204,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-01-06 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 04:31:57 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-01-06 01:50:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 04:15:30 +0000"
     },
     "done": true
   },
@@ -8009,6 +8240,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 04:15:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-01-06 02:10:42 +0000"
@@ -8018,6 +8255,18 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-01-06 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 04:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-06 04:23:12 +0000"
     },
     "done": true
   },

@@ -2961,10 +2961,12 @@
       "minecraft:creeper": "2025-01-04 05:33:55 +0000",
       "minecraft:phantom": "2025-01-05 04:54:34 +0000",
       "minecraft:zombified_piglin": "2025-01-05 04:53:10 +0000",
+      "minecraft:wither_skeleton": "2025-01-06 04:28:39 +0000",
       "minecraft:husk": "2025-01-06 03:42:25 +0000",
       "minecraft:cave_spider": "2025-01-06 01:00:54 +0000",
       "minecraft:silverfish": "2025-01-04 05:32:12 +0000",
-      "minecraft:zombie": "2025-01-04 23:56:59 +0000"
+      "minecraft:zombie": "2025-01-04 23:56:59 +0000",
+      "minecraft:drowned": "2025-01-06 04:41:42 +0000"
     },
     "done": false
   },
@@ -5436,6 +5438,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-01-06 04:08:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-01-06 02:30:50 +0000"
@@ -5520,6 +5528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-06 04:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-01-06 02:30:50 +0000"
@@ -5550,6 +5564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-06 04:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-06 02:59:24 +0000"
@@ -5559,6 +5579,12 @@
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
       "has_item": "2025-01-06 03:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-06 04:09:51 +0000"
     },
     "done": true
   },
@@ -5583,6 +5609,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-06 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-06 04:09:51 +0000"
     },
     "done": true
   },
