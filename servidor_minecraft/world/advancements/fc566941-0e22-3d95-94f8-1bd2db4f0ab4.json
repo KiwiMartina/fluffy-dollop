@@ -8870,6 +8870,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-01-06 23:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
@@ -8909,6 +8915,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-01-06 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-06 23:48:14 +0000"
     },
     "done": true
   },
@@ -8966,6 +8978,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-01-06 23:48:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/birch_chair_modern": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
@@ -8987,6 +9005,12 @@
   "pfm:recipes/furniture/birch_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-01-06 23:48:14 +0000"
     },
     "done": true
   },
@@ -9101,6 +9125,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-06 23:18:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-01-06 23:48:14 +0000"
     },
     "done": true
   },

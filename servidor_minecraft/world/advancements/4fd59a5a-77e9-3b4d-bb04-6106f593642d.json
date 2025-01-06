@@ -8035,6 +8035,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-01-06 23:55:38 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/diorite_chair": {
     "criteria": {
       "diorite_chair": "2025-01-06 22:45:48 +0000"
@@ -8233,6 +8239,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-01-06 23:55:38 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_natural": {
     "criteria": {
       "dark_wood_table_natural": "2025-01-06 22:47:45 +0000"
@@ -8254,6 +8266,12 @@
   "pfm:recipes/furniture/spruce_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-01-06 22:33:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-01-06 23:49:06 +0000"
     },
     "done": true
   },
@@ -8392,6 +8410,12 @@
   "pfm:recipes/furniture/light_wood_classic_nightstand": {
     "criteria": {
       "light_wood_classic_nightstand": "2025-01-06 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-01-06 23:49:06 +0000"
     },
     "done": true
   },
@@ -8701,6 +8725,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-01-06 23:55:38 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_wood_table_basic": {
     "criteria": {
       "dark_wood_table_basic": "2025-01-06 22:47:45 +0000"
@@ -8716,6 +8746,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-06 23:01:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-06 23:55:38 +0000"
     },
     "done": true
   },

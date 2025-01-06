@@ -6839,6 +6839,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/misc/generated/recycle/iron_hammer": {
+    "criteria": {
+      "has_iron_hammer": "2025-01-06 23:50:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-01-06 23:36:59 +0000"
