@@ -1034,3 +1034,13 @@
 [06Jan2025 01:03:59.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
 [06Jan2025 01:05:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
 [06Jan2025 01:05:51.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Creative Mode]
+[06Jan2025 01:09:02.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cepatito[/172.22.106.123:62439] logged in with entity id 110788 at (862.348540492803, 69.0625, 4878.547423093593)
+[06Jan2025 01:09:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito joined the game
+[06Jan2025 01:12:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[06Jan2025 01:13:09.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/SpatialType
+[06Jan2025 01:13:13.016] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingStateType
+[06Jan2025 01:13:13.246] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicRingResponseStateType
+[06Jan2025 01:14:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [DJ! DJ!]
+[06Jan2025 01:15:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ErickJaeger> zzzzzzzzzzzzzzzzzzzzzz
+[06Jan2025 01:15:32.142] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
+[06Jan2025 01:17:50.512] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:cursed_pyramid took 393 ms

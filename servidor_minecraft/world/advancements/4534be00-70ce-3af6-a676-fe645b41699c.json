@@ -5841,81 +5841,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "chimes:recipes/decorations/glass_bells": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+      "has_bottle": "2025-01-05 04:22:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "l2complements:recipes/misc/craft/wind_capture_bottle": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
+      "has_glass_bottle": "2025-01-05 04:22:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-05 05:07:01 +0000"
-    },
-    "done": false
-  },
-  "pfm:recipes/building_blocks/birch_herringbone_planks": {
-    "criteria": {
-      "has_wood_slabs": "2025-01-05 05:03:47 +0000"
+      "has_item": "2025-01-05 04:22:26 +0000"
     },
     "done": true
   },
@@ -5925,39 +5865,9 @@
     },
     "done": true
   },
-  "goblins_tyranny:goblins_slayer_success": {
-    "criteria": {
-      "goblins_slayer_success_0": "2025-01-05 04:25:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/uneasy_alliance": {
-    "criteria": {
-      "killed_ghast": "2025-01-05 04:57:04 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-01-05 04:22:42 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/glass_bells": {
-    "criteria": {
-      "has_bottle": "2025-01-05 04:22:01 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/ghast_tear": {
-    "criteria": {
-      "has_ghast_tear": "2025-01-05 04:57:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-01-05 05:06:20 +0000"
     },
     "done": true
   },
@@ -5979,21 +5889,141 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-05 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-01-05 04:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-01-05 04:57:04 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
     "criteria": {
-      "has_item": "2025-01-05 04:22:26 +0000"
+      "has_ghast_tear": "2025-01-05 04:57:05 +0000"
     },
     "done": true
   },
-  "l2complements:recipes/misc/craft/wind_capture_bottle": {
+  "pfm:recipes/building_blocks/birch_herringbone_planks": {
     "criteria": {
-      "has_glass_bottle": "2025-01-05 04:22:01 +0000"
+      "has_wood_slabs": "2025-01-05 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-05 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-06 01:14:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-06 01:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-06 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-06 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-06 01:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-06 01:10:04 +0000"
     },
     "done": true
   },
