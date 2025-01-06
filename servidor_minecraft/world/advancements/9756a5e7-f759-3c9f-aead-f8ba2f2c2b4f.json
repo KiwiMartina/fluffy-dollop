@@ -8307,6 +8307,12 @@
     },
     "done": true
   },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-01-06 00:16:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-05 23:05:18 +0000"
