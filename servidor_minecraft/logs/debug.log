@@ -11994,3 +11994,108 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [06Jan2025 23:59:37.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> dame pa el ender reach
 [06Jan2025 23:59:43.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> oka :v
 [06Jan2025 23:59:54.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> tepeate
+[06Jan2025 23:59:58.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ErickJaeger: Set own game mode to Survival Mode]
+[07Jan2025 00:00:06.923] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/turn_1
+[07Jan2025 00:00:06.929] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/pathlong_3
+[07Jan2025 00:00:06.932] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/turn
+[07Jan2025 00:00:06.937] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[07Jan2025 00:00:06.945] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/pathlong_2
+[07Jan2025 00:00:06.949] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/turn_1
+[07Jan2025 00:00:06.952] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/turn_1
+[07Jan2025 00:00:11.857] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[07Jan2025 00:00:11.861] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[07Jan2025 00:00:11.862] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[07Jan2025 00:00:11.862] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[07Jan2025 00:00:11.863] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'obscure_api:regeneration'
+[07Jan2025 00:00:11.863] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'caelus:fall_flying'
+[07Jan2025 00:00:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS has made the advancement [A Seedy Place]
+[07Jan2025 00:00:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> ender
+[07Jan2025 00:00:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <cepatito> ender reach
+[07Jan2025 00:02:03.398] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[07Jan2025 00:02:03.398] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Jan2025 00:02:18.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 00:02:18.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 00:03:26.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <MotoMoto_7> el cofre
+[07Jan2025 00:04:28.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.7265000538683262
+[07Jan2025 00:04:29.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6938406032509788
+[07Jan2025 00:04:29.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.37034171776211106
+[07Jan2025 00:04:31.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.47656654127033005
+[07Jan2025 00:04:33.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6515882560816789
+[07Jan2025 00:04:33.918] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_1
+[07Jan2025 00:04:33.946] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ruined_portal/portal_3
+[07Jan2025 00:04:34.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.30605766394169764
+[07Jan2025 00:04:34.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6296743264125247
+[07Jan2025 00:04:35.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of MotoMoto_7) moved wrongly! 0.6961744375769906
+[07Jan2025 00:05:01.674] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[07Jan2025 00:05:01.675] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mud/pathlong_2
+[07Jan2025 00:05:01.678] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/pathlong_1
+[07Jan2025 00:05:01.679] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[07Jan2025 00:05:01.681] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/path_1
+[07Jan2025 00:05:01.681] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[07Jan2025 00:05:01.682] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/entrance_1_alt
+[07Jan2025 00:05:06.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EXPRIMEVACAS lost connection: Disconnected
+[07Jan2025 00:05:06.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EXPRIMEVACAS left the game
+[07Jan2025 00:05:21.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cepatito lost connection: Disconnected
+[07Jan2025 00:05:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cepatito left the game
+[07Jan2025 00:05:23.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MotoMoto_7 lost connection: Disconnected
+[07Jan2025 00:05:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MotoMoto_7 left the game
+[07Jan2025 00:05:27.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jan2025 00:05:27.212] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[07Jan2025 00:05:27.214] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 9756a5e7-f759-3c9f-aead-f8ba2f2c2b4f
+[07Jan2025 00:05:27.215] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 0b236d43-1c1e-35d6-8512-41002099c114
+[07Jan2025 00:05:27.231] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[07Jan2025 00:05:27.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jan2025 00:05:27.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jan2025 00:05:27.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkMoon lost connection: Server closed
+[07Jan2025 00:05:27.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkMoon left the game
+[07Jan2025 00:05:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jan2025 00:05:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jan2025 00:05:27.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jan2025 00:05:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jan2025 00:05:27.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 00:05:27.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 00:05:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jan2025 00:05:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jan2025 00:05:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jan2025 00:05:27.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jan2025 00:05:27.779] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[07Jan2025 00:05:27.779] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[07Jan2025 00:05:27.816] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[07Jan2025 00:05:27.816] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[07Jan2025 00:05:27.816] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[07Jan2025 00:05:27.816] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[07Jan2025 00:05:27.819] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jan2025 00:05:27.819] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/fluffy-dollop/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23257!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23336!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23331!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[07Jan2025 00:05:27.820] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[07Jan2025 00:05:27.821] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Jan2025 00:05:27.822] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
